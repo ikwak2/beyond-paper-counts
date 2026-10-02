@@ -1,10 +1,15 @@
 # Frozen tables and current numbering
 
-This ZIP contains five original main-table CSVs (tables/), eighteen supplementary
+This directory contains five original main-table CSVs (tables/), eighteen supplementary
 CSV datasets (additional_files/), and main_table_source_mapping.csv.
 The current manuscript has six main tables: Table 3(a-b) relocates frozen supplementary
 CSV S10; Table 5(c) relocates semantic_primary results from supplementary CSV S5.
-Frozen CSV bytes, filenames, and estimates are unchanged.
+The five main CSVs and seventeen supplementary CSVs other than S10b retain their
+original bytes. S10b's `critical_delta` and `critical_delta_relative_to_share`
+now use the boundary-aware closed form. The maximum absolute threshold change
+is 7.913e-12; printed manuscript numbers are unchanged. Original S10b bytes are
+preserved at `../provenance/baselines/table_s10b_brentq.csv`, and the comparison is
+in `qa/closed_form_comparison.csv`. The table mapping note records this update.
 
 table_s10b_restricted_missingness_bounds.csv (Table 3c) is the one CSV added since v05.
 It is not a new data collection. Observed group shares, accepted shares, and annual
