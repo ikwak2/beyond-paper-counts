@@ -31,7 +31,7 @@ import sys
 sys.dont_write_bytecode = True
 import numpy as np
 import pandas as pd
-from scipy.optimize import brentq, fsolve
+from scipy.optimize import fsolve
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "outputs"
@@ -140,18 +140,66 @@ def codirectional(row):
                 codirectional_change_at_high=change(hi))
 
 
+def critical_delta_details(row):
+    """Closed-form zero-crossing threshold, including allocation boundaries.
+
+    Write N = a24*s18 - a18*s24, sigma = sign(N), w18 = a24*r18,
+    and w24 = a18*r24. The corner that moves the change toward zero has
+
+        q18 = s18 - sigma*min(delta, b18),
+        q24 = s24 + sigma*min(delta, b24),
+
+    where (b18, b24) is (s18, 1-s24) for an increase, and (1-s18, s24)
+    for a decrease. With positive denominators, equality of the two PRIs
+    is equivalent to the piecewise-linear equation
+
+        |N| = w18*min(delta, b18) + w24*min(delta, b24).
+
+    Before either boundary, delta = |N|/(w18+w24), as in the manuscript.
+    Once one allocation saturates, subtract its fixed contribution and
+    divide by the remaining weight. A target beyond the total attainable
+    contribution has no threshold, even at delta=1. No root finder is used.
+    """
+    a18, a24, s18, s24, r18, r24 = (
+        float(row[k]) for k in ('a18', 'a24', 's18', 's24', 'r18', 'r24'))
+    if not all(np.isfinite(v) for v in (a18, a24, s18, s24, r18, r24)):
+        raise ValueError('Threshold inputs must be finite')
+    if not (a18 >= 0 and a24 >= 0 and 0 < s18 <= 1 and 0 < s24 <= 1
+            and 0 <= r18 < 1 and 0 <= r24 < 1):
+        raise ValueError('Require nonnegative accepted shares, 0 < s <= 1 and 0 <= r < 1')
+    n = a24 * s18 - a18 * s24
+    if n == 0:
+        return dict(critical_delta=0.0, interior_candidate=0.0,
+                    boundary_2018=None, boundary_2024=None, regime='already_zero')
+    b18, b24 = (s18, 1 - s24) if n > 0 else (1 - s18, s24)
+    w18, w24 = a24 * r18, a18 * r24
+    target = abs(n)
+    weight = w18 + w24
+    candidate = target / weight if weight else None
+    details = dict(interior_candidate=candidate, boundary_2018=b18, boundary_2024=b24)
+    capacity = w18 * b18 + w24 * b24
+    # Allow only machine-rounding error at the exactly-saturated endpoint.
+    tolerance = 32 * np.finfo(float).eps * max(target, capacity)
+    if not weight or target > capacity + tolerance:
+        return dict(critical_delta=None, regime='unreachable', **details)
+    target = min(target, capacity)
+    interior = target / weight
+    if interior <= min(b18, b24):
+        delta, regime = interior, 'interior'
+    elif b18 < b24:
+        if w24 == 0:
+            return dict(critical_delta=None, regime='unreachable', **details)
+        delta, regime = (target - w18 * b18) / w24, '2018_clipped'
+    else:
+        if w18 == 0:
+            return dict(critical_delta=None, regime='unreachable', **details)
+        delta, regime = (target - w24 * b24) / w18, '2024_clipped'
+    return dict(critical_delta=float(min(delta, max(b18, b24))), regime=regime, **details)
+
+
 def critical_delta(row):
-    """Smallest delta at which the bound stops excluding zero, or None."""
-    obs = row['observed_change']
-    lo0, hi0 = change_bound(row, 0.0)
-    if not (lo0 > 0 or hi0 < 0):
-        return None
-    def f(delta):
-        lo, hi = change_bound(row, delta)
-        return lo if obs > 0 else -hi
-    if f(1.0) > 0:
-        return None
-    return float(brentq(f, 0.0, 1.0, xtol=1e-10))
+    """Smallest delta at which the bound includes zero; None if unreachable."""
+    return critical_delta_details(row)['critical_delta']
 
 
 def main():
@@ -228,7 +276,10 @@ def main():
     }
     report = {
         'scope': 'Restricted +/- delta denominator-missingness bound. Reconstructed from frozen '
-                 'table S10; no data is re-collected and no frozen estimate is modified.',
+                 'table S10; no data is re-collected. Critical deltas use a boundary-aware '
+                 'closed form; S10 input estimates and delta-grid bounds are unchanged.',
+        'critical_delta_method': 'piecewise_closed_form_with_allocation_boundaries',
+        'missingness_recovery_method': 'unchanged fsolve reconstruction from frozen S10',
         'checks': checks,
         'source_sha256': {str(BOUNDS.relative_to(ROOT)): sha(BOUNDS)},
         'recovered_missingness_rate': {'2018': r18, '2024': r24},

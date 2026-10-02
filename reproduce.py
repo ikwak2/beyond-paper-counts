@@ -16,7 +16,7 @@ def main():
     env = dict(os.environ, MPLBACKEND="Agg", PYTHONDONTWRITEBYTECODE="1")
     steps = ["scripts/validate_release.py"]
     if not args.check_only:
-        steps += ["scripts/build_pri.py", "scripts/build_restricted_bounds.py",
+        steps += ["scripts/build_pri.py", "scripts/build_restricted_bounds.py", "scripts/audit_closed_form.py",
                   "scripts/build_figure1.py", "scripts/build_figure2.py",
                   "scripts/build_distance_figures.py"]
     for step in steps:

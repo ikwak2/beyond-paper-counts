@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "combinations": 8,
+  "finite_thresholds": 7,
+  "no_threshold": 1,
+  "max_absolute_difference": 7.912781541108416e-12,
+  "max_zero_residual": 4.440892098500626e-16,
+  "boundary_cases": {
+    "interior": 4,
+    "2024_clipped": 2,
+    "unreachable": 1,
+    "2018_clipped": 1
+  },
+  "reported_rounding_unchanged": true,
+  "missingness_rates_unchanged": {
+    "2018": 0.35338130632631404,
+    "2024": 0.2320766536268542
+  },
+  "baseline": "provenance/baselines/table_s10b_brentq.csv",
+  "production_method": "piecewise_closed_form",
+  "archived_reference_method": "scipy.optimize.brentq, xtol=1e-10"
+}

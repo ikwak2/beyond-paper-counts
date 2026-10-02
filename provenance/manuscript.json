@@ -5,5 +5,15 @@
   "table_package": "epj_data_science_submission_v06/Additional_file_2_machine_readable_tables.zip",
   "table_package_sha256": "e5ab46c7730a9a2e837ac9e3879a49b5e4f2aa5540a76a67ed14bdac08db7062",
   "publication_date": null,
-  "archive_doi": null
+  "archive_doi": null,
+  "derived_updates": [
+    {
+      "date": "2026-10-02",
+      "file": "results/additional_files/table_s10b_restricted_missingness_bounds.csv",
+      "method": "piecewise closed form with 0/1 allocation boundaries",
+      "baseline": "provenance/baselines/table_s10b_brentq.csv",
+      "comparison": "results/qa/closed_form_comparison.csv",
+      "displayed_manuscript_numbers_changed": false
+    }
+  ]
 }

@@ -10,6 +10,12 @@ including its three-panel Figure 2 and restricted missingness analysis (Table 3c
 supplementary CSV S10b). The attached PDF's filename is a template filename;
 the manuscript text and its frozen numerical tables define this release.
 
+The S10b critical thresholds now use the manuscript's **closed-form equation
+with 0/1 allocation boundaries**. Across all eight group/counting combinations,
+the largest change from the original Brent solver is 7.92 × 10⁻¹². Reported
+rounding and conclusions are unchanged. See the
+[calculation comparison](docs/CLOSED_FORM_CHECK_KO.md).
+
 ## Quick start: offline reproduction
 
 Use Python 3.11. No API key, network collection, GPU, or individual records are
@@ -30,7 +36,7 @@ The full command recalculates the **12 annual API-aggregate PRI specifications**
 checks their endpoints against the 44-specification dashboard, reconstructs
 restricted missingness bounds from frozen S10, and regenerates Figures 1, 2, 4,
 Figure 3B's distance trajectory, and supplementary Figure S3. Generated numeric
-tables are checked against the distributed frozen tables. Figure 4's layout is
+tables are checked against the distributed reference tables. Figure 4's layout is
 refreshed while its estimates and intervals are unchanged.
 
 The full manuscript Figure 3, including the pilot calibration scatterplot, is
@@ -61,7 +67,7 @@ main tables** through
 | --- | --- | --- |
 | 21 annual country-level API responses: 3 definitions × 2018–2024 | Yes | Country counts and 12 annual PRI specifications |
 | Accepted-paper country credits, aggregated by year and mapping rule | Yes | Full/fractional numerator arithmetic without paper identifiers |
-| 5 original main-table CSVs and 18 supplementary CSVs | Yes, unchanged | Numerical verification and aggregate plots |
+| 5 original main-table CSVs and 18 supplementary CSVs | Yes; S10b thresholds refreshed using the closed form, other estimates unchanged | Numerical verification and aggregate plots |
 | Analysis code, fixed configs and protocols | Yes | Inspection; source-data refits where inputs are available |
 | 863,752-record OpenAlex work-level intermediate | **Not preserved** | Its 32 specifications and role-matched endpoints survive as frozen aggregates only |
 | Individual author–paper links, histories, embeddings and pilot rows | Not distributed | Full model refits require separately obtained source inputs |

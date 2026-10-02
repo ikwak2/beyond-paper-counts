@@ -4,9 +4,12 @@
 
 The manuscript PDF supplied for this update is identified in
 `provenance/manuscript.json`; it is not redistributed. The release uses the v06
-machine-readable-table archive, with its 5 main CSVs, 18 supplementary CSVs,
-4 figure-data CSVs and table mapping preserved byte for byte. The additional RQ3
-sample-flow CSV resolves the mapping's intermediate sample of 5,207 people.
+machine-readable-table archive: its 5 main CSVs, 17 supplementary CSVs other
+than S10b, and 4 figure-data CSVs are preserved byte for byte. S10b's two threshold
+columns are refreshed using the boundary-aware closed form; its original bytes
+are retained in `provenance/baselines/table_s10b_brentq.csv`. The table mapping's
+S10b note records this change. The additional RQ3 sample-flow CSV resolves the
+mapping's intermediate sample of 5,207 people.
 
 `provenance/source_manifest.json` records the original project-relative path and
 SHA-256 of each copied source asset. Entries marked `unchanged` are exact copies.
@@ -49,9 +52,15 @@ bound. The code also checks increasing interval widths and loss of sign
 identification as the permitted allocation range expands. The common-additive-
 bias path sets the **same absolute bias** in the two years. Its no-reversal
 result does not establish that every pair of same-sign, unequal biases preserves
-the direction. In the portable script, an overbroad original diagnostic label
-was corrected to refer specifically to the extremizing corners. No estimates,
-CSV column names, thresholds or frozen source bytes were changed.
+the direction. Critical deltas now use the piecewise closed form documented in
+`docs/CLOSED_FORM_CHECK_KO.md`; the reconstruction of missingness rates from S10
+still uses the original `fsolve` step. `scripts/audit_closed_form.py` compares the
+new thresholds with the archived Brent calculation. The maximum absolute
+threshold difference is 7.913 × 10⁻¹²; all displayed rounding is unchanged.
+In the portable script, an overbroad original diagnostic label
+was corrected to refer specifically to the extremizing corners. Frozen source
+bytes, CSV column names, delta-grid bounds and sign-identification flags are
+unchanged. Only the two S10b threshold columns have the precision-level update.
 
 ## Individual-level analysis source
 

@@ -52,6 +52,13 @@ def validate(generated=False):
     require(len(bounds) == 8 and crossing.sum() == 7, "7 of 8 worst-case bounds cross zero")
     row = bounds.loc[~crossing].iloc[0]
     require(row.group == "China" and row.numerator_counting == "fractional", "Only China fractional is sign identified")
+    original = pd.read_csv(ROOT / "provenance/baselines/table_s10b_brentq.csv")
+    current = pd.read_csv(ROOT / "results/additional_files/table_s10b_restricted_missingness_bounds.csv")
+    threshold_columns = ["critical_delta", "critical_delta_relative_to_share"]
+    pd.testing.assert_frame_equal(original.drop(columns=threshold_columns),
+                                  current.drop(columns=threshold_columns), check_exact=True)
+    np.testing.assert_allclose(original.critical_delta, current.critical_delta,
+                               rtol=0, atol=1e-10, equal_nan=True)
     # Check distributed tables, not code variable names or protocol field definitions.
     forbidden = {"author_name", "author_key", "author_id", "dblp_pid", "pid", "paper_id",
                  "paper_key", "entrant_id", "email", "title", "abstract", "raw_author_name"}
@@ -76,6 +83,11 @@ def validate(generated=False):
             report = json.loads((OUT / name).read_text())
             require(all(report["checks"].values()), f"Failed generator check: {name}")
         require(json.loads((OUT / "pri_qa.json").read_text())["status"] == "PASS", "PRI reproduction failed")
+        audit = json.loads((OUT / "closed_form_audit.json").read_text())
+        require(audit["status"] == "PASS" and audit["reported_rounding_unchanged"], "Closed-form audit failed")
+        pd.testing.assert_frame_equal(pd.read_csv(OUT / "closed_form_comparison.csv"),
+            pd.read_csv(ROOT / "results/qa/closed_form_comparison.csv"),
+            check_exact=False, rtol=1e-9, atol=1e-12)
     return {"status": "PASS", "hashed_files": len(manifest), "aggregate_csvs_checked": csv_count,
             "manuscript_sample_counts": True, "probability_arithmetic": True,
             "44_specifications_and_8_bounds": True, "table_mapping_targets_exist": True,
