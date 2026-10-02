@@ -1,0 +1,614 @@
+[
+  {
+    "path": "source/scripts/22_fetch_openalex_capacity_denominators.py",
+    "source": "scripts/22_fetch_openalex_capacity_denominators.py",
+    "sha256": "448e8d900b315e421a5a42e7409bdd4dcb9989b7a4bb89348a9ad0e0dc3dcf8d",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/23_capacity_adjusted_representation.py",
+    "source": "scripts/23_capacity_adjusted_representation.py",
+    "sha256": "4da2f68042e42bff4a0b514aa58b2514e698492c2612209582d4730eda329f46",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/31_facct_persistence_smoke.py",
+    "source": "scripts/31_facct_persistence_smoke.py",
+    "sha256": "6742459284e33472af6784e04edb8c13bf5d235b0083c85393e60929941647c6",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/36_facct_recurrence_pathways.py",
+    "source": "scripts/36_facct_recurrence_pathways.py",
+    "sha256": "4d43ae6f3206f48a4a4dca78e85c1487be5a03520ba69b9a3316f09284db5128",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/38_facct_exact_plus2_recurrence.py",
+    "source": "scripts/38_facct_exact_plus2_recurrence.py",
+    "sha256": "9af00ff838a11ae39568acf2f6cc140a19ec24b8981330a0323f958e3478136d",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/40_match_top_venues_openalex_v04.py",
+    "source": "scripts/40_match_top_venues_openalex_v04.py",
+    "sha256": "23cc9d9d1d7d10cc2dfdbf66e8876c4f23c153a1e5843125c0e7ad7500f756c0",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/41_collect_openalex_broad_ai_v04.py",
+    "source": "scripts/41_collect_openalex_broad_ai_v04.py",
+    "sha256": "9aacc5f13f3f2ebedebbc708b5ac7749496bce6a59c68083fa91a8534cadce44",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/42_local_match_top_roster_to_broad_cache_v04.py",
+    "source": "scripts/42_local_match_top_roster_to_broad_cache_v04.py",
+    "sha256": "4e4eeb5d2299a0ddfb58d246b3d8da96d6d51a9f2c8f6ad5161323f3b80b6baf",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/43_calculate_pri_construct_audit_v04.py",
+    "source": "scripts/43_calculate_pri_construct_audit_v04.py",
+    "sha256": "50057b7600c38ea17c32ec170f2fe5eaad33d81275c6fdd69024869ffa3d3cbd",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/59_facct_missingness_tipping_point.py",
+    "source": "scripts/59_facct_missingness_tipping_point.py",
+    "sha256": "7d68b345196c506efb7f7e161df377d20ee1c488b00c2f10629df84bd7fd35d0",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/67_journal_korea_pri_v01.py",
+    "source": "scripts/67_journal_korea_pri_v01.py",
+    "sha256": "05578aced42e36be2a43e05b8a08a0344e330e938506b9431debe6d9044a58c8",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/70_facct_numerator_missingness_and_roster_audit.py",
+    "source": "scripts/70_facct_numerator_missingness_and_roster_audit.py",
+    "sha256": "a21874e820c1a744cda092c8b94053a37c4ac98c5cfff9b90ab7343c67795db5",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/70_finalize_journal_llm_diffusion_v01.py",
+    "source": "scripts/70_finalize_journal_llm_diffusion_v01.py",
+    "sha256": "5e0081ebfaef4a6f0cded7e555c3d8cee39c78878dd3c20bd2fc3e921d5f960c",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/74_build_epj_origin_pilot_sample.py",
+    "source": "scripts/74_build_epj_origin_pilot_sample.py",
+    "sha256": "a95b3f3f1f78f9fa9f39ddbf965496ef494ea1749fddd7733d5b19388680d4d1",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/75_scan_epj_origin_dblp_histories.py",
+    "source": "scripts/75_scan_epj_origin_dblp_histories.py",
+    "sha256": "a40129ed548375f5214700bd5f7a06b48cfe3c0b54f21139de8e59079ef547cd",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/78_epj_title_portfolio_distance_smoke.py",
+    "source": "scripts/78_epj_title_portfolio_distance_smoke.py",
+    "sha256": "6996646fffeacafe149f1dcfb749a7f1333de1beaf03703f88ef54d48f2be89f",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/80_epj_specter2_title_distance_pilot.py",
+    "source": "scripts/80_epj_specter2_title_distance_pilot.py",
+    "sha256": "0f8d55a94974220d9b42751f20facd827fb7469cc7766d6a6fc4b6ee4502261c",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/81_build_epj_distance_full_cohort.py",
+    "source": "scripts/81_build_epj_distance_full_cohort.py",
+    "sha256": "96d097b3ae44951ac450f1845ed911713979d178f4200db0d38cc5cb227afb7c",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/82_scan_epj_distance_full_dblp_histories.py",
+    "source": "scripts/82_scan_epj_distance_full_dblp_histories.py",
+    "sha256": "b14f9c4b8e32cc7fb8f955d46ffe7ea788c5074e69b0eda44a2f19be24038d30",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/83_compute_epj_distance_full_embeddings.py",
+    "source": "scripts/83_compute_epj_distance_full_embeddings.py",
+    "sha256": "4b2ed5e2f7602bbede9de19bdceb3ae52c77882944c45640ce600941867802fd",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/84_analyze_epj_distance_full.py",
+    "source": "scripts/84_analyze_epj_distance_full.py",
+    "sha256": "c6c7418569c087987397580208dca473555441340669d9019be2c1a8b9b1efd5",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/85_build_pri_language_context_figure.py",
+    "source": "scripts/85_build_pri_language_context_figure.py",
+    "sha256": "9f9d4c8efeb866eb8f65493fe2f99b864187be4b10d4fff33fec910a6efa6c49",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/86_build_epj_submission_assets.py",
+    "source": "scripts/86_build_epj_submission_assets.py",
+    "sha256": "da574528a71e05bad9e02b92df2bf461e893f869abeff2bfe39b6e773d2ac838",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/90_build_reviewer_additions.py",
+    "source": "scripts/90_build_reviewer_additions.py",
+    "sha256": "d1c77f443edf7824b16547360a211431b92218d8bbdfb3acaf72ab189f996468",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/scripts/91_epjds_targeted_revision_audit.py",
+    "source": "scripts/91_epjds_targeted_revision_audit.py",
+    "sha256": "3c31c9e757254bd14afc46ea5056860646e4506713e71a9912feb6d665e5c384",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_dblp_work_topic_recovery_addendum_v0.2.md",
+    "source": "docs/epj_dblp_work_topic_recovery_addendum_v0.2.md",
+    "sha256": "a75ad3701deb078068fe7d6b6c5702d5bea40432f12b9c1b030348397a3c84d4",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_origin_feasibility_protocol_v0.1.md",
+    "source": "docs/epj_origin_feasibility_protocol_v0.1.md",
+    "sha256": "d751ab554346adf106ba06482eb813dece7cd39e2d62564d64604a2bbb34acde",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/facct_persistence_technical_spec_v0.3.1.md",
+    "source": "docs/facct_persistence_technical_spec_v0.3.1.md",
+    "sha256": "470a1427f9634de87cde8905ecc53c703834c3d7eb558991fbc781c3408a48b3",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/facct_pri_openalex_technical_note_v0.4.1.md",
+    "source": "docs/facct_pri_openalex_technical_note_v0.4.1.md",
+    "sha256": "b9b8508b8d49e349ba0a898bc3e9700a2ad145729fd876f3ebafb1be2be0dde0",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/pri_construct_audit_v04_runbook.md",
+    "source": "docs/pri_construct_audit_v04_runbook.md",
+    "sha256": "32ac0c5bad8871edc4255c5206fb6f11202bd88b478773ae19637627444ce7b7",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_openalex_origin_smoke_addendum_v0.1.md",
+    "source": "docs/epj_openalex_origin_smoke_addendum_v0.1.md",
+    "sha256": "b79f3d8133394d1980837f61c1fb00fe4d0dace72a379c1bf3116e5bd83c0b3f",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_title_distance_smoke_addendum_v0.3.md",
+    "source": "docs/epj_title_distance_smoke_addendum_v0.3.md",
+    "sha256": "b198cb6b5a317bad3adf97cf7a94a806c8a0d6e5572ea41e9f5d7589c0fe4389",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_distance_model_implementation_note_v1.0a.md",
+    "source": "docs/epj_distance_model_implementation_note_v1.0a.md",
+    "sha256": "8b3df0a87c7e0b298a93ff16a75077e713883ee762cc4af3e666f6204be83027",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_distance_based_analysis_protocol_v1.0.md",
+    "source": "docs/epj_distance_based_analysis_protocol_v1.0.md",
+    "sha256": "2b917cdd6aaae449830e811a8fc0c659abf49d3e16978fa0894e7533953fa2dc",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_specter2_title_distance_pilot_addendum_v0.4.md",
+    "source": "docs/epj_specter2_title_distance_pilot_addendum_v0.4.md",
+    "sha256": "59b2143d673a4f06074e6503c098993588185351e7eceb50e6e0c25103a5bed6",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/facct_final_closeout_protocol_v0.1.md",
+    "source": "docs/facct_final_closeout_protocol_v0.1.md",
+    "sha256": "08429a037c1c97a417939d5bedb648556507a7ac2673d13dcbc49dfc4cbce915",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/epj_manuscript_reporting_clarification_v1.0.md",
+    "source": "docs/epj_manuscript_reporting_clarification_v1.0.md",
+    "sha256": "75c7adb46bc14dfa025a37a4f3bfc90d5a2e2b3a0ace29837178c2ff1ee651bd",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/facct_openalex_missingness_tipping_protocol_v0.1.md",
+    "source": "docs/facct_openalex_missingness_tipping_protocol_v0.1.md",
+    "sha256": "1ff580fb332f6a6dd018acb0353a2e99fbaf49fcfb91c5175c879465bb92ab1e",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/docs/facct_recurrence_pathway_technical_spec_v0.3.3.1.md",
+    "source": "docs/facct_recurrence_pathway_technical_spec_v0.3.3.1.md",
+    "sha256": "5e690f2d0155418f00d39f2b2856a62b1a902b45c690bcba3a5f0f384125b478",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/config/epj_openalex_origin_smoke_v01.json",
+    "source": "config/epj_openalex_origin_smoke_v01.json",
+    "sha256": "acfe3ee57ac3d9b4f82510a2c88aa8b169aeebe1f7cbe00fb03ea2dc0b43fb7b",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/config/study.json",
+    "source": "config/study.json",
+    "sha256": "8062dfa1ecf4e9aa655c0482db511c91e3139a5dd85e6e2f75120b83b61572bb",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/config/epj_origin_feasibility_v01.json",
+    "source": "config/epj_origin_feasibility_v01.json",
+    "sha256": "f0ee98db1287be0faf0fc0d8e2506717dba46114eb1df3bd17483ddffd432e3f",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/config/epj_title_distance_smoke_v03.json",
+    "source": "config/epj_title_distance_smoke_v03.json",
+    "sha256": "1bfb65dc6f14c285154e5e516d2dab3fc2e6086bde991f27bfd58d4116902e77",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/config/epj_specter2_title_distance_pilot_v04.json",
+    "source": "config/epj_specter2_title_distance_pilot_v04.json",
+    "sha256": "27b0cf602712777b661d903bd0cb6162cc65b3137a663406c8566711ac48894e",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/config/epj_dblp_work_topic_recovery_v02.json",
+    "source": "config/epj_dblp_work_topic_recovery_v02.json",
+    "sha256": "2b05ef8eaa2e80fa48dc355df58e944c35aa4b3d55f08c6c8a1bb62a199327a7",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/config/epj_distance_based_analysis_v10.json",
+    "source": "config/epj_distance_based_analysis_v10.json",
+    "sha256": "da786c4dfd267199461654653eb7fd4cbc4c6289b3c284e13a8086f8ecfed306",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/EPJDS_v06_assets/build_figure2_v06.py",
+    "source": "EPJDS_v06_assets/build_figure2_v06.py",
+    "sha256": "9c07159923d5318d9d97996646e220f9525fd601c76b141f7504c31b0ffde711",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/EPJDS_v06_assets/build_restricted_missingness_bounds.py",
+    "source": "EPJDS_v06_assets/build_restricted_missingness_bounds.py",
+    "sha256": "d6903eb2b05720a1df7bf80263bb56ae541425776343a5ff75519d7de9ee2f93",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "source/figures/fig1_source.py",
+    "source": "deliverables/epjds_final_figure_sync/figures/fig1_source.py",
+    "sha256": "0a73bb2b886ac1afd8b793cf3cae95a1f514b13b760dad5ff34ebe149075fe56",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/figures/fig1.pdf",
+    "source": "deliverables/epj_data_science_submission_v06/fig1.pdf",
+    "sha256": "fc4324544b201ea19144be93d4fc54b798c458b379cc89aa2e34aa8326652df8",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/figures/fig2.pdf",
+    "source": "deliverables/epj_data_science_submission_v06/fig2.pdf",
+    "sha256": "4fb9f1ba82257cfe632757bfb2981974d8e1e2435d19bef7360022b7c702f77a",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/figures/fig3.pdf",
+    "source": "deliverables/epj_data_science_submission_v06/fig3.pdf",
+    "sha256": "0c39b0fffd36d486af1f295c97e7988f1e0c1b4d9ea4d8e7e124913a28630003",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/figures/fig4.pdf",
+    "source": "deliverables/epj_data_science_submission_v06/fig4.pdf",
+    "sha256": "9ced5e1aed6fa13239c6e677b74e6f58065ea3151057077a31553afec83686b9",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/figures/figure_s3.pdf",
+    "source": "deliverables/epj_data_science_submission_v06/figure_s3_language_context_and_country_references.pdf",
+    "sha256": "c394da2bf52c032f1c5058c2d03d7525994d551489a8074bcc486c5a1d0e514e",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/qa/sample_flow_rq3.csv",
+    "source": "deliverables/epj_data_science_submission_v05/qa/sample_flow_rq3.csv",
+    "sha256": "7350eaddafac509e7b1b449ba20b9512c398a702440abca876965cb3739dbdad",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/qa/distance_endpoint_contrast.csv",
+    "source": "deliverables/epj_data_science_submission_v05/qa/distance_endpoint/distance_endpoint_contrast.csv",
+    "sha256": "a15768ed1dab4cd2383010d7ab530ac3ec743b79cb6469b535c9f28c59f0a235",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "results/qa/distance_endpoint_bootstrap.csv",
+    "source": "deliverables/epj_data_science_submission_v05/qa/distance_endpoint/distance_endpoint_bootstrap.csv",
+    "sha256": "29ceabc9ef33253bae2fddf936cca89e7f4589b91cb65585a4540fe2d9e07cf9",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq2_model_diagnostics.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq2_model_diagnostics.csv",
+    "sha256": "dcc7ea1e812e2b671422bc7f7f11be39f5ea51ff10d928d7f619ba97a7887b85",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/epj_distance_full_stable_pid_coverage.csv",
+    "source": "outputs/epj_distance_based_v10/tables/epj_distance_full_stable_pid_coverage.csv",
+    "sha256": "2765bc5a5c16909411ad625772d31e1fc769c547e1adaa0f64b6d1c3565d1394",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq3_exact_plus2_probabilities.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq3_exact_plus2_probabilities.csv",
+    "sha256": "7d9b58b1e68f0ca544ac0d947d5be8ced9ae636b1b695a39934e17e3ac78f50e",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq3_model_diagnostics.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq3_model_diagnostics.csv",
+    "sha256": "8ea49a1d751a8b3e4c35d7e5e9d50090452dc8469e231882f6975aa585dc5eee",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/measurement_robustness_focal_signs.csv",
+    "source": "outputs/epj_distance_based_v10/tables/measurement_robustness_focal_signs.csv",
+    "sha256": "49493c17ca9ed2232e988346a6e41371e93962255d8eefbfa7b96fb010d944c5",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/distance_observation_missingness_distributions.csv",
+    "source": "outputs/epj_distance_based_v10/tables/distance_observation_missingness_distributions.csv",
+    "sha256": "425c38704cb751e1ffa4a2d41fa8fd1d8fe85e61989a609ae9789a0f7d5c534b",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq1_year_distance_descriptive.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq1_year_distance_descriptive.csv",
+    "sha256": "7d4fad0cd7abbf4bfee203fb7ddc8312666b3bf1185996fa93d6efbaa7a62b09",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/epj_distance_full_cohort_summary.csv",
+    "source": "outputs/epj_distance_based_v10/tables/epj_distance_full_cohort_summary.csv",
+    "sha256": "7e4221f5cf45edbdd7fbe66e75737b6f1339ae1f043cb7755d33ed2e56bb03cd",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/epj_distance_full_measurement_summary.csv",
+    "source": "outputs/epj_distance_based_v10/tables/epj_distance_full_measurement_summary.csv",
+    "sha256": "658a4b6e75f7c73d8c94f2c0a7ae7c369ee6d27c8dac9a46e265cbf41fa433e0",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq1_year_adjusted_mean_distance.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq1_year_adjusted_mean_distance.csv",
+    "sha256": "eb696e10cf77bdf95802d65b3fa6894c0714af27f3fdc992c06e8ce6f243f454",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/distance_observation_missingness_comparison.csv",
+    "source": "outputs/epj_distance_based_v10/tables/distance_observation_missingness_comparison.csv",
+    "sha256": "0712aad2484a392f6e707cf85371120757baada1fd1d7d03775e71641b7fd6f4",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/epj_distance_full_history_coverage.csv",
+    "source": "outputs/epj_distance_based_v10/tables/epj_distance_full_history_coverage.csv",
+    "sha256": "9dc9a521bcce9fde63925152dd144627f4969c1fe33ca114c5a4fa841f56916b",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/distance_observation_coverage_by_dimension.csv",
+    "source": "outputs/epj_distance_based_v10/tables/distance_observation_coverage_by_dimension.csv",
+    "sha256": "1ff4e877bfe4fd3131fc14f12ada17d81423e599bb2c8d6cbde172b7be891612",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq3_exact_plus2_contrasts.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq3_exact_plus2_contrasts.csv",
+    "sha256": "79647c76e50a5295e2b96833481ae432b481c802042e64cae81a22239ea4fd44",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq2_experienced_coauthor_probabilities.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq2_experienced_coauthor_probabilities.csv",
+    "sha256": "b1f0d61b0201255336a814e67662283d95d323c3eb7ddd782feb3a3a778e0716",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/distance/rq2_experienced_coauthor_contrasts.csv",
+    "source": "outputs/epj_distance_based_v10/tables/rq2_experienced_coauthor_contrasts.csv",
+    "sha256": "11073700738ddb51b4699ae9f5e9ef858743ca3ac09bd9cd4d86996c4d1b6664",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "provenance/software_versions.json",
+    "source": "outputs/epj_distance_based_v10/manifests/software_versions.json",
+    "sha256": "fc3617acb840a5506dc62d5a87c1a39308b24c96c480c65b055c675986abaccf",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "provenance/epj_distance_full_analysis_diagnostics.json",
+    "source": "outputs/epj_distance_based_v10/manifests/epj_distance_full_analysis_diagnostics.json",
+    "sha256": "4d8d960ea0cb6b7c97b520433d5361aa35780c1f856c075e991626e773d31011",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "provenance/epj_distance_full_cohort_diagnostics.json",
+    "source": "outputs/epj_distance_based_v10/manifests/epj_distance_full_cohort_diagnostics.json",
+    "sha256": "b69b1e10c0f9910d0b1ee0b83857676c74e38f6b4a5461044acb543bc8b726de",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "provenance/epj_distance_full_history_diagnostics.json",
+    "source": "outputs/epj_distance_based_v10/manifests/epj_distance_full_history_diagnostics.json",
+    "sha256": "cfe4f4b9eaa4d12fcea97bd9e6cd79feef88e3044bceb416a0951be6f55c3566",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "provenance/epj_distance_full_measurement_diagnostics.json",
+    "source": "outputs/epj_distance_based_v10/manifests/epj_distance_full_measurement_diagnostics.json",
+    "sha256": "7ff1947af370c28f9f05d6be97d5f910ddf93dd5926dbcb55aacbcd48cb8d869",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/aggregate/pri_annual_frozen.csv",
+    "source": "outputs/journal_llm_diffusion_v01/tables/korea_pri_all_12specifications_2018_2024.csv",
+    "sha256": "a0b4d3f4974c8bd10566ea8504fbb251c73eb1b78762fd9878538168a3d7a733",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/aggregate/openalex_capacity_country_year_v01.csv",
+    "source": "data/processed/openalex_capacity_country_year_v01.csv",
+    "sha256": "b575587ed153b9d8efa3d08ee4dbbc6a5c827877610c1fbbab3dd4131e9180e4",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_peer_reviewed_2022.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_peer_reviewed_2022.json",
+    "sha256": "fe216897e5b79d5af1c41107b269bb668f7d5698b437e48fafc1e3dbe22eb446",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_all_types_2022.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_all_types_2022.json",
+    "sha256": "092614fee15e19b0c9e55bc9390d0427608acab1d3b4bc32f0066eb5efa8da37",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/cs_primary_peer_reviewed_2022.json",
+    "source": "data/raw/openalex/capacity_v01/cs_primary_peer_reviewed_2022.json",
+    "sha256": "29dd6fcbb65c91f6a336a52c15d9cb61af58cdb58b997d4aeaf445c7765a556e",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_all_types_2023.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_all_types_2023.json",
+    "sha256": "1edcdad258337148df2c045ea258683fbeb8d42dd49b13eec0bd56dc71f7cfaa",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_peer_reviewed_2023.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_peer_reviewed_2023.json",
+    "sha256": "5b1a95576c6493a40833a68d7170cd02217fb80dcff8b4c1216f81e9b95057c1",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/cs_primary_peer_reviewed_2019.json",
+    "source": "data/raw/openalex/capacity_v01/cs_primary_peer_reviewed_2019.json",
+    "sha256": "f5130e693da6a86fd9af2b46d584122ac83eb405f32705ce979229f6c490e1cd",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_peer_reviewed_2019.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_peer_reviewed_2019.json",
+    "sha256": "7f23f02e7bdb4cfd892abca77fee6345c4b2ad592f9d46b5faa9063c15d00b95",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/cs_primary_peer_reviewed_2021.json",
+    "source": "data/raw/openalex/capacity_v01/cs_primary_peer_reviewed_2021.json",
+    "sha256": "aa2b2cd778c074bc104139fe8bfb46cd654624bcbb3ceeeaf4eeb67e7de7876f",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_peer_reviewed_2020.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_peer_reviewed_2020.json",
+    "sha256": "29c8bb37d32f7f09626ac57e7379056f39a85d7bb0bcb72089e7fdefcd84ca22",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/cs_primary_peer_reviewed_2020.json",
+    "source": "data/raw/openalex/capacity_v01/cs_primary_peer_reviewed_2020.json",
+    "sha256": "019df4ec9a349502bde2f17608f8980c080cb3b9ba5ed2d0246dcb9fd2e2db57",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_peer_reviewed_2018.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_peer_reviewed_2018.json",
+    "sha256": "8e6d38047251d86a8c9b2eeb4fbf82c5828545c4023abe1d6fe0c4a600042b69",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/cs_primary_peer_reviewed_2018.json",
+    "source": "data/raw/openalex/capacity_v01/cs_primary_peer_reviewed_2018.json",
+    "sha256": "00d74f298493d7d8991185e88c1895da210c05dc95f26388955088c73d7a0089",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_peer_reviewed_2021.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_peer_reviewed_2021.json",
+    "sha256": "aa7eb3de53d09f45f371745af395b85cd268faff1ffdbe0406b8b50086f3c3a9",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_all_types_2019.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_all_types_2019.json",
+    "sha256": "ee9d054c6bc8aa769274e1f1d0055226214876eebf27886ce455502c5741fe1d",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_all_types_2020.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_all_types_2020.json",
+    "sha256": "558bbfd01bd88565754be25058cdd080686c44e76acc39d79215d0a546c6237d",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/cs_primary_peer_reviewed_2023.json",
+    "source": "data/raw/openalex/capacity_v01/cs_primary_peer_reviewed_2023.json",
+    "sha256": "72fa7d453c18a162c8bfad9955b6ddb60d29396ccb64b9423ff5853aebdbe88a",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_peer_reviewed_2024.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_peer_reviewed_2024.json",
+    "sha256": "59e16f0445919ddfd06e5f540e883d6abe6b7acf8fba230f552aa90200d2f98f",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_all_types_2018.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_all_types_2018.json",
+    "sha256": "e776229823431af3ba69cfe4bcf8ef0156c14c3e5addd1b485346ae8b77b9239",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_all_types_2024.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_all_types_2024.json",
+    "sha256": "204f5784dcbb0dc02fa620d681583438476f756d6c86c22852cb65144e8ae98b",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/ai_primary_all_types_2021.json",
+    "source": "data/raw/openalex/capacity_v01/ai_primary_all_types_2021.json",
+    "sha256": "f7432bf3eb06d24a95d0c746f44715ed96c78032b3e68c20a96c89e1d2cc9e50",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/openalex_country_api/cs_primary_peer_reviewed_2024.json",
+    "source": "data/raw/openalex/capacity_v01/cs_primary_peer_reviewed_2024.json",
+    "sha256": "eda59539f26778b87e5d61937c611985084945ebde09e7a6ea4728987c3f766a",
+    "transformation": "unchanged"
+  },
+  {
+    "path": "data/aggregate/accepted_country_credits.csv",
+    "source": "data/processed/country_measurement_combined_v01_first_author.csv",
+    "sha256": "d30157138dbc29bffdce1a393ed9fda80bb734f918c8bccc8fd0e6f3d66f43df",
+    "transformation": "sum full/fractional credits by year, mapping and country; remove all paper/person identifiers"
+  }
+]

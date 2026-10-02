@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "entrants_2018_2024": 12094,
+  "entrants_2018_2022_exact_plus2_eligible": 6704,
+  "unique_index_papers": 12659,
+  "multiple_index_paper_entrants": 538,
+  "stable_pid_coverage_minimum_cell": 1.0,
+  "duplicate_author_index_year": 0,
+  "blank_pid": 0,
+  "public_minimum_cell_size": 20,
+  "suppressed_public_cohort_summary_cells": 5,
+  "exact_plus2_classification": {
+    "exact_plus2_top4": {
+      "eligible_entrants": 6704,
+      "entrants_with_exact_plus2": 2799,
+      "exact_plus2_papers": 4601,
+      "venues": [
+        "AAAI",
+        "ICLR",
+        "ICML",
+        "NeurIPS"
+      ]
+    },
+    "exact_plus2_exclude_aaai": {
+      "eligible_entrants": 6704,
+      "entrants_with_exact_plus2": 2579,
+      "exact_plus2_papers": 4108,
+      "venues": [
+        "ICLR",
+        "ICML",
+        "NeurIPS"
+      ]
+    },
+    "exact_plus2_icml_neurips": {
+      "eligible_entrants": 6704,
+      "entrants_with_exact_plus2": 2209,
+      "exact_plus2_papers": 3198,
+      "venues": [
+        "ICML",
+        "NeurIPS"
+      ]
+    }
+  },
+  "input_sha256": {
+    "/Data2/data/jc25/bibliometrics/top_ai_entry/data/processed/accepted_authorships_marked.csv": "b97d5dcb0679b5db1e2da382c2fa2f0fee0735014fbcc67058008e1d39c7ba48",
+    "/Data2/data/jc25/bibliometrics/top_ai_entry/data/processed/accepted_papers_dblp.csv": "7a50c4e566a48a1b27db26f2ab38a35e4bc40a60d68ed7d77eb6b68bb5d3affc",
+    "config/epj_distance_based_analysis_v10.json": "da786c4dfd267199461654653eb7fd4cbc4c6289b3c284e13a8086f8ecfed306",
+    "docs/epj_distance_based_analysis_protocol_v1.0.md": "2b917cdd6aaae449830e811a8fc0c659abf49d3e16978fa0894e7533953fa2dc"
+  },
+  "output_sha256": {
+    "outputs/epj_distance_based_v10/private/epj_distance_full_entrant_cohort_private.csv": "4ecf344e4e2aeed275967fb275b6ee2b5a7c2c1f69ca237f1838a0398eb6fb66",
+    "outputs/epj_distance_based_v10/private/epj_distance_full_index_papers_private.csv": "5f2d9deb7b64973fe15322f130a1d6cfeb66b0ccacb3c9246e456c37dcd6af93",
+    "outputs/epj_distance_based_v10/tables/epj_distance_full_stable_pid_coverage.csv": "2765bc5a5c16909411ad625772d31e1fc769c547e1adaa0f64b6d1c3565d1394",
+    "outputs/epj_distance_based_v10/tables/epj_distance_full_cohort_summary.csv": "7e4221f5cf45edbdd7fbe66e75737b6f1339ae1f043cb7755d33ed2e56bb03cd"
+  }
+}

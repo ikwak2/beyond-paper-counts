@@ -1,0 +1,3 @@
+contrast,estimate,ci_low,ci_high,interval,bootstrap_resamples,seed
+median_2024_minus_2018,-0.0013016462326049943,-0.004941631853580423,0.001573419570922818,entrant_bootstrap_percentile,2000,20260827
+adjusted_mean_2024_minus_2018,-7.451098861156147e-05,-0.003646191428104996,0.003435523681548488,paired_HC3_coefficient_draw,2000,20260827

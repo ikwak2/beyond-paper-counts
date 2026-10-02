@@ -1,0 +1,8 @@
+metric,value,criterion,pass
+pilot authors,306.0,frozen stratified sample,True
+authors with observed distance,249.0,coverage ≥70%,True
+finite distance rate,1.0,≥99.9%,True
+distance IQR,0.048482537269592285,≥0.02,True
+word TF-IDF Spearman,0.692111345633948,≥0.15,True
+own portfolio closer share,0.7349397590361446,≥0.55,True
+paired median margin,0.02614957094192505,>0,True

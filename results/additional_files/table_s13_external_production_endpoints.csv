@@ -1,0 +1,7 @@
+source,group,share_2018,share_2024,change_percentage_points,relative_change_percent,direction,denominator_rule
+ETO Merged Academic Corpus v1.11.0,China,0.18767923303958303,0.27524597062063555,8.756673758105253,46.65765954115126,increase,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+OpenAlex broad-AI primary,China,0.1543613330105704,0.2370178225686342,8.265648955806382,53.547405911818366,increase,sum of full-counted distinct work-country credits across all authorships
+ETO Merged Academic Corpus v1.11.0,Core Anglophone,0.26691855232034833,0.2002018826622035,-6.671666965814483,-24.99514143103597,decrease,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+OpenAlex broad-AI primary,Core Anglophone,0.2546714158914595,0.2055614853795363,-4.9109930511923165,-19.28364451111142,decrease,sum of full-counted distinct work-country credits across all authorships
+ETO Merged Academic Corpus v1.11.0,India,0.07500575638959245,0.12305386532015186,4.804810893055941,64.05922857572357,increase,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+OpenAlex broad-AI primary,India,0.0509850030547198,0.0757086829171424,2.4723679862422605,48.492063118811316,increase,sum of full-counted distinct work-country credits across all authorships

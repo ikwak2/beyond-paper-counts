@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "entrants": 12094,
+  "embedded_unique_titles": 86598,
+  "embedding_dimension": 768,
+  "embedding_device": "cuda:0",
+  "adapter_name": "[PRX]",
+  "active_adapters": "Stack[[PRX]]",
+  "primary_distance_observed": 9639,
+  "primary_distance_coverage": 0.7970067802215974,
+  "finite_primary_rate": 1.0,
+  "primary_distance_iqr": 0.0467965304851532,
+  "measurement_spearman_correlations": {
+    "word_tfidf": 0.6890719697551877,
+    "char_tfidf": 0.71580036869605,
+    "alltype_specter2": 0.9991964833727565
+  },
+  "word_vocabulary_size": 86750,
+  "char_vocabulary_size": 100000,
+  "input_sha256": {
+    "outputs/epj_distance_based_v10/private/epj_distance_full_entrant_cohort_private.csv": "4ecf344e4e2aeed275967fb275b6ee2b5a7c2c1f69ca237f1838a0398eb6fb66",
+    "outputs/epj_distance_based_v10/private/epj_distance_full_index_papers_private.csv": "5f2d9deb7b64973fe15322f130a1d6cfeb66b0ccacb3c9246e456c37dcd6af93",
+    "outputs/epj_distance_based_v10/private/epj_distance_full_dblp_history_private.csv": "f564d341d46d2df1117b4df312b0917d3f58e49da539e1b1896e4be2e75cb35d",
+    "config/epj_distance_based_analysis_v10.json": "da786c4dfd267199461654653eb7fd4cbc4c6289b3c284e13a8086f8ecfed306",
+    "docs/epj_distance_based_analysis_protocol_v1.0.md": "2b917cdd6aaae449830e811a8fc0c659abf49d3e16978fa0894e7533953fa2dc"
+  },
+  "output_sha256": {
+    "outputs/epj_distance_based_v10/private/epj_distance_full_analysis_dataset_private.csv": "311e3a92057865bd00c96779d78ec35e6097bf1c4df4698dab1bab1aae309542",
+    "outputs/epj_distance_based_v10/tables/epj_distance_full_measurement_summary.csv": "658a4b6e75f7c73d8c94f2c0a7ae7c369ee6d27c8dac9a46e265cbf41fa433e0",
+    "outputs/epj_distance_based_v10/cache/specter2_title_embeddings_float16.npy": "07b0f719738ece5face6f9979e997ac3fea31813829781acf65287b75fe97551",
+    "outputs/epj_distance_based_v10/cache/specter2_title_embedding_keys_private.csv": "002bc442a429911ebc592fa5b9d24271b26dd92290f34fe61516e440a57ce1e2"
+  }
+}
