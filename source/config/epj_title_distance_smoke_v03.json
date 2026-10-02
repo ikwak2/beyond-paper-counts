@@ -1,0 +1,12 @@
+{
+  "addendum_version": "v0.3",
+  "minimum_coverage": 0.7,
+  "minimum_primary_iqr": 0.05,
+  "minimum_primary_sensitivity_spearman": 0.6,
+  "minimum_finite_rate": 0.95,
+  "word_ngram_min": 1,
+  "word_ngram_max": 2,
+  "char_ngram_min": 3,
+  "char_ngram_max": 5,
+  "minimum_document_frequency": 2
+}

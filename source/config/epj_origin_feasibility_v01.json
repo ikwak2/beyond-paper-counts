@@ -1,0 +1,22 @@
+{
+  "protocol_version": "v0.1",
+  "target_venues": ["ICML", "NeurIPS"],
+  "top4_history_venues": ["AAAI", "ICLR", "ICML", "NeurIPS"],
+  "pilot_index_years": [2018, 2022, 2024],
+  "history_lookback_years": 5,
+  "sample_per_stratum": 20,
+  "sample_seed": 20260826,
+  "followup_complete_through": 2022,
+  "followup_data_ceiling": 2024,
+  "openalex_gate": {
+    "minimum_index_work_match_rate_each_cell": 0.8,
+    "minimum_entrant_author_resolution_rate": 0.9,
+    "minimum_origin_resolved_rate": 0.75,
+    "maximum_period_coverage_gap": 0.1,
+    "minimum_audited_linkage_precision": 0.95
+  },
+  "dblp_gate": {
+    "minimum_known_field_rate_overall_and_major_periods": 0.7
+  },
+  "interpretation": "descriptive accepted-paper ecosystem; no ChatGPT causal claim"
+}

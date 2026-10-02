@@ -1,0 +1,177 @@
+specification_family,spec_id,group,pri_2018,pri_2024,change_2018_2024,direction,highlighted_specification
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_all_types,China,0.53062675,1.30211849,0.77149173,increase,False
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_all_types,Core Anglophone,2.35518306,1.95641732,-0.39876575,decrease,False
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_all_types,India,0.15488079,0.06365829,-0.09122250,decrease,False
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_all_types,Other non-core,0.48728109,0.58047127,0.09319018,increase,False
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_peer_reviewed,China,0.46725067,1.19815927,0.73090861,increase,False
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_peer_reviewed,Core Anglophone,2.59814189,2.08773986,-0.51040203,decrease,False
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_peer_reviewed,India,0.16401626,0.06456681,-0.09944945,decrease,False
+existing_inspected_12spec,existing|conservative|top_fractional|ai_primary_peer_reviewed,Other non-core,0.47749666,0.58534501,0.10784835,increase,False
+existing_inspected_12spec,existing|conservative|top_fractional|cs_primary_peer_reviewed,China,0.45162073,1.28392618,0.83230545,increase,False
+existing_inspected_12spec,existing|conservative|top_fractional|cs_primary_peer_reviewed,Core Anglophone,2.98247901,2.45446962,-0.52800940,decrease,False
+existing_inspected_12spec,existing|conservative|top_fractional|cs_primary_peer_reviewed,India,0.13661254,0.05834124,-0.07827130,decrease,False
+existing_inspected_12spec,existing|conservative|top_fractional|cs_primary_peer_reviewed,Other non-core,0.46271608,0.54205835,0.07934227,increase,False
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_all_types,China,0.54551897,1.29734744,0.75182847,increase,False
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_all_types,Core Anglophone,2.33906017,1.94101411,-0.39804605,decrease,False
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_all_types,India,0.15119315,0.06312108,-0.08807208,decrease,False
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_all_types,Other non-core,0.49239221,0.58965413,0.09726192,increase,False
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_peer_reviewed,China,0.48036421,1.19376914,0.71340493,increase,True
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_peer_reviewed,Core Anglophone,2.58035577,2.07130273,-0.50905303,decrease,True
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_peer_reviewed,India,0.16011111,0.06402193,-0.09608918,decrease,True
+existing_inspected_12spec,existing|conservative|top_full|ai_primary_peer_reviewed,Other non-core,0.48250515,0.59460497,0.11209982,increase,True
+existing_inspected_12spec,existing|conservative|top_full|cs_primary_peer_reviewed,China,0.46429562,1.27922179,0.81492617,increase,False
+existing_inspected_12spec,existing|conservative|top_full|cs_primary_peer_reviewed,Core Anglophone,2.96206183,2.43514516,-0.52691667,decrease,False
+existing_inspected_12spec,existing|conservative|top_full|cs_primary_peer_reviewed,India,0.13335986,0.05784890,-0.07551096,decrease,False
+existing_inspected_12spec,existing|conservative|top_full|cs_primary_peer_reviewed,Other non-core,0.46756954,0.55063353,0.08306399,increase,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_all_types,China,0.53357914,1.27537109,0.74179195,increase,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_all_types,Core Anglophone,2.37335614,1.98417351,-0.38918263,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_all_types,India,0.16094592,0.06913484,-0.09181108,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_all_types,Other non-core,0.47625494,0.57908032,0.10282538,increase,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_peer_reviewed,China,0.46985043,1.17354735,0.70369692,increase,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_peer_reviewed,Core Anglophone,2.61818969,2.11735917,-0.50083052,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_peer_reviewed,India,0.17043913,0.07012152,-0.10031761,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|ai_primary_peer_reviewed,Other non-core,0.46669191,0.58394238,0.11725047,increase,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|cs_primary_peer_reviewed,China,0.45413353,1.25755248,0.80341895,increase,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|cs_primary_peer_reviewed,Core Anglophone,3.00549243,2.48929181,-0.51620063,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|cs_primary_peer_reviewed,India,0.14196229,0.06336037,-0.07860192,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_fractional|cs_primary_peer_reviewed,Other non-core,0.45224578,0.54075945,0.08851367,increase,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_all_types,China,0.54781050,1.27138681,0.72357631,increase,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_all_types,Core Anglophone,2.35746018,1.96867644,-0.38878374,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_all_types,India,0.15726656,0.06849029,-0.08877627,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_all_types,Other non-core,0.48141448,0.58796929,0.10655481,increase,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_peer_reviewed,China,0.48238205,1.16988117,0.68749912,increase,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_peer_reviewed,Core Anglophone,2.60065391,2.10082187,-0.49983204,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_peer_reviewed,India,0.16654274,0.06946777,-0.09707497,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_full|ai_primary_peer_reviewed,Other non-core,0.47174785,0.59290599,0.12115813,increase,False
+existing_inspected_12spec,existing|sensitivity|top_full|cs_primary_peer_reviewed,China,0.46624596,1.25362387,0.78737791,increase,False
+existing_inspected_12spec,existing|sensitivity|top_full|cs_primary_peer_reviewed,Core Anglophone,2.98536263,2.46984959,-0.51551304,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_full|cs_primary_peer_reviewed,India,0.13871690,0.06276965,-0.07594725,decrease,False
+existing_inspected_12spec,existing|sensitivity|top_full|cs_primary_peer_reviewed,Other non-core,0.45714522,0.54906019,0.09191497,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_all_authors,China,0.40882739,1.00457436,0.59574697,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_all_authors,Core Anglophone,2.81563355,2.37141157,-0.44422198,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_all_authors,India,0.14333755,0.05704451,-0.08629305,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_all_authors,Other non-core,0.48626999,0.62569959,0.13942960,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_covered_authors,China,0.41667634,1.01975428,0.60307794,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_covered_authors,Core Anglophone,2.79267594,2.37232487,-0.42035107,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_covered_authors,India,0.13879333,0.05454272,-0.08425062,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_authorship_fractional_covered_authors,Other non-core,0.48674617,0.62521787,0.13847170,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_fractional,China,0.42967406,1.06293883,0.63326477,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_fractional,Core Anglophone,2.74122811,2.28426241,-0.45696571,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_fractional,India,0.13975968,0.05556366,-0.08419602,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_fractional,Other non-core,0.48564049,0.61702705,0.13138657,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_full,China,0.46726049,1.19883788,0.73157740,increase,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_full,Core Anglophone,2.60098915,2.09161867,-0.50937049,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_full,India,0.16331724,0.06367484,-0.09964240,decrease,False
+worklevel_32spec,work|conservative|top_fractional|hybrid_paper_country_full,Other non-core,0.47744024,0.58600823,0.10856798,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_fractional_strict,China,0.39358188,0.97473323,0.58115135,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_fractional_strict,Core Anglophone,2.90791455,2.47457440,-0.43334015,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_fractional_strict,India,0.14307378,0.05628510,-0.08678868,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_fractional_strict,Other non-core,0.48579694,0.62886191,0.14306497,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_full_strict,China,0.40086434,0.99245748,0.59159314,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_full_strict,Core Anglophone,2.88962853,2.44045177,-0.44917675,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_full_strict,India,0.14707919,0.05766499,-0.08941421,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_first_position_full_strict,Other non-core,0.48263161,0.62212354,0.13949193,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_fractional,China,0.39358188,0.97473323,0.58115135,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_fractional,Core Anglophone,2.90791455,2.47457440,-0.43334015,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_fractional,India,0.14307378,0.05628510,-0.08678868,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_fractional,Other non-core,0.48579694,0.62886191,0.14306497,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_full,China,0.40086434,0.99245748,0.59159314,increase,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_full,Core Anglophone,2.88962853,2.44045177,-0.44917675,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_full,India,0.14707919,0.05766499,-0.08941421,decrease,False
+worklevel_32spec,work|conservative|top_fractional|role_matched_row0_fallback_full,Other non-core,0.48263161,0.62212354,0.13949193,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_all_authors,China,0.42030126,1.00089353,0.58059227,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_all_authors,Core Anglophone,2.79635854,2.35274104,-0.44361750,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_all_authors,India,0.13992475,0.05656311,-0.08336165,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_all_authors,Other non-core,0.49137050,0.63559794,0.14422744,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_covered_authors,China,0.42837050,1.01601783,0.58764733,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_covered_authors,Core Anglophone,2.77355809,2.35364716,-0.41991094,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_covered_authors,India,0.13548873,0.05408243,-0.08140630,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_authorship_fractional_covered_authors,Other non-core,0.49185168,0.63510860,0.14325692,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_fractional,China,0.44173300,1.05904415,0.61731115,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_fractional,Core Anglophone,2.72246246,2.26627802,-0.45618444,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_fractional,India,0.13643207,0.05509476,-0.08133731,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_fractional,Other non-core,0.49073440,0.62678821,0.13605381,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_full,China,0.48037431,1.19444526,0.71407096,increase,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_full,Core Anglophone,2.58318354,2.07515100,-0.50803254,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_full,India,0.15942874,0.06313749,-0.09629125,decrease,False
+worklevel_32spec,work|conservative|top_full|hybrid_paper_country_full,Other non-core,0.48244814,0.59527868,0.11283053,increase,False
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_fractional_strict,China,0.40462789,0.97116174,0.56653386,increase,False
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_fractional_strict,Core Anglophone,2.88800781,2.45509166,-0.43291616,decrease,False
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_fractional_strict,India,0.13966726,0.05581011,-0.08385715,decrease,False
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_fractional_strict,Other non-core,0.49089249,0.63881029,0.14791780,increase,False
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_full_strict,China,0.41211473,0.98882105,0.57670632,increase,True
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_full_strict,Core Anglophone,2.86984697,2.42123768,-0.44860929,decrease,True
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_full_strict,India,0.14357731,0.05717835,-0.08639896,decrease,True
+worklevel_32spec,work|conservative|top_full|role_matched_first_position_full_strict,Other non-core,0.48769396,0.63196532,0.14427136,increase,True
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_fractional,China,0.40462789,0.97116174,0.56653386,increase,False
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_fractional,Core Anglophone,2.88800781,2.45509166,-0.43291616,decrease,False
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_fractional,India,0.13966726,0.05581011,-0.08385715,decrease,False
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_fractional,Other non-core,0.49089249,0.63881029,0.14791780,increase,False
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_full,China,0.41211473,0.98882105,0.57670632,increase,False
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_full,Core Anglophone,2.86984697,2.42123768,-0.44860929,decrease,False
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_full,India,0.14357731,0.05717835,-0.08639896,decrease,False
+worklevel_32spec,work|conservative|top_full|role_matched_row0_fallback_full,Other non-core,0.48769396,0.63196532,0.14427136,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_all_authors,China,0.41110208,0.98393895,0.57283687,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_all_authors,Core Anglophone,2.83735956,2.40505539,-0.43230417,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_all_authors,India,0.14895065,0.06195207,-0.08699858,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_all_authors,Other non-core,0.47526671,0.62420026,0.14893355,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_covered_authors,China,0.41899471,0.99880705,0.57981234,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_covered_authors,Core Anglophone,2.81422480,2.40598165,-0.40824315,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_covered_authors,India,0.14422848,0.05923505,-0.08499343,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_authorship_fractional_covered_authors,Other non-core,0.47573212,0.62371969,0.14798758,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_fractional,China,0.43206474,1.04110453,0.60903978,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_fractional,Core Anglophone,2.76237999,2.31666982,-0.44571017,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_fractional,India,0.14523267,0.06034382,-0.08488884,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_fractional,Other non-core,0.47465146,0.61554851,0.14089705,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_full,China,0.46986030,1.17421202,0.70435172,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_full,Core Anglophone,2.62105892,2.12129300,-0.49976592,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_full,India,0.16971274,0.06915281,-0.10055993,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|hybrid_paper_country_full,Other non-core,0.46663677,0.58460401,0.11796724,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_fractional_strict,China,0.39577175,0.95471080,0.55893905,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_fractional_strict,Core Anglophone,2.93035261,2.50968182,-0.42067079,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_fractional_strict,India,0.14867654,0.06112734,-0.08754921,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_fractional_strict,Other non-core,0.47480437,0.62735500,0.15255064,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_full_strict,China,0.40309473,0.97207097,0.56897624,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_full_strict,Core Anglophone,2.91192549,2.47507509,-0.43685040,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_full_strict,India,0.15283881,0.06262593,-0.09021288,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_first_position_full_strict,Other non-core,0.47171067,0.62063278,0.14892212,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_fractional,China,0.39577175,0.95471080,0.55893905,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_fractional,Core Anglophone,2.93035261,2.50968182,-0.42067079,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_fractional,India,0.14867654,0.06112734,-0.08754921,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_fractional,Other non-core,0.47480437,0.62735500,0.15255064,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_full,China,0.40309473,0.97207097,0.56897624,increase,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_full,Core Anglophone,2.91192549,2.47507509,-0.43685040,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_full,India,0.15283881,0.06262593,-0.09021288,decrease,False
+worklevel_32spec,work|sensitivity|top_fractional|role_matched_row0_fallback_full,Other non-core,0.47171067,0.62063278,0.14892212,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_all_authors,China,0.42206680,0.98086511,0.55879831,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_all_authors,Core Anglophone,2.81835585,2.38627109,-0.43208476,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_all_authors,India,0.14554551,0.06137448,-0.08417102,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_all_authors,Other non-core,0.48041555,0.63378183,0.15336628,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_covered_authors,China,0.43016993,0.99568676,0.56551683,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_covered_authors,Core Anglophone,2.79537605,2.38719012,-0.40818593,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_covered_authors,India,0.14093129,0.05868279,-0.08224850,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_authorship_fractional_covered_authors,Other non-core,0.48088600,0.63329388,0.15240789,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_fractional,China,0.44358857,1.03785210,0.59426354,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_fractional,Core Anglophone,2.74387848,2.29857584,-0.44530263,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_fractional,India,0.14191252,0.05978123,-0.08213129,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_fractional,Other non-core,0.47979363,0.62499727,0.14520364,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_full,China,0.48239219,1.17054377,0.68815157,increase,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_full,Core Anglophone,2.60350393,2.10472498,-0.49877895,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_full,India,0.16583296,0.06850809,-0.09732487,decrease,False
+worklevel_32spec,work|sensitivity|top_full|hybrid_paper_country_full,Other non-core,0.47169212,0.59357777,0.12188565,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_fractional_strict,China,0.40632759,0.95172827,0.54540068,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_fractional_strict,Core Anglophone,2.91072607,2.49008035,-0.42064572,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_fractional_strict,India,0.14527767,0.06055744,-0.08472023,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_fractional_strict,Other non-core,0.47994820,0.63698500,0.15703680,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_full_strict,China,0.41384588,0.96903420,0.55518832,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_full_strict,Core Anglophone,2.89242237,2.45574391,-0.43667846,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_full_strict,India,0.14934478,0.06204206,-0.08730272,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_first_position_full_strict,Other non-core,0.47682098,0.63015959,0.15333861,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_fractional,China,0.40632759,0.95172827,0.54540068,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_fractional,Core Anglophone,2.91072607,2.49008035,-0.42064572,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_fractional,India,0.14527767,0.06055744,-0.08472023,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_fractional,Other non-core,0.47994820,0.63698500,0.15703680,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_full,China,0.41384588,0.96903420,0.55518832,increase,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_full,Core Anglophone,2.89242237,2.45574391,-0.43667846,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_full,India,0.14934478,0.06204206,-0.08730272,decrease,False
+worklevel_32spec,work|sensitivity|top_full|role_matched_row0_fallback_full,Other non-core,0.47682098,0.63015959,0.15333861,increase,False

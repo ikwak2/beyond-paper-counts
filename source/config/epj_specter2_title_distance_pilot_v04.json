@@ -1,0 +1,17 @@
+{
+  "protocol_version": "v0.4",
+  "base_model": "allenai/specter2_base",
+  "adapter": "allenai/specter2",
+  "input_specification": "title_plus_sep_empty_abstract",
+  "pooling": "cls",
+  "max_length": 128,
+  "batch_size": 64,
+  "random_seed": 20260826,
+  "validation_permutations": 100,
+  "minimum_overall_and_year_coverage": 0.70,
+  "minimum_finite_rate": 0.999,
+  "minimum_distance_iqr": 0.02,
+  "minimum_word_tfidf_spearman": 0.15,
+  "minimum_own_closer_share": 0.55,
+  "minimum_paired_median_margin": 0.0
+}

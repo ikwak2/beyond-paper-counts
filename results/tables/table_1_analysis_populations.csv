@@ -1,0 +1,5 @@
+analysis,unit,index_cohorts,eligible_n,primary_n,conditioning,permitted_claim
+RQ1 geographic representation,accepted paper-country credit / broad-AI work-country credit,2018–2024,26872,26872,country observed for primary numerator; denominator definition prespecified,representation relative to observed broad-AI production
+RQ2 distance trajectory,first-listed observed focal-set-new entrant,2018–2024,12094,9639,at least one prior title in the five-year DBLP window,title-only prior-to-index portfolio distance
+Diagnostic D1,first-listed observed focal-set-new entrant,2018–2024,9639,9521,distance observed and mean entry-team size ≥2,adjusted association with experienced-coauthor composition at entry
+RQ3 exact +2 pathways,first-listed observed focal-set-new entrant,2018–2022,6704,5122,"complete exact +2 follow-up, distance observed, mean entry-team size ≥2",adjusted association with mutually exclusive accepted-paper pathways

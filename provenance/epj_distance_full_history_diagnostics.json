@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "target_entrants": 12094,
+  "target_person_records_found": 12094,
+  "target_person_record_coverage": 1.0,
+  "target_alias_strings": 12951,
+  "globally_unique_alias_strings": 12951,
+  "colliding_or_unowned_alias_strings": 0,
+  "entrants_with_globally_unique_alias": 12094,
+  "unique_history_rows_all_types": 88565,
+  "unique_history_rows_primary_types": 88134,
+  "raw_history_matches_before_pid_key_deduplication": 88565,
+  "primary_history_coverage_overall": 0.7970067802215974,
+  "primary_history_coverage_by_year": {
+    "2018": 0.7426900584795322,
+    "2019": 0.7571428571428571,
+    "2020": 0.7695060844667144,
+    "2021": 0.791800128122998,
+    "2022": 0.79785431959345,
+    "2023": 0.8088557650153442,
+    "2024": 0.8321003538115149
+  },
+  "publication_type_counts": {
+    "article": 53171,
+    "inproceedings": 34963,
+    "phdthesis": 281,
+    "incollection": 130,
+    "book": 20
+  },
+  "records_scanned": {
+    "target_person_pass_www": 4161597,
+    "global_owner_pass_www": 4161597,
+    "publication_pass": 8584731
+  },
+  "audit_authors": 100,
+  "input_sha256": {
+    "outputs/epj_distance_based_v10/private/epj_distance_full_entrant_cohort_private.csv": "4ecf344e4e2aeed275967fb275b6ee2b5a7c2c1f69ca237f1838a0398eb6fb66",
+    "/Data2/data/jc25/bibliometrics/dblp/dblp.xml.gz": "158c35460ae2f39bcc29ca6d12ee77c28cbf7b24835a047dd5ae40111e7dbd1f",
+    "/Data2/data/jc25/bibliometrics/dblp/dblp.dtd": "2d864498f9eef9298662df11e3874171ff24cd4a21ab5974f1369c90acdb1ef6",
+    "config/epj_distance_based_analysis_v10.json": "da786c4dfd267199461654653eb7fd4cbc4c6289b3c284e13a8086f8ecfed306",
+    "docs/epj_distance_based_analysis_protocol_v1.0.md": "2b917cdd6aaae449830e811a8fc0c659abf49d3e16978fa0894e7533953fa2dc"
+  },
+  "output_sha256": {
+    "outputs/epj_distance_based_v10/private/epj_distance_full_dblp_history_private.csv": "f564d341d46d2df1117b4df312b0917d3f58e49da539e1b1896e4be2e75cb35d",
+    "outputs/epj_distance_based_v10/private/epj_distance_full_history_profiles_private.csv": "affb7f8a7478ae779c3b21df9c7a32b53781fcef21bad14287c9430e70e9336c",
+    "outputs/epj_distance_based_v10/tables/epj_distance_full_history_coverage.csv": "9dc9a521bcce9fde63925152dd144627f4969c1fe33ca114c5a4fa841f56916b",
+    "outputs/epj_distance_based_v10/private/epj_distance_history_automated_audit_100_private.csv": "749c8a3214d886db3b78443e40ac54d8154d63cb4f11a57ea6d468ffbcc5bd6f"
+  }
+}

@@ -1,0 +1,43 @@
+source,year,group,country_credit,all_country_credit,raw_all_entity_credit,aggregate_entity_credit_excluded,production_share,complete,denominator_rule
+ETO Merged Academic Corpus v1.11.0,2018,China,35864.0,191092.0,780878.0,589786.0,0.18767923303958303,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2019,China,47618.0,235135.0,951128.0,715993.0,0.2025134497203734,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2020,China,55081.0,277943.0,1115034.0,837091.0,0.19817372626761603,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2021,China,71746.0,330919.0,1289549.0,958630.0,0.21680834282709666,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2022,China,82350.0,335747.0,1252026.0,916279.0,0.24527397117472383,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2023,China,104198.0,407135.0,1502646.0,1095511.0,0.2559298512778317,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2024,China,116434.0,423018.0,1533194.0,1110176.0,0.27524597062063555,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+OpenAlex broad-AI primary,2018,China,13391.0,86751.0,86751.0,0.0,0.1543613330105704,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2019,China,16490.0,97572.0,97572.0,0.0,0.1690034026155044,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2020,China,19078.0,108280.0,108280.0,0.0,0.1761913557443664,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2021,China,24861.0,125205.0,125205.0,0.0,0.1985623577333173,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2022,China,29057.0,128917.0,128917.0,0.0,0.2253930823708277,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2023,China,33719.0,148488.0,148488.0,0.0,0.2270823231506923,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2024,China,38194.0,161144.0,161144.0,0.0,0.2370178225686342,True,sum of full-counted distinct work-country credits across all authorships
+ETO Merged Academic Corpus v1.11.0,2018,Core Anglophone,51006.0,191092.0,780878.0,589786.0,0.26691855232034833,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2019,Core Anglophone,63448.0,235135.0,951128.0,715993.0,0.26983647691751544,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2020,Core Anglophone,75789.0,277943.0,1115034.0,837091.0,0.27267821100009715,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2021,Core Anglophone,82692.0,330919.0,1289549.0,958630.0,0.24988592374569002,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2022,Core Anglophone,73429.0,335747.0,1252026.0,916279.0,0.21870336890575343,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2023,Core Anglophone,86458.0,407135.0,1502646.0,1095511.0,0.21235708057523917,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2024,Core Anglophone,84689.0,423018.0,1533194.0,1110176.0,0.2002018826622035,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+OpenAlex broad-AI primary,2018,Core Anglophone,22093.0,86751.0,86751.0,0.0,0.2546714158914595,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2019,Core Anglophone,24509.0,97572.0,97572.0,0.0,0.2511888656581806,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2020,Core Anglophone,26932.0,108280.0,108280.0,0.0,0.2487255264130033,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2021,Core Anglophone,30356.0,125205.0,125205.0,0.0,0.2424503813745457,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2022,Core Anglophone,28079.0,128917.0,128917.0,0.0,0.2178068059293964,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2023,Core Anglophone,31779.0,148488.0,148488.0,0.0,0.2140172943268143,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2024,Core Anglophone,33125.0,161144.0,161144.0,0.0,0.2055614853795363,True,sum of full-counted distinct work-country credits across all authorships
+ETO Merged Academic Corpus v1.11.0,2018,India,14333.0,191092.0,780878.0,589786.0,0.07500575638959245,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2019,India,16386.0,235135.0,951128.0,715993.0,0.06968762625725647,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2020,India,21166.0,277943.0,1115034.0,837091.0,0.07615230460921844,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2021,India,29472.0,330919.0,1289549.0,958630.0,0.08906106932512185,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2022,India,31475.0,335747.0,1252026.0,916279.0,0.09374618388250677,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2023,India,43924.0,407135.0,1502646.0,1095511.0,0.10788559077455881,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+ETO Merged Academic Corpus v1.11.0,2024,India,52054.0,423018.0,1533194.0,1110176.0,0.12305386532015186,True,sum of individual country/location credits; 13 regional/political aggregate rows excluded
+OpenAlex broad-AI primary,2018,India,4423.0,86751.0,86751.0,0.0,0.0509850030547198,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2019,India,4503.0,97572.0,97572.0,0.0,0.0461505349895461,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2020,India,5542.0,108280.0,108280.0,0.0,0.0511821204285186,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2021,India,6384.0,125205.0,125205.0,0.0,0.0509883790583443,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2022,India,7653.0,128917.0,128917.0,0.0,0.0593637766935314,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2023,India,10343.0,148488.0,148488.0,0.0,0.0696554603739022,True,sum of full-counted distinct work-country credits across all authorships
+OpenAlex broad-AI primary,2024,India,12200.0,161144.0,161144.0,0.0,0.0757086829171424,True,sum of full-counted distinct work-country credits across all authorships

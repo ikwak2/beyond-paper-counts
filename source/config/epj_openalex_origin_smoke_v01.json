@@ -1,0 +1,14 @@
+{
+  "addendum_version": "v0.1",
+  "sample_per_stratum": 5,
+  "sample_seed": 20260827,
+  "maximum_credits": 1500,
+  "stop_if_remaining_credits_below": 500,
+  "maximum_author_work_pages": 2,
+  "works_per_page": 200,
+  "title_similarity_high": 0.92,
+  "author_overlap_high": 0.5,
+  "title_similarity_high_override": 0.98,
+  "title_similarity_medium": 0.85,
+  "author_overlap_medium": 0.3
+}

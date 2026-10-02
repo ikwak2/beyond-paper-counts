@@ -1,0 +1,4 @@
+stage,included_n,excluded_at_stage
+exact +2 eligible,6704,0
+distance observed,5207,1497
+mean-index-team-size >= 2,5122,85

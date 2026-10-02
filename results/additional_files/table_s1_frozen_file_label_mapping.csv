@@ -1,0 +1,4 @@
+manuscript_label,frozen_output_label,frozen_file,reason
+RQ2 distance trajectory,rq1,outputs/epj_distance_based_v10/tables/rq1_year_distance_descriptive.csv,Frozen before manuscript RQ relabeling
+Diagnostic D1,rq2,outputs/epj_distance_based_v10/tables/rq2_experienced_coauthor_contrasts.csv,Frozen before diagnostic downgrade
+RQ3 exact +2 pathways,rq3,outputs/epj_distance_based_v10/tables/rq3_exact_plus2_contrasts.csv,Manuscript RQ3 retains the frozen third-analysis label
