@@ -72,12 +72,6 @@
     "transformation": "unchanged"
   },
   {
-    "path": "source/scripts/70_finalize_journal_llm_diffusion_v01.py",
-    "source": "scripts/70_finalize_journal_llm_diffusion_v01.py",
-    "sha256": "5e0081ebfaef4a6f0cded7e555c3d8cee39c78878dd3c20bd2fc3e921d5f960c",
-    "transformation": "unchanged"
-  },
-  {
     "path": "source/scripts/74_build_epj_origin_pilot_sample.py",
     "source": "scripts/74_build_epj_origin_pilot_sample.py",
     "sha256": "a95b3f3f1f78f9fa9f39ddbf965496ef494ea1749fddd7733d5b19388680d4d1",
@@ -240,12 +234,6 @@
     "transformation": "unchanged"
   },
   {
-    "path": "source/config/study.json",
-    "source": "config/study.json",
-    "sha256": "8062dfa1ecf4e9aa655c0482db511c91e3139a5dd85e6e2f75120b83b61572bb",
-    "transformation": "unchanged"
-  },
-  {
     "path": "source/config/epj_origin_feasibility_v01.json",
     "source": "config/epj_origin_feasibility_v01.json",
     "sha256": "f0ee98db1287be0faf0fc0d8e2506717dba46114eb1df3bd17483ddffd432e3f",
@@ -291,30 +279,6 @@
     "path": "source/figures/fig1_source.py",
     "source": "deliverables/epjds_final_figure_sync/figures/fig1_source.py",
     "sha256": "0a73bb2b886ac1afd8b793cf3cae95a1f514b13b760dad5ff34ebe149075fe56",
-    "transformation": "unchanged"
-  },
-  {
-    "path": "results/figures/fig1.pdf",
-    "source": "deliverables/epj_data_science_submission_v06/fig1.pdf",
-    "sha256": "fc4324544b201ea19144be93d4fc54b798c458b379cc89aa2e34aa8326652df8",
-    "transformation": "unchanged"
-  },
-  {
-    "path": "results/figures/fig2.pdf",
-    "source": "deliverables/epj_data_science_submission_v06/fig2.pdf",
-    "sha256": "4fb9f1ba82257cfe632757bfb2981974d8e1e2435d19bef7360022b7c702f77a",
-    "transformation": "unchanged"
-  },
-  {
-    "path": "results/figures/fig3.pdf",
-    "source": "deliverables/epj_data_science_submission_v06/fig3.pdf",
-    "sha256": "0c39b0fffd36d486af1f295c97e7988f1e0c1b4d9ea4d8e7e124913a28630003",
-    "transformation": "unchanged"
-  },
-  {
-    "path": "results/figures/fig4.pdf",
-    "source": "deliverables/epj_data_science_submission_v06/fig4.pdf",
-    "sha256": "9ced5e1aed6fa13239c6e677b74e6f58065ea3151057077a31553afec83686b9",
     "transformation": "unchanged"
   },
   {

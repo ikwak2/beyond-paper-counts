@@ -17,11 +17,11 @@ python reproduce.py
 python -m pip install -r requirements-models.txt
 OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python scripts/refit_models.py
 
-# Complete Figure 3, using the preserved calibration coordinates
-python scripts/render_publication_figure3.py
+# Final Figure 1–4, including the preserved calibration coordinates
+python scripts/render_publication_figures.py
 ```
 
-Generated outputs are written to `outputs/`. Current submission figures are in [`publication_assets/figures/`](publication_assets/figures/); the aggregate renderer retains the original plotting layouts.
+Generated outputs are written to `outputs/`. Current submission figures are in [`publication_assets/figures/`](publication_assets/figures/); the default reproduction command regenerates these final layouts.
 
 ## Files and documentation
 

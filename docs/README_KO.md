@@ -4,7 +4,7 @@
 
 - 국가별 집계와 결측 경계: `python reproduce.py`
 - 보존 거리값에서 주요 모형 재적합(2,000회 bootstrap 포함): `python scripts/refit_models.py`
-- Figure 3 산점도 포함 전체 그림 생성: `python scripts/render_publication_figure3.py`
+- Figure 1–4 최종 그림 생성: `python scripts/render_publication_figures.py`
 
 모형 실행 전에는 `requirements-models.txt`의 의존성을 설치합니다. 출력은 `outputs/`에 저장됩니다. 최종 투고용 그림과 보충자료는 `publication_assets/`에 있습니다.
 

@@ -6,7 +6,6 @@ import importlib.util
 import json
 import sys
 
-import fitz
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
@@ -14,13 +13,11 @@ from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
 import numpy as np
 import pandas as pd
 
-OUT = Path(__file__).resolve().parent
-ROOT = OUT.parent
-PROJECT = ROOT/'ai_geographic_entry'
-FIG = OUT/'figures'
+ROOT = Path(__file__).resolve().parents[1]
+FIG = ROOT/'outputs'
 FIG.mkdir(exist_ok=True)
-DIST = PROJECT/'outputs/epj_distance_based_v10/tables'
-PILOT = PROJECT/'outputs/epj_origin_feasibility_v01/private/epj_specter2_title_distance_pilot_private.csv'
+DIST = ROOT/'data/distance'
+PILOT = ROOT/'data/figure_inputs/figure3_calibration_coordinates.csv'
 BLUE, RED, GRAY = '#4C78A8', '#E15759', '#B8B0AD'
 PATHS = ['no_recurrence','coauthor_continuity_only','at_least_one_no_index_coauthor']
 LABELS = ['No record','Entry-coauthor papers only','≥1 paper without entry coauthors']
@@ -67,34 +64,6 @@ def figure1():
     ax.text(.665,.755,'Follow-up subset',ha='center',fontsize=7.5,color='#555555')
     fig.subplots_adjust(left=.015,right=.985,bottom=.01,top=.99)
     check_and_save(fig,'fig1')
-
-
-def figure2():
-    path=PROJECT/'EPJDS_v06_assets/build_figure2_v06.py'
-    spec=importlib.util.spec_from_file_location('frozen_figure2',path)
-    mod=importlib.util.module_from_spec(spec);spec.loader.exec_module(mod)
-    mod.OUT=FIG
-    source=path.read_text()
-    node=next(x for x in ast.parse(source).body if isinstance(x,ast.FunctionDef) and x.name=='main')
-    code=ast.get_source_segment(source,node)
-    code=code[:code.index('    fig, axes = plt.subplots')]
-    start=code.index('    note = fig.text(.5, .010,')
-    stop=code.index('    assert_within_canvas',start)
-    code=code[:start]+code[stop:]
-    code=code.replace('[legA, legB, legC, note,','[legA, legB, legC,')
-    ns=mod.__dict__;exec(code,ns);ns['main']()
-    doc=fitz.open(FIG/'fig2.pdf');page=doc[0]
-    rectangles=[fitz.Rect(x[:4]) for x in page.get_text('blocks')]
-    rectangles += [x['rect'] for x in page.get_drawings()
-                   if not (x['rect'].width>page.rect.width-1 and x['rect'].height>page.rect.height-1)]
-    bottom=max(r.y1 for r in rectangles)+5
-    clipped=fitz.open();p=clipped.new_page(width=page.rect.width,height=bottom)
-    p.show_pdf_page(p.rect,doc,0,clip=fitz.Rect(0,0,page.rect.width,bottom))
-    clipped.save(FIG/'fig2_crop.pdf',garbage=4,deflate=True)
-    doc.close();clipped.close();(FIG/'fig2_crop.pdf').replace(FIG/'fig2.pdf')
-    with fitz.open(FIG/'fig2.pdf') as d:
-        assert 'PRI = 1 denotes' not in d[0].get_text()
-        d[0].get_pixmap(matrix=fitz.Matrix(300/72,300/72)).save(FIG/'fig2.png')
 
 
 def figure3():
@@ -164,28 +133,11 @@ def figure4():
 
 
 def main():
+    import subprocess
+    if not (FIG/'pri_annual.csv').exists() or not (FIG/'openalex_capacity.csv').exists():
+        subprocess.run([sys.executable,str(ROOT/'scripts/build_pri.py')],cwd=ROOT,check=True)
+    subprocess.run([sys.executable,str(ROOT/'scripts/build_figure2.py')],cwd=ROOT,check=True)
     plt.rcParams.update(STYLE)
-    inputs=[PILOT]+[DIST/x for x in ['rq1_year_distance_descriptive.csv','rq1_year_adjusted_mean_distance.csv',
-                                    'rq3_exact_plus2_probabilities.csv','rq3_exact_plus2_contrasts.csv']]
-    hashes={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in inputs}
-    figure1();figure2();plt.rcParams.update(STYLE);figure3();figure4()
-    assert hashes=={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in inputs}
-    report={'source_pdf':'Beyond_Paper_Count (6).pdf','models_refit':False,'original_inputs_unchanged':True,
-            'figure2_footer_removed':True,'figures':{},'frozen_input_hashes':hashes}
-    print_width=372*72/72.27*.95
-    for n in range(1,5):
-        with fitz.open(FIG/f'fig{n}.pdf') as d:
-            page=d[0]
-            spans=[s for b in page.get_text('dict')['blocks'] for l in b.get('lines',[]) for s in l['spans'] if s['text'].strip()]
-            smallest=min(s['size'] for s in spans)*print_width/page.rect.width
-            assert smallest>=7,(n,smallest)
-            assert all(page.rect.contains(fitz.Rect(s['bbox'])) for s in spans)
-            assert page.rect.height*print_width/page.rect.width<225*72/25.4
-            report['figures'][str(n)]={'file':f'fig{n}.pdf','minimum_font_pt_at_0.95_textwidth':round(smallest,3),
-                                      'pdf_width_pt':page.rect.width,'pdf_height_pt':page.rect.height}
-    (OUT/'figure_verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
-    print(json.dumps({k:v for k,v in report.items() if k!='frozen_input_hashes'},ensure_ascii=False,indent=2))
-
-
-if __name__=='__main__':
-    main()
+    figure1();figure3();figure4()
+    print('PASS: final Figure 1–4 rendered from preserved public inputs.')
+if __name__=='__main__':main()

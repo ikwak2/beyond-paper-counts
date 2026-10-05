@@ -19,6 +19,7 @@ from pathlib import Path
 import hashlib
 import importlib.util
 import json
+import fitz
 import sys
 
 sys.dont_write_bytecode = True
@@ -71,6 +72,18 @@ def save(fig, stem):
     for ext in ['png', 'pdf', 'svg']:
         fig.savefig(OUT / f'{stem}.{ext}', dpi=300, facecolor='white',
                     metadata={'Creator': 'EPJDS v06 aggregate-then-decomposition figure revision'} if ext == 'pdf' else None)
+    if stem == 'fig2':
+        original = fitz.open(OUT/'fig2.pdf'); page = original[0]
+        rectangles = [fitz.Rect(b[:4]) for b in page.get_text('blocks')]
+        rectangles += [x['rect'] for x in page.get_drawings()
+                       if not (x['rect'].width > page.rect.width-1 and x['rect'].height > page.rect.height-1)]
+        bottom = max(r.y1 for r in rectangles)+5
+        cropped = fitz.open(); new = cropped.new_page(width=page.rect.width,height=bottom)
+        new.show_pdf_page(new.rect,original,0,clip=fitz.Rect(0,0,page.rect.width,bottom))
+        cropped.save(OUT/'fig2_crop.pdf',garbage=4,deflate=True)
+        original.close(); cropped.close(); (OUT/'fig2_crop.pdf').replace(OUT/'fig2.pdf')
+        with fitz.open(OUT/'fig2.pdf') as d:
+            d[0].get_pixmap(matrix=fitz.Matrix(300/72,300/72)).save(OUT/'fig2.png')
 
 
 def assert_within_canvas(fig, axes, legends):
@@ -296,14 +309,8 @@ def main():
     legC = axC.legend(handles=handles, frameon=False, loc='upper center', bbox_to_anchor=(.5, -.30),
                       ncol=1, handlelength=1.6, handletextpad=.5, labelspacing=.35)
 
-    note = fig.text(.5, .010,
-                    'PRI = 1 denotes equal observed accepted and production country shares,\n'
-                    'not acceptance probability. Aggregate PRI is recomputed from summed credits,\n'
-                    'never averaged from group PRIs. All 44 observed specifications agree in sign;\n'
-                    'the missingness bound does not, except for China under fractional counting.',
-                    ha='center', va='bottom', fontsize=6, color='#4b5563', linespacing=1.45)
     assert_within_canvas(fig, [axA, axB, axC], [legA, legB, legC])
-    assert_no_overlap(fig, [legA, legB, legC, note,
+    assert_no_overlap(fig, [legA, legB, legC,
                             axA._left_title, axB._left_title, axC._left_title])
     save(fig, 'fig2')
     plt.close(fig)

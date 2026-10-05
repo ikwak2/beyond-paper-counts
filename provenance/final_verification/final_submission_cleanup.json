@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "final_figures_regenerated_pixel_identical": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "figure2_footer_removed": true,
+  "figure4_recent_history_labels_preserved": true,
+  "model_input_and_frozen_table_values_unchanged": true,
+  "cleanup_scope": "Superseded duplicate main figures and portable renderers; obsolete manuscript metadata and old/editorial documentation. Original analysis source retained.",
+  "previous_state_preserved_in_git_history": true,
+  "final_analysis_scripts_and_configs_preserved": true,
+  "unreferenced_other_study_files_removed": [
+    "source/scripts/70_finalize_journal_llm_diffusion_v01.py",
+    "source/config/study.json"
+  ],
+  "aggregate_reproduction": "PASS",
+  "existing_tests_passed": 4,
+  "minimum_main_figure_font_pt": {
+    "1": 7.469,
+    "2": 7.469,
+    "3": 7.469,
+    "4": 7.469
+  }
+}

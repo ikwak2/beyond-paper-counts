@@ -4,6 +4,6 @@ test_missingness_extremes_and_monotonicity (test_reproduction.ReproductionTests.
 test_omitted_keys_fail_comparison (test_reproduction.ReproductionTests.test_omitted_keys_fail_comparison) ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.049s
+Ran 4 tests in 0.050s
 
 OK

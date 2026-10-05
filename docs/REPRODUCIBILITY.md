@@ -1,6 +1,6 @@
 # Reproducibility and source provenance
 
-The current public model input supports model refits from frozen measurements; the older original-release document is retained as historical documentation and does not describe the expanded current public data scope. See README.md for the current three reproduction commands.
+The public model input supports model refits from frozen measurements. See README.md for the aggregate, model and final publication-figure commands. Original analysis source is retained for provenance; current execution uses the portable scripts.
 
 ## Data sources and dates
 

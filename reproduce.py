@@ -17,8 +17,7 @@ def main():
     steps = ["scripts/validate_release.py"]
     if not args.check_only:
         steps += ["scripts/build_pri.py", "scripts/build_restricted_bounds.py",
-                  "scripts/build_figure1.py", "scripts/build_figure2.py",
-                  "scripts/build_distance_figures.py"]
+                  "scripts/render_publication_figures.py"]
     for step in steps:
         print(f"\n>>> {step}", flush=True)
         command = [sys.executable, str(ROOT / step)]

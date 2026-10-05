@@ -70,7 +70,7 @@ def validate(generated=False):
                      "figure_2_panelC_sensitivity_data.csv", "figure_s3_plot_data.csv"]:
             pd.testing.assert_frame_equal(pd.read_csv(OUT / name),
                 pd.read_csv(ROOT / "results/figure_data" / name), check_exact=False, rtol=1e-10, atol=1e-9)
-        for name in ["fig1.pdf", "fig2.pdf", "figure3b_distance_trajectory.pdf", "fig4.pdf"]:
+        for name in ["fig1.pdf", "fig2.pdf", "fig3.pdf", "fig4.pdf"]:
             require((OUT / name).read_bytes().startswith(b"%PDF"), f"Missing generated figure: {name}")
         for name in ["restricted_bounds_qa.json", "figure2_v06_qa.json"]:
             report = json.loads((OUT / name).read_text())
