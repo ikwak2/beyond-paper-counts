@@ -1,0 +1,20 @@
+{
+  "OpenAlex_work_level": {
+    "execution_output_date_UTC": "2026-08-13",
+    "cached_unique_works": 863752,
+    "QC_output_date_UTC": "2026-08-14",
+    "duplicate_work_ids": 0,
+    "filter": "primary_topic.subfield.id:1702,type:article|conference-paper",
+    "source_input_present_in_checked_workspace": false
+  },
+  "SPECTER2": {
+    "completed_UTC": "2026-08-27T03:31:54",
+    "embedded_titles": 86598,
+    "dimensions": 768,
+    "active_adapter": "Stack[[PRX]]",
+    "embedding_matrix_sha256": "07b0f719738ece5face6f9979e997ac3fea31813829781acf65287b75fe97551",
+    "matrix_present_in_checked_workspace": false,
+    "immutable_revision_recorded": false
+  },
+  "evidence": "Historical Codex execution outputs and retained diagnostics; log excerpts do not reconstruct raw inputs."
+}

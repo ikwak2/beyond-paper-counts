@@ -21,7 +21,7 @@ def validate(generated=False):
     for name, digest in manifest.items():
         require(hashlib.sha256((ROOT / name).read_bytes()).hexdigest() == digest, f"Changed asset: {name}")
     require(len(list((ROOT / "results/tables").glob("*.csv"))) == 5, "Expected 5 legacy main-table CSVs")
-    require(len(list((ROOT / "results/additional_files").glob("*.csv"))) == 18, "Expected 18 supplementary CSVs")
+    require(len(list((ROOT / "results/additional_files").glob("*.csv"))) == 21, "Expected 21 supplementary CSVs")
     mapping = pd.read_csv(ROOT / "results/main_table_source_mapping.csv")
     for name in mapping.package_source_path:
         require((ROOT / "results" / name).is_file(), f"Missing table mapping target: {name}")
@@ -76,7 +76,7 @@ def validate(generated=False):
             report = json.loads((OUT / name).read_text())
             require(all(report["checks"].values()), f"Failed generator check: {name}")
         require(json.loads((OUT / "pri_qa.json").read_text())["status"] == "PASS", "PRI reproduction failed")
-    return {"status": "PASS", "hashed_files": len(manifest), "aggregate_csvs_checked": csv_count,
+    return {"status": "PASS", "hashed_files": len(manifest), "data_csvs_checked": csv_count,
             "manuscript_sample_counts": True, "probability_arithmetic": True,
             "44_specifications_and_8_bounds": True, "table_mapping_targets_exist": True,
             "generated_outputs_verified": generated,

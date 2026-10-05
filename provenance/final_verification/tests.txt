@@ -1,0 +1,9 @@
+test_common_bias_is_a_restricted_path (test_reproduction.ReproductionTests.test_common_bias_is_a_restricted_path) ... ok
+test_exact_plus2_and_pathway_precedence (test_reproduction.ReproductionTests.test_exact_plus2_and_pathway_precedence) ... ok
+test_missingness_extremes_and_monotonicity (test_reproduction.ReproductionTests.test_missingness_extremes_and_monotonicity) ... ok
+test_omitted_keys_fail_comparison (test_reproduction.ReproductionTests.test_omitted_keys_fail_comparison) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.049s
+
+OK

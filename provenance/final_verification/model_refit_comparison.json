@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "resamples": 2000,
+  "checks": {
+    "distance_observation_coverage_by_dimension.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "distance_observation_missingness_comparison.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "distance_observation_missingness_distributions.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "measurement_robustness_focal_signs.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "rq1_year_adjusted_mean_distance.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "rq1_year_distance_descriptive.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "rq2_experienced_coauthor_contrasts.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 7.200078207258986e-15
+    },
+    "rq2_experienced_coauthor_probabilities.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 3.097522238704187e-14
+    },
+    "rq2_model_diagnostics.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "rq3_exact_plus2_contrasts.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "rq3_exact_plus2_probabilities.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    },
+    "rq3_model_diagnostics.csv": {
+      "matches_frozen": true,
+      "max_absolute_difference": 0.0
+    }
+  },
+  "comparison_tolerance": {
+    "rtol": 1e-08,
+    "atol": 1e-08
+  },
+  "scope": "Models refit from frozen distances and public covariates. No upstream collection or embedding recomputation."
+}

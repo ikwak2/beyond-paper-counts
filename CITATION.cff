@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the code and frozen aggregate data."
+type: software
+title: "Beyond paper counts: Code and supporting data"
+version: "v1.0.0"
+authors:
+  - family-names: Ryu
+    given-names: Jungchan
+    affiliation: Chung-Ang University
+  - family-names: Kwak
+    given-names: Il-Youp
+    affiliation: Chung-Ang University
+repository-code: "https://github.com/ikwak2/beyond-paper-counts"
+url: "https://github.com/ikwak2/beyond-paper-counts"
+license: MIT

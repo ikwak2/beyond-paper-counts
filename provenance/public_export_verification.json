@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "model_input_rows": 12094,
+  "numeric_and_categorical_source_cells_identical": true,
+  "original_source_code_unchanged": true,
+  "direct_identifier_columns_excluded": true,
+  "calibration_points": 249,
+  "figure3_pixel_identical_to_current_publication_asset": true,
+  "aggregate_reproduction_exit_code": 0,
+  "original_manuscript_not_modified": true
+}
