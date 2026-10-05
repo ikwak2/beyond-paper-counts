@@ -1,6 +1,6 @@
 # Submission release and Zenodo archive
 
-This repository is ready for a submission release, but no archive DOI has been assigned in these files. The repository's visibility is controlled by its owner. These documentation changes do not make a private repository public or create a GitHub release.
+The public repository has a manually deposited Zenodo archive, version 1.0.0: https://doi.org/10.5281/zenodo.23160299. The revised archive replaces Figure 1 and its renderer with the compact layout used in the final manuscript. Analysis inputs and frozen numerical results are unchanged. Upload the updated ZIP to the existing record using Zenodo’s file-edit workflow when available; otherwise create a new version and update the manuscript to its version DOI.
 
 ## GitHub-to-Zenodo workflow
 

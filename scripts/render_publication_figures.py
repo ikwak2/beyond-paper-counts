@@ -9,7 +9,7 @@ import sys
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
+from matplotlib.patches import FancyBboxPatch, FancyArrowPatch, Rectangle
 import numpy as np
 import pandas as pd
 
@@ -42,28 +42,40 @@ def check_and_save(fig, name):
 
 
 def figure1():
-    fig,ax=plt.subplots(figsize=(4.91,3.45))
-    ax.set_xlim(0,1);ax.set_ylim(0,1);ax.axis('off')
-    def box(x,y,w,h,color,title,lines):
-        ax.add_patch(FancyBboxPatch((x,y),w,h,boxstyle='round,pad=.008',
-                                   ec=color,fc=matplotlib.colors.to_rgba(color,.12),lw=.7))
-        ax.text(x+w/2,y+h-.045,title,ha='center',va='top',fontsize=8.5,weight='bold')
-        ax.text(x+w/2,y+h-.13,lines,ha='center',va='top',fontsize=7.5,linespacing=1.32)
-    box(.16,.815,.68,.155,BLUE,'ICML and NeurIPS, 2018–2024','26,872 accepted papers')
-    box(.015,.045,.29,.59,'#DF8500','Representation',
-        'Accepted-paper shares\nvs observed AI output\n\nPaper–country credits\n44 specifications\n\nProduction-adjusted\nrepresentation\nRQ1')
-    box(.355,.045,.29,.59,'#388E3C','Entry',
-        'Observed new entrants\n12,094 researchers\n\nPrior-title histories\n9,639 (79.7%)\n\nPrior-to-entry\ntitle-portfolio distance\nRQ2, Diagnostic D1')
-    box(.695,.045,.29,.59,'#7E57A0','Persistence',
-        'Complete +2 follow-up\n2018–2022 entry years\n6,704 researchers\n\nPrimary analytic sample\n5,122\n\nReappearance at +2\nRQ3')
-    ax.plot([.5,.5],[.815,.72],color='#8B8B8B',lw=.65)
-    ax.plot([.16,.84],[.72,.72],color='#8B8B8B',lw=.65)
-    for x in [.16,.5,.84]:
-        ax.add_patch(FancyArrowPatch((x,.72),(x,.64),arrowstyle='->',mutation_scale=7,color='#8B8B8B',lw=.65))
-    ax.add_patch(FancyArrowPatch((.655,.695),(.687,.695),arrowstyle='->',mutation_scale=7,color='#8B8B8B',lw=.65))
-    ax.text(.665,.755,'Follow-up subset',ha='center',fontsize=7.5,color='#555555')
-    fig.subplots_adjust(left=.015,right=.985,bottom=.01,top=.99)
+    plt.rcParams.update({'font.family':'DejaVu Sans','font.size':7.5,'pdf.fonttype':42,'svg.fonttype':'none'})
+    fig=plt.figure(figsize=(4.91,2.70));ax=fig.add_axes([0,0,1,1]);ax.set(xlim=(0,1),ylim=(0,1));ax.axis('off')
+    ink='#29333D';gray='#7C8792';cols=['#A56C24','#48765D','#74628F'];xs=[.012,.348,.684];w=.304
+    texts=[]
+    def label(x,y,t,size=7.5,bold=False):
+     obj=ax.text(x,y,t,ha='center',va='center',fontsize=size,fontweight='bold' if bold else 'normal',color=ink,linespacing=1.24);texts.append(obj);return obj
+    checks=[]
+    def box(x,y,h,t,c,size=7.5,bold=False):
+     patch=Rectangle((x,y),w,h,facecolor='white',edgecolor='#C8CDD2',linewidth=.65);ax.add_patch(patch)
+     ax.plot([x,x+w],[y+h,y+h],color=c,lw=1.4)
+     obj=label(x+w/2,y+h/2,t,size,bold);checks.append((patch,obj))
+    def arrow(a,b):ax.add_patch(FancyArrowPatch(a,b,arrowstyle='-|>',mutation_scale=6,lw=.65,color=gray,shrinkA=0,shrinkB=0))
+    ax.add_patch(Rectangle((.19,.845),.62,.14,facecolor='#F2F4F6',edgecolor='#C8CDD2',lw=.65))
+    label(.5,.945,'ICML and NeurIPS, 2018–2024',8.5,True)
+    label(.5,.885,'26,872 accepted papers')
+    for x,t,c in zip(xs,['Representation','Entry','Persistence'],cols):label(x+w/2,.777,t,8.5,True)
+    ax.plot([.5,.5],[.845,.825],color=gray,lw=.65)
+    ax.plot([xs[0]+w/2,.5],[.825,.825],color=gray,lw=.65)
+    for x in xs[:2]:arrow((x+w/2,.825),(x+w/2,.800))
+    box(xs[0],.46,.27,'Accepted-paper shares\nvs observed AI output\n\nPaper–country credits',cols[0])
+    box(xs[1],.46,.27,'Observed new entrants\n12,094 researchers',cols[1])
+    box(xs[2],.46,.27,'Complete +2 follow-up\n2018–2022 entry years\n6,704 researchers',cols[2])
+    arrow((xs[1]+w,.595),(xs[2],.595))
+    box(xs[0],.027,.365,'44 specifications\n\nProduction-adjusted\nrepresentation\nRQ1',cols[0])
+    box(xs[1],.027,.365,'Prior-title histories\n9,639 (79.7%)\n\nPrior-to-entry\ntitle-portfolio distance\nRQ2, Diagnostic D1',cols[1])
+    box(xs[2],.027,.365,'Primary analytic sample\n5,122\n\nReappearance at +2\nRQ3',cols[2])
+    for x in xs:arrow((x+w/2,.46),(x+w/2,.402))
+    fig.canvas.draw();r=fig.canvas.get_renderer()
+    for t in texts:
+     b=t.get_window_extent(r);assert t.get_fontsize()>=7.5;assert fig.bbox.contains(b.x0,b.y0) and fig.bbox.contains(b.x1,b.y1),t.get_text()
+    for p,t in checks:
+     b=p.get_window_extent(r);q=t.get_window_extent(r);assert b.contains(q.x0,q.y0) and b.contains(q.x1,q.y1),t.get_text()
     check_and_save(fig,'fig1')
+    plt.rcParams.update(STYLE)
 
 
 def figure3():

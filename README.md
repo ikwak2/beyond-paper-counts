@@ -2,7 +2,7 @@
 
 Code and supporting data for **Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024**.
 
-The repository contains country-level aggregates, model inputs with direct identifiers removed, supplementary tables, and publication figures. A Zenodo archive DOI will be added after the submission release is published.
+The repository contains country-level aggregates, model inputs with direct identifiers removed, supplementary tables, and publication figures. The submission archive is available on Zenodo: https://doi.org/10.5281/zenodo.23160299 (version 1.0.0).
 
 ## Run the analyses
 
