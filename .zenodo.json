@@ -1,0 +1,23 @@
+{
+  "title": "Beyond paper counts: Code and supporting data",
+  "upload_type": "software",
+  "version": "v1.0.0",
+  "description": "Research code, frozen aggregate data, preserved country-level API responses, public model inputs with direct identifiers removed, calibration coordinates, and publication assets for Beyond Paper Counts. Model refits start from preserved distances. Missing work-level OpenAlex inputs and unrecorded SPECTER2 revisions limit upstream reproduction. Code is MIT; new numeric exports are CC0 1.0; upstream data retain their terms. See README for verification and execution commands.",
+  "creators": [
+    {
+      "name": "Ryu, Jungchan",
+      "affiliation": "Chung-Ang University"
+    },
+    {
+      "name": "Kwak, Il-Youp",
+      "affiliation": "Chung-Ang University"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bibliometrics",
+    "conference participation",
+    "ICML",
+    "NeurIPS"
+  ]
+}

@@ -1,0 +1,1471 @@
+﻿country_code,country_name,main_table_group,year,accepted_paper_credits,accepted_share,ai_output_credits,output_share,pri,accepted_credit_total,ai_output_credit_total,output_country_returned,pri_status
+AF,Afghanistan,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+AF,Afghanistan,Other countries,2019,0,0,8,8.19907350469397e-05,0,1927,97572,True,defined
+AF,Afghanistan,Other countries,2020,0,0,10,9.23531584780199e-05,0,2606,108280,True,defined
+AF,Afghanistan,Other countries,2021,0,0,16,0.000127790423705124,0,3140,125205,True,defined
+AF,Afghanistan,Other countries,2022,0,0,19,0.000147381648657663,0,3674,128917,True,defined
+AF,Afghanistan,Other countries,2023,0,0,17,0.000114487365982436,0,4862,148488,True,defined
+AF,Afghanistan,Other countries,2024,0,0,26,0.000161346373429976,0,6602,161144,True,defined
+AL,Albania,Other countries,2018,0,0,16,0.000184435914283409,0,1470,86751,True,defined
+AL,Albania,Other countries,2019,0,0,18,0.000184479153855614,0,1927,97572,True,defined
+AL,Albania,Other countries,2020,0,0,12,0.000110823790173624,0,2606,108280,True,defined
+AL,Albania,Other countries,2021,0,0,21,0.000167724931112975,0,3140,125205,True,defined
+AL,Albania,Other countries,2022,0,0,26,0.000201680150794697,0,3674,128917,True,defined
+AL,Albania,Other countries,2023,0,0,34,0.000228974731964873,0,4862,148488,True,defined
+AL,Albania,Other countries,2024,0,0,36,0.000223402670903043,0,6602,161144,True,defined
+DZ,Algeria,Other countries,2018,0,0,358,0.00412675358209127,0,1470,86751,True,defined
+DZ,Algeria,Other countries,2019,0,0,352,0.00360759234206535,0,1927,97572,True,defined
+DZ,Algeria,Other countries,2020,0,0,317,0.00292759512375323,0,2606,108280,True,defined
+DZ,Algeria,Other countries,2021,0,0,343,0.00273950720817859,0,3140,125205,True,defined
+DZ,Algeria,Other countries,2022,0,0,374,0.00290109139989295,0,3674,128917,True,defined
+DZ,Algeria,Other countries,2023,0,0,387,0.00260627121383546,0,4862,148488,True,defined
+DZ,Algeria,Other countries,2024,0,0,489,0.003034552946433,0,6602,161144,True,defined
+AD,Andorra,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+AD,Andorra,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+AD,Andorra,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+AD,Andorra,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+AD,Andorra,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+AD,Andorra,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+AD,Andorra,Other countries,2024,0,0,3,1.86168892419203e-05,0,6602,161144,True,defined
+AO,Angola,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+AO,Angola,Other countries,2019,0,0,5,5.12442094043373e-05,0,1927,97572,True,defined
+AO,Angola,Other countries,2020,0,0,3,2.7705947543406e-05,0,2606,108280,True,defined
+AO,Angola,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+AO,Angola,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+AO,Angola,Other countries,2023,0,0,6,4.04073056408599e-05,0,4862,148488,True,defined
+AO,Angola,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+AG,Antigua and Barbuda,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+AG,Antigua and Barbuda,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+AG,Antigua and Barbuda,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+AG,Antigua and Barbuda,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+AG,Antigua and Barbuda,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+AG,Antigua and Barbuda,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+AG,Antigua and Barbuda,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+AR,Argentina,Other countries,2018,0,0,161,0.0018558863874768,0,1470,86751,True,defined
+AR,Argentina,Other countries,2019,0,0,188,0.00192678227360308,0,1927,97572,True,defined
+AR,Argentina,Other countries,2020,1,0.000383729854182655,169,0.00156076837827854,0.245859577579278,2606,108280,True,defined
+AR,Argentina,Other countries,2021,0,0,171,0.00136576015334851,0,3140,125205,True,defined
+AR,Argentina,Other countries,2022,1,0.000272182906913446,140,0.00108597004274068,0.250635741504005,3674,128917,True,defined
+AR,Argentina,Other countries,2023,0,0,158,0.00106405904854264,0,4862,148488,True,defined
+AR,Argentina,Other countries,2024,1,0.000151469251741896,189,0.00117286402224098,0.129144767739133,6602,161144,True,defined
+AM,Armenia,Other countries,2018,0,0,20,0.000230544892854261,0,1470,86751,True,defined
+AM,Armenia,Other countries,2019,0,0,18,0.000184479153855614,0,1927,97572,True,defined
+AM,Armenia,Other countries,2020,0,0,20,0.00018470631695604,0,2606,108280,True,defined
+AM,Armenia,Other countries,2021,0,0,29,0.000231620142965537,0,3140,125205,True,defined
+AM,Armenia,Other countries,2022,0,0,36,0.000279249439561889,0,3674,128917,True,defined
+AM,Armenia,Other countries,2023,0,0,51,0.000343462097947309,0,4862,148488,True,defined
+AM,Armenia,Other countries,2024,1,0.000151469251741896,51,0.000316487117112645,0.47859531573914,6602,161144,True,defined
+AU,Australia,Core Anglophone,2018,19,0.0129251700680272,1865,0.0214983112586598,0.601217924166986,1470,86751,True,defined
+AU,Australia,Core Anglophone,2019,31,0.0160871821484172,2182,0.0223629729840528,0.719366882028124,1927,97572,True,defined
+AU,Australia,Core Anglophone,2020,49,0.0188027628549501,2339,0.0216014037680089,0.870441710959384,2606,108280,True,defined
+AU,Australia,Core Anglophone,2021,44,0.0140127388535032,2757,0.0220198873846891,0.636367416812792,3140,125205,True,defined
+AU,Australia,Core Anglophone,2022,62,0.0168753402286336,2633,0.0204239937324015,0.826250754369451,3674,128917,True,defined
+AU,Australia,Core Anglophone,2023,82,0.0168654874537227,2865,0.0192944884435106,0.874109075402577,4862,148488,True,defined
+AU,Australia,Core Anglophone,2024,88,0.0133292941532869,3037,0.0188464975425706,0.707255771168015,6602,161144,True,defined
+AT,Austria,Other countries,2018,7,0.00476190476190476,708,0.00816128920704084,0.583474576271186,1470,86751,True,defined
+AT,Austria,Other countries,2019,7,0.00363258951738454,748,0.00766613372688886,0.473848963088561,1927,97572,True,defined
+AT,Austria,Other countries,2020,11,0.00422102839600921,794,0.00733284078315478,0.575633444231583,2606,108280,True,defined
+AT,Austria,Other countries,2021,17,0.0054140127388535,899,0.00718022443193163,0.754017202411738,3140,125205,True,defined
+AT,Austria,Other countries,2022,11,0.0029940119760479,900,0.00698123598904722,0.428865602129075,3674,128917,True,defined
+AT,Austria,Other countries,2023,25,0.00514191690662279,938,0.00631700878185443,0.81397969896653,4862,148488,True,defined
+AT,Austria,Other countries,2024,33,0.00499848530748258,889,0.00551680484535571,0.906047150043839,6602,161144,True,defined
+AZ,Azerbaijan,Other countries,2018,0,0,47,0.000541780498207513,0,1470,86751,True,defined
+AZ,Azerbaijan,Other countries,2019,0,0,53,0.000543188619685975,0,1927,97572,True,defined
+AZ,Azerbaijan,Other countries,2020,0,0,38,0.000350942002216476,0,2606,108280,True,defined
+AZ,Azerbaijan,Other countries,2021,0,0,56,0.000447266482967933,0,3140,125205,True,defined
+AZ,Azerbaijan,Other countries,2022,0,0,63,0.000488686519233305,0,3674,128917,True,defined
+AZ,Azerbaijan,Other countries,2023,0,0,74,0.000498356769570605,0,4862,148488,True,defined
+AZ,Azerbaijan,Other countries,2024,0,0,100,0.000620562974730676,0,6602,161144,True,defined
+BS,Bahamas,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+BS,Bahamas,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+BS,Bahamas,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+BS,Bahamas,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+BS,Bahamas,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+BS,Bahamas,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+BS,Bahamas,Other countries,2024,0,0,3,1.86168892419203e-05,0,6602,161144,True,defined
+BH,Bahrain,Other countries,2018,0,0,24,0.000276653871425113,0,1470,86751,True,defined
+BH,Bahrain,Other countries,2019,0,0,46,0.000471446726519903,0,1927,97572,True,defined
+BH,Bahrain,Other countries,2020,0,0,37,0.000341706686368674,0,2606,108280,True,defined
+BH,Bahrain,Other countries,2021,0,0,62,0.000495187891857354,0,3140,125205,True,defined
+BH,Bahrain,Other countries,2022,0,0,76,0.000589526594630654,0,3674,128917,True,defined
+BH,Bahrain,Other countries,2023,0,0,71,0.000478153116750175,0,4862,148488,True,defined
+BH,Bahrain,Other countries,2024,0,0,102,0.000632974234225289,0,6602,161144,True,defined
+BD,Bangladesh,Other countries,2018,0,0,219,0.00252446657675416,0,1470,86751,True,defined
+BD,Bangladesh,Other countries,2019,0,0,369,0.00378182265404009,0,1927,97572,True,defined
+BD,Bangladesh,Other countries,2020,0,0,297,0.00274288880679719,0,2606,108280,True,defined
+BD,Bangladesh,Other countries,2021,0,0,515,0.00411325426300867,0,3140,125205,True,defined
+BD,Bangladesh,Other countries,2022,0,0,513,0.00397930451375691,0,3674,128917,True,defined
+BD,Bangladesh,Other countries,2023,0,0,675,0.00454582188459674,0,4862,148488,True,defined
+BD,Bangladesh,Other countries,2024,0,0,832,0.00516308394975922,0,6602,161144,True,defined
+BB,Barbados,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+BB,Barbados,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+BB,Barbados,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+BB,Barbados,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+BB,Barbados,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+BB,Barbados,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+BB,Barbados,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+BY,Belarus,Other countries,2018,0,0,40,0.000461089785708522,0,1470,86751,True,defined
+BY,Belarus,Other countries,2019,0,0,67,0.00068667240601812,0,1927,97572,True,defined
+BY,Belarus,Other countries,2020,0,0,53,0.000489471739933506,0,2606,108280,True,defined
+BY,Belarus,Other countries,2021,0,0,57,0.000455253384449503,0,3140,125205,True,defined
+BY,Belarus,Other countries,2022,0,0,66,0.000511957305863463,0,3674,128917,True,defined
+BY,Belarus,Other countries,2023,0,0,51,0.000343462097947309,0,4862,148488,True,defined
+BY,Belarus,Other countries,2024,0,0,79,0.000490244750037234,0,6602,161144,True,defined
+BE,Belgium,Other countries,2018,4,0.00272108843537415,682,0.0078615808463303,0.346124842899036,1470,86751,True,defined
+BE,Belgium,Other countries,2019,10,0.00518941359626362,774,0.00793260361579142,0.654187937228209,1927,97572,True,defined
+BE,Belgium,Other countries,2020,6,0.00230237912509593,718,0.00663095677872183,0.34721672933898,2606,108280,True,defined
+BE,Belgium,Other countries,2021,7,0.00222929936305732,800,0.00638952118525618,0.34889928343949,3140,125205,True,defined
+BE,Belgium,Other countries,2022,9,0.00244964616222101,719,0.00557723186236105,0.439222578991719,3674,128917,True,defined
+BE,Belgium,Other countries,2023,19,0.00390785684903332,797,0.00536743709929422,0.72806756311074,4862,148488,True,defined
+BE,Belgium,Other countries,2024,19,0.00287791578309603,797,0.00494588690860349,0.581880628546081,6602,161144,True,defined
+BJ,Benin,Other countries,2018,0,0,5,5.76362232135653e-05,0,1470,86751,True,defined
+BJ,Benin,Other countries,2019,0,0,6,6.14930512852048e-05,0,1927,97572,True,defined
+BJ,Benin,Other countries,2020,0,0,7,6.4647210934614e-05,0,2606,108280,True,defined
+BJ,Benin,Other countries,2021,0,0,11,8.78559162972725e-05,0,3140,125205,True,defined
+BJ,Benin,Other countries,2022,1,0.000272182906913446,13,0.000100840075397349,2.6991541392739,3674,128917,True,defined
+BJ,Benin,Other countries,2023,0,0,7,4.71418565810032e-05,0,4862,148488,True,defined
+BJ,Benin,Other countries,2024,0,0,16,9.92900759569081e-05,0,6602,161144,True,defined
+BM,Bermuda,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+BM,Bermuda,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+BM,Bermuda,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+BM,Bermuda,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+BM,Bermuda,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+BM,Bermuda,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+BM,Bermuda,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+BT,Bhutan,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+BT,Bhutan,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+BT,Bhutan,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+BT,Bhutan,Other countries,2021,0,0,3,2.39607044447107e-05,0,3140,125205,True,defined
+BT,Bhutan,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+BT,Bhutan,Other countries,2023,0,0,5,3.36727547007166e-05,0,4862,148488,True,defined
+BT,Bhutan,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+BO,Bolivia,Other countries,2018,0,0,7,8.06907124989914e-05,0,1470,86751,True,defined
+BO,Bolivia,Other countries,2019,0,0,12,0.00012298610257041,0,1927,97572,True,defined
+BO,Bolivia,Other countries,2020,0,0,9,8.3117842630218e-05,0,2606,108280,True,defined
+BO,Bolivia,Other countries,2021,0,0,14,0.000111816620741983,0,3140,125205,True,defined
+BO,Bolivia,Other countries,2022,0,0,8,6.2055431013753e-05,0,3674,128917,True,defined
+BO,Bolivia,Other countries,2023,0,0,14,9.42837131620064e-05,0,4862,148488,True,defined
+BO,Bolivia,Other countries,2024,0,0,17,0.000105495705704215,0,6602,161144,True,defined
+BA,Bosnia & Herzegovina,Other countries,2018,0,0,34,0.000391926317852244,0,1470,86751,True,defined
+BA,Bosnia & Herzegovina,Other countries,2019,0,0,30,0.000307465256426024,0,1927,97572,True,defined
+BA,Bosnia & Herzegovina,Other countries,2020,0,0,35,0.00032323605467307,0,2606,108280,True,defined
+BA,Bosnia & Herzegovina,Other countries,2021,0,0,22,0.000175711832594545,0,3140,125205,True,defined
+BA,Bosnia & Herzegovina,Other countries,2022,0,0,35,0.00027149251068517,0,3674,128917,True,defined
+BA,Bosnia & Herzegovina,Other countries,2023,0,0,51,0.000343462097947309,0,4862,148488,True,defined
+BA,Bosnia & Herzegovina,Other countries,2024,0,0,68,0.000421982822816859,0,6602,161144,True,defined
+BW,Botswana,Other countries,2018,0,0,16,0.000184435914283409,0,1470,86751,True,defined
+BW,Botswana,Other countries,2019,0,0,8,8.19907350469397e-05,0,1927,97572,True,defined
+BW,Botswana,Other countries,2020,0,0,9,8.3117842630218e-05,0,2606,108280,True,defined
+BW,Botswana,Other countries,2021,0,0,17,0.000135777325186694,0,3140,125205,True,defined
+BW,Botswana,Other countries,2022,0,0,16,0.000124110862027506,0,3674,128917,True,defined
+BW,Botswana,Other countries,2023,0,0,22,0.000148160120683153,0,4862,148488,True,defined
+BW,Botswana,Other countries,2024,0,0,23,0.000142729484188055,0,6602,161144,True,defined
+BR,Brazil,Other countries,2018,4,0.00272108843537415,1745,0.0201150419015343,0.1352762996316,1470,86751,True,defined
+BR,Brazil,Other countries,2019,0,0,1771,0.0181506989710163,0,1927,97572,True,defined
+BR,Brazil,Other countries,2020,1,0.000383729854182655,1920,0.0177318064277798,0.0216407649015093,2606,108280,True,defined
+BR,Brazil,Other countries,2021,3,0.000955414012738854,1796,0.0143444750609001,0.06660501751947,3140,125205,True,defined
+BR,Brazil,Other countries,2022,4,0.00108873162765378,1616,0.0125351970647781,0.0868539698281205,3674,128917,True,defined
+BR,Brazil,Other countries,2023,2,0.000411353352529823,1667,0.0112264964172189,0.0366412937075275,4862,148488,True,defined
+BR,Brazil,Other countries,2024,7,0.00106028476219327,1806,0.011207367323636,0.094606050785644,6602,161144,True,defined
+VG,British Virgin Islands,Other countries,2018,0,0,6,6.91634678562783e-05,0,1470,86751,True,defined
+VG,British Virgin Islands,Other countries,2019,0,0,3,3.07465256426024e-05,0,1927,97572,True,defined
+VG,British Virgin Islands,Other countries,2020,0,0,7,6.4647210934614e-05,0,2606,108280,True,defined
+VG,British Virgin Islands,Other countries,2021,0,0,6,4.79214088894213e-05,0,3140,125205,True,defined
+VG,British Virgin Islands,Other countries,2022,0,0,4,3.10277155068765e-05,0,3674,128917,True,defined
+VG,British Virgin Islands,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+VG,British Virgin Islands,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+BN,Brunei,Other countries,2018,0,0,7,8.06907124989914e-05,0,1470,86751,True,defined
+BN,Brunei,Other countries,2019,0,0,11,0.000112737260689542,0,1927,97572,True,defined
+BN,Brunei,Other countries,2020,0,0,7,6.4647210934614e-05,0,2606,108280,True,defined
+BN,Brunei,Other countries,2021,0,0,13,0.000103829719260413,0,3140,125205,True,defined
+BN,Brunei,Other countries,2022,0,0,33,0.000255978652931731,0,3674,128917,True,defined
+BN,Brunei,Other countries,2023,0,0,34,0.000228974731964873,0,4862,148488,True,defined
+BN,Brunei,Other countries,2024,0,0,31,0.000192374522166509,0,6602,161144,True,defined
+BG,Bulgaria,Other countries,2018,0,0,187,0.00215559474818734,0,1470,86751,True,defined
+BG,Bulgaria,Other countries,2019,0,0,213,0.00218300332062477,0,1927,97572,True,defined
+BG,Bulgaria,Other countries,2020,1,0.000383729854182655,245,0.00226265238271149,0.169592933105706,2606,108280,True,defined
+BG,Bulgaria,Other countries,2021,0,0,226,0.00180503973483487,0,3140,125205,True,defined
+BG,Bulgaria,Other countries,2022,2,0.000544365813826892,232,0.00179960749939884,0.302491412160006,3674,128917,True,defined
+BG,Bulgaria,Other countries,2023,2,0.000411353352529823,306,0.00206077258768385,0.199611230753099,4862,148488,True,defined
+BG,Bulgaria,Other countries,2024,3,0.000454407755225689,254,0.00157622995581592,0.288287729559403,6602,161144,True,defined
+BF,Burkina Faso,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+BF,Burkina Faso,Other countries,2019,0,0,11,0.000112737260689542,0,1927,97572,True,defined
+BF,Burkina Faso,Other countries,2020,0,0,10,9.23531584780199e-05,0,2606,108280,True,defined
+BF,Burkina Faso,Other countries,2021,0,0,10,7.98690148157022e-05,0,3140,125205,True,defined
+BF,Burkina Faso,Other countries,2022,0,0,6,4.65415732603148e-05,0,3674,128917,True,defined
+BF,Burkina Faso,Other countries,2023,0,0,21,0.00014142556974301,0,4862,148488,True,defined
+BF,Burkina Faso,Other countries,2024,0,0,14,8.68788164622946e-05,0,6602,161144,True,defined
+BI,Burundi,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+BI,Burundi,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+BI,Burundi,Other countries,2020,0,0,5,4.617657923901e-05,0,2606,108280,True,defined
+BI,Burundi,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+BI,Burundi,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+BI,Burundi,Other countries,2023,0,0,3,2.02036528204299e-05,0,4862,148488,True,defined
+BI,Burundi,Other countries,2024,0,0,3,1.86168892419203e-05,0,6602,161144,True,defined
+CV,Cabo Verde,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+CV,Cabo Verde,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+CV,Cabo Verde,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+CV,Cabo Verde,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+CV,Cabo Verde,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+CV,Cabo Verde,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+CV,Cabo Verde,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+KH,Cambodia,Other countries,2018,0,0,9,0.000103745201784417,0,1470,86751,True,defined
+KH,Cambodia,Other countries,2019,0,0,13,0.000133234944451277,0,1927,97572,True,defined
+KH,Cambodia,Other countries,2020,0,0,10,9.23531584780199e-05,0,2606,108280,True,defined
+KH,Cambodia,Other countries,2021,0,0,17,0.000135777325186694,0,3140,125205,True,defined
+KH,Cambodia,Other countries,2022,0,0,22,0.000170652435287821,0,3674,128917,True,defined
+KH,Cambodia,Other countries,2023,0,0,34,0.000228974731964873,0,4862,148488,True,defined
+KH,Cambodia,Other countries,2024,0,0,47,0.000291664598123418,0,6602,161144,True,defined
+CM,Cameroon,Other countries,2018,0,0,40,0.000461089785708522,0,1470,86751,True,defined
+CM,Cameroon,Other countries,2019,0,0,39,0.000399704833353831,0,1927,97572,True,defined
+CM,Cameroon,Other countries,2020,0,0,57,0.000526413003324714,0,2606,108280,True,defined
+CM,Cameroon,Other countries,2021,0,0,71,0.000567070005191486,0,3140,125205,True,defined
+CM,Cameroon,Other countries,2022,0,0,67,0.000519714234740182,0,3674,128917,True,defined
+CM,Cameroon,Other countries,2023,0,0,65,0.000437745811109315,0,4862,148488,True,defined
+CM,Cameroon,Other countries,2024,0,0,103,0.000639179863972596,0,6602,161144,True,defined
+CA,Canada,Core Anglophone,2018,89,0.0605442176870748,2107,0.0242879044621964,2.49277239134857,1470,86751,True,defined
+CA,Canada,Core Anglophone,2019,129,0.0669434353918007,2375,0.0243409994670602,2.75023363286264,1927,97572,True,defined
+CA,Canada,Core Anglophone,2020,157,0.0602455871066769,2706,0.0249907646841522,2.41071403248743,2606,108280,True,defined
+CA,Canada,Core Anglophone,2021,130,0.0414012738853503,3082,0.0246156303661994,1.68190996003092,3140,125205,True,defined
+CA,Canada,Core Anglophone,2022,152,0.0413718018508438,2888,0.0224020105959648,1.84678967424004,3674,128917,True,defined
+CA,Canada,Core Anglophone,2023,188,0.0386672151378034,3410,0.0229648187058887,1.68375878046397,4862,148488,True,defined
+CA,Canada,Core Anglophone,2024,212,0.032111481369282,3374,0.020937794767413,1.5336611007029,6602,161144,True,defined
+KY,Cayman Islands,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+KY,Cayman Islands,Other countries,2019,0,0,12,0.00012298610257041,0,1927,97572,True,defined
+KY,Cayman Islands,Other countries,2020,0,0,35,0.00032323605467307,0,2606,108280,True,defined
+KY,Cayman Islands,Other countries,2021,0,0,50,0.000399345074078511,0,3140,125205,True,defined
+KY,Cayman Islands,Other countries,2022,0,0,42,0.000325791012822203,0,3674,128917,True,defined
+KY,Cayman Islands,Other countries,2023,0,0,55,0.000370400301707882,0,4862,148488,True,defined
+KY,Cayman Islands,Other countries,2024,0,0,14,8.68788164622946e-05,0,6602,161144,True,defined
+CF,Central African Republic,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+CF,Central African Republic,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+CF,Central African Republic,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+CF,Central African Republic,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+CF,Central African Republic,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+CF,Central African Republic,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+CF,Central African Republic,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+TD,Chad,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+TD,Chad,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+TD,Chad,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+TD,Chad,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+TD,Chad,Other countries,2022,0,0,6,4.65415732603148e-05,0,3674,128917,True,defined
+TD,Chad,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+TD,Chad,Other countries,2024,0,0,3,1.86168892419203e-05,0,6602,161144,True,defined
+CL,Chile,Other countries,2018,2,0.00136054421768707,242,0.00278959320353656,0.487721369539551,1470,86751,True,defined
+CL,Chile,Other countries,2019,1,0.000518941359626362,234,0.00239822900012299,0.216385240775485,1927,97572,True,defined
+CL,Chile,Other countries,2020,1,0.000383729854182655,266,0.00245659401551533,0.156204017334203,2606,108280,True,defined
+CL,Chile,Other countries,2021,5,0.00159235668789809,279,0.00222834551335809,0.714591466337922,3140,125205,True,defined
+CL,Chile,Other countries,2022,1,0.000272182906913446,228,0.00176857978389196,0.153899139520003,3674,128917,True,defined
+CL,Chile,Other countries,2023,2,0.000411353352529823,241,0.00162302677657454,0.253448284690657,4862,148488,True,defined
+CL,Chile,Other countries,2024,4,0.000605877006967586,276,0.00171275381025666,0.353744363807191,6602,161144,True,defined
+CN,China,China,2018,109,0.0741496598639456,13391,0.15436133301057,0.480364210503857,1470,86751,True,defined
+CN,China,China,2019,152,0.0788790866632071,16490,0.169003402615504,0.46673076069754,1927,97572,True,defined
+CN,China,China,2020,246,0.0943975441289332,19078,0.176191355744366,0.535767170472843,2606,108280,True,defined
+CN,China,China,2021,376,0.119745222929936,24861,0.198562357733317,0.60306104488728,3140,125205,True,defined
+CN,China,China,2022,710,0.193249863908547,29057,0.225393082370828,0.857390394930588,3674,128917,True,defined
+CN,China,China,2023,948,0.194981489099136,33719,0.227082323150692,0.85863790009646,4862,148488,True,defined
+CN,China,China,2024,1868,0.282944562253862,38194,0.237017822568634,1.1937691401748,6602,161144,True,defined
+CO,Colombia,Other countries,2018,0,0,242,0.00278959320353656,0,1470,86751,True,defined
+CO,Colombia,Other countries,2019,0,0,222,0.00227524289755258,0,1927,97572,True,defined
+CO,Colombia,Other countries,2020,0,0,216,0.00199482822312523,0,2606,108280,True,defined
+CO,Colombia,Other countries,2021,0,0,196,0.00156543269038776,0,3140,125205,True,defined
+CO,Colombia,Other countries,2022,1,0.000272182906913446,190,0.00147381648657663,0.184678967424004,3674,128917,True,defined
+CO,Colombia,Other countries,2023,0,0,221,0.00148833575777167,0,4862,148488,True,defined
+CO,Colombia,Other countries,2024,0,0,250,0.00155140743682669,0,6602,161144,True,defined
+CG,Congo,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+CG,Congo,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+CG,Congo,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+CG,Congo,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+CG,Congo,Other countries,2022,0,0,5,3.87846443835956e-05,0,3674,128917,True,defined
+CG,Congo,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+CG,Congo,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+CR,Costa Rica,Other countries,2018,0,0,14,0.000161381424997983,0,1470,86751,True,defined
+CR,Costa Rica,Other countries,2019,0,0,25,0.000256221047021687,0,1927,97572,True,defined
+CR,Costa Rica,Other countries,2020,0,0,17,0.000157000369412634,0,2606,108280,True,defined
+CR,Costa Rica,Other countries,2021,0,0,25,0.000199672537039256,0,3140,125205,True,defined
+CR,Costa Rica,Other countries,2022,0,0,27,0.000209437079671416,0,3674,128917,True,defined
+CR,Costa Rica,Other countries,2023,0,0,34,0.000228974731964873,0,4862,148488,True,defined
+CR,Costa Rica,Other countries,2024,0,0,29,0.000179963262671896,0,6602,161144,True,defined
+HR,Croatia,Other countries,2018,0,0,121,0.00139479660176828,0,1470,86751,True,defined
+HR,Croatia,Other countries,2019,0,0,120,0.0012298610257041,0,1927,97572,True,defined
+HR,Croatia,Other countries,2020,0,0,156,0.00144070927225711,0,2606,108280,True,defined
+HR,Croatia,Other countries,2021,1,0.000318471337579618,145,0.00115810071482768,0.274994509114869,3140,125205,True,defined
+HR,Croatia,Other countries,2022,0,0,158,0.00122559476252162,0,3674,128917,True,defined
+HR,Croatia,Other countries,2023,1,0.000205676676264912,190,0.00127956467862723,0.160739570027496,4862,148488,True,defined
+HR,Croatia,Other countries,2024,1,0.000151469251741896,178,0.0011046020950206,0.13712562417245,6602,161144,True,defined
+CU,Cuba,Other countries,2018,0,0,50,0.000576362232135653,0,1470,86751,True,defined
+CU,Cuba,Other countries,2019,0,0,56,0.000573935145328578,0,1927,97572,True,defined
+CU,Cuba,Other countries,2020,0,0,43,0.000397118581455486,0,2606,108280,True,defined
+CU,Cuba,Other countries,2021,0,0,54,0.000431292680004792,0,3140,125205,True,defined
+CU,Cuba,Other countries,2022,0,0,30,0.000232707866301574,0,3674,128917,True,defined
+CU,Cuba,Other countries,2023,0,0,32,0.000215505630084586,0,4862,148488,True,defined
+CU,Cuba,Other countries,2024,0,0,31,0.000192374522166509,0,6602,161144,True,defined
+CW,Curaçao,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+CW,Curaçao,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+CW,Curaçao,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+CW,Curaçao,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+CW,Curaçao,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+CW,Curaçao,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+CW,Curaçao,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+CY,Cyprus,Other countries,2018,0,0,70,0.000806907124989914,0,1470,86751,True,defined
+CY,Cyprus,Other countries,2019,0,0,78,0.000799409666707662,0,1927,97572,True,defined
+CY,Cyprus,Other countries,2020,0,0,109,0.00100664942741042,0,2606,108280,True,defined
+CY,Cyprus,Other countries,2021,0,0,112,0.000894532965935865,0,3140,125205,True,defined
+CY,Cyprus,Other countries,2022,1,0.000272182906913446,125,0.000969616109589891,0.280712030484486,3674,128917,True,defined
+CY,Cyprus,Other countries,2023,1,0.000205676676264912,144,0.000969775335380637,0.212086932675168,4862,148488,True,defined
+CY,Cyprus,Other countries,2024,0,0,152,0.000943255721590627,0,6602,161144,True,defined
+CZ,Czechia,Other countries,2018,0,0,640,0.00737743657133635,0,1470,86751,True,defined
+CZ,Czechia,Other countries,2019,1,0.000518941359626362,664,0.006805231008896,0.0762562444901557,1927,97572,True,defined
+CZ,Czechia,Other countries,2020,1,0.000383729854182655,619,0.00571666050978943,0.0671248281274603,2606,108280,True,defined
+CZ,Czechia,Other countries,2021,0,0,676,0.00539914540154147,0,3140,125205,True,defined
+CZ,Czechia,Other countries,2022,0,0,615,0.00477051125918226,0,3674,128917,True,defined
+CZ,Czechia,Other countries,2023,3,0.000617030028794735,702,0.0047276547599806,0.130515035492411,4862,148488,True,defined
+CZ,Czechia,Other countries,2024,5,0.000757346258709482,588,0.00364891029141637,0.207554091009321,6602,161144,True,defined
+DK,Denmark,Other countries,2018,6,0.00408163265306122,461,0.00531405978029072,0.7680818097304,1470,86751,True,defined
+DK,Denmark,Other countries,2019,10,0.00518941359626362,535,0.00548313040626409,0.946432641896512,1927,97572,True,defined
+DK,Denmark,Other countries,2020,9,0.0034535686876439,588,0.00543036571850757,0.635973499146397,2606,108280,True,defined
+DK,Denmark,Other countries,2021,12,0.00382165605095541,731,0.00583842498302783,0.654569693378759,3140,125205,True,defined
+DK,Denmark,Other countries,2022,17,0.00462710941752858,680,0.00527471163616901,0.877225095264017,3674,128917,True,defined
+DK,Denmark,Other countries,2023,21,0.00431921020156314,727,0.00489601853348419,0.88218828667085,4862,148488,True,defined
+DK,Denmark,Other countries,2024,35,0.00530142381096637,753,0.00467283919972199,1.13451877635374,6602,161144,True,defined
+DJ,Djibouti,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+DJ,Djibouti,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+DJ,Djibouti,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+DJ,Djibouti,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+DJ,Djibouti,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+DJ,Djibouti,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+DJ,Djibouti,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+DM,Dominica,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+DM,Dominica,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+DM,Dominica,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+DM,Dominica,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+DM,Dominica,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+DM,Dominica,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+DM,Dominica,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+DO,Dominican Rep.,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+DO,Dominican Rep.,Other countries,2019,0,0,11,0.000112737260689542,0,1927,97572,True,defined
+DO,Dominican Rep.,Other countries,2020,0,0,9,8.3117842630218e-05,0,2606,108280,True,defined
+DO,Dominican Rep.,Other countries,2021,0,0,9,7.1882113334132e-05,0,3140,125205,True,defined
+DO,Dominican Rep.,Other countries,2022,0,0,3,2.32707866301574e-05,0,3674,128917,True,defined
+DO,Dominican Rep.,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+DO,Dominican Rep.,Other countries,2024,0,0,6,3.72337784838405e-05,0,6602,161144,True,defined
+CD,DR Congo,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+CD,DR Congo,Other countries,2019,0,0,4,4.09953675234698e-05,0,1927,97572,True,defined
+CD,DR Congo,Other countries,2020,0,0,6,5.5411895086812e-05,0,2606,108280,True,defined
+CD,DR Congo,Other countries,2021,0,0,8,6.38952118525618e-05,0,3140,125205,True,defined
+CD,DR Congo,Other countries,2022,0,0,6,4.65415732603148e-05,0,3674,128917,True,defined
+CD,DR Congo,Other countries,2023,0,0,10,6.73455094014331e-05,0,4862,148488,True,defined
+CD,DR Congo,Other countries,2024,0,0,25,0.000155140743682669,0,6602,161144,True,defined
+EC,Ecuador,Other countries,2018,0,0,123,0.00141785109105371,0,1470,86751,True,defined
+EC,Ecuador,Other countries,2019,0,0,129,0.0013221006026319,0,1927,97572,True,defined
+EC,Ecuador,Other countries,2020,0,0,141,0.00130217953454008,0,2606,108280,True,defined
+EC,Ecuador,Other countries,2021,0,0,103,0.000822650852601733,0,3140,125205,True,defined
+EC,Ecuador,Other countries,2022,0,0,104,0.000806720603178789,0,3674,128917,True,defined
+EC,Ecuador,Other countries,2023,0,0,120,0.000808146112817197,0,4862,148488,True,defined
+EC,Ecuador,Other countries,2024,0,0,168,0.00104254579754754,0,6602,161144,True,defined
+EG,Egypt,Other countries,2018,0,0,467,0.005383223248147,0,1470,86751,True,defined
+EG,Egypt,Other countries,2019,0,0,565,0.00579059566269012,0,1927,97572,True,defined
+EG,Egypt,Other countries,2020,0,0,626,0.00578130772072405,0,2606,108280,True,defined
+EG,Egypt,Other countries,2021,0,0,793,0.00633361287488519,0,3140,125205,True,defined
+EG,Egypt,Other countries,2022,0,0,909,0.00705104834893769,0,3674,128917,True,defined
+EG,Egypt,Other countries,2023,0,0,940,0.00633047788373471,0,4862,148488,True,defined
+EG,Egypt,Other countries,2024,0,0,1001,0.00621183537705406,0,6602,161144,True,defined
+SV,El Salvador,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+SV,El Salvador,Other countries,2019,0,0,3,3.07465256426024e-05,0,1927,97572,True,defined
+SV,El Salvador,Other countries,2020,0,0,4,3.6941263391208e-05,0,2606,108280,True,defined
+SV,El Salvador,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+SV,El Salvador,Other countries,2022,0,0,4,3.10277155068765e-05,0,3674,128917,True,defined
+SV,El Salvador,Other countries,2023,0,0,6,4.04073056408599e-05,0,4862,148488,True,defined
+SV,El Salvador,Other countries,2024,0,0,6,3.72337784838405e-05,0,6602,161144,True,defined
+ER,Eritrea,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+ER,Eritrea,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+ER,Eritrea,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+ER,Eritrea,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+ER,Eritrea,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+ER,Eritrea,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+ER,Eritrea,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+EE,Estonia,Other countries,2018,0,0,76,0.000876070592846192,0,1470,86751,True,defined
+EE,Estonia,Other countries,2019,1,0.000518941359626362,96,0.000983888820563276,0.527439024390244,1927,97572,True,defined
+EE,Estonia,Other countries,2020,0,0,110,0.00101588474325822,0,2606,108280,True,defined
+EE,Estonia,Other countries,2021,0,0,109,0.000870572261491154,0,3140,125205,True,defined
+EE,Estonia,Other countries,2022,0,0,142,0.00110148390049412,0,3674,128917,True,defined
+EE,Estonia,Other countries,2023,1,0.000205676676264912,131,0.000882226173158774,0.233133727520795,4862,148488,True,defined
+EE,Estonia,Other countries,2024,1,0.000151469251741896,136,0.000843965645633719,0.179473243402178,6602,161144,True,defined
+SZ,Eswatini,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+SZ,Eswatini,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+SZ,Eswatini,Other countries,2020,0,0,3,2.7705947543406e-05,0,2606,108280,True,defined
+SZ,Eswatini,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+SZ,Eswatini,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+SZ,Eswatini,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+SZ,Eswatini,Other countries,2024,0,0,7,4.34394082311473e-05,0,6602,161144,True,defined
+ET,Ethiopia,Other countries,2018,0,0,33,0.000380399073209531,0,1470,86751,True,defined
+ET,Ethiopia,Other countries,2019,0,0,47,0.000481695568400771,0,1927,97572,True,defined
+ET,Ethiopia,Other countries,2020,0,0,69,0.000637236793498338,0,2606,108280,True,defined
+ET,Ethiopia,Other countries,2021,0,0,119,0.000950441276306857,0,3140,125205,True,defined
+ET,Ethiopia,Other countries,2022,0,0,159,0.00123335169139834,0,3674,128917,True,defined
+ET,Ethiopia,Other countries,2023,0,0,136,0.00091589892785949,0,4862,148488,True,defined
+ET,Ethiopia,Other countries,2024,0,0,128,0.000794320607655265,0,6602,161144,True,defined
+FO,Faroe Islands,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+FO,Faroe Islands,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+FO,Faroe Islands,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+FO,Faroe Islands,Other countries,2021,0,0,3,2.39607044447107e-05,0,3140,125205,True,defined
+FO,Faroe Islands,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+FO,Faroe Islands,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+FO,Faroe Islands,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+FJ,Fiji,Other countries,2018,0,0,8,9.22179571417044e-05,0,1470,86751,True,defined
+FJ,Fiji,Other countries,2019,0,0,5,5.12442094043373e-05,0,1927,97572,True,defined
+FJ,Fiji,Other countries,2020,0,0,11,0.000101588474325822,0,2606,108280,True,defined
+FJ,Fiji,Other countries,2021,0,0,9,7.1882113334132e-05,0,3140,125205,True,defined
+FJ,Fiji,Other countries,2022,0,0,17,0.000131867790904225,0,3674,128917,True,defined
+FJ,Fiji,Other countries,2023,0,0,8,5.38764075211465e-05,0,4862,148488,True,defined
+FJ,Fiji,Other countries,2024,0,0,10,6.20562974730676e-05,0,6602,161144,True,defined
+FI,Finland,Other countries,2018,3,0.00204081632653061,426,0.00491060621779576,0.415593561368209,1470,86751,True,defined
+FI,Finland,Other countries,2019,11,0.00570835495588998,527,0.00540113967121715,1.05687971490721,1927,97572,True,defined
+FI,Finland,Other countries,2020,9,0.0034535686876439,552,0.0050978943479867,0.677450031699423,2606,108280,True,defined
+FI,Finland,Other countries,2021,11,0.0035031847133758,575,0.00459246835190288,0.762810855718638,3140,125205,True,defined
+FI,Finland,Other countries,2022,10,0.00272182906913446,579,0.00449126181962038,0.606027699664261,3674,128917,True,defined
+FI,Finland,Other countries,2023,14,0.00287947346770876,639,0.00430337805075158,0.669119336890671,4862,148488,True,defined
+FI,Finland,Other countries,2024,24,0.00363526204180551,651,0.0040398649654967,0.899847413924282,6602,161144,True,defined
+FR,France,Other countries,2018,56,0.0380952380952381,3530,0.0406911735887771,0.936203966005666,1470,86751,True,defined
+FR,France,Other countries,2019,91,0.047223663725999,3685,0.0377669823309966,1.25039547274713,1927,97572,True,defined
+FR,France,Other countries,2020,110,0.0422102839600921,3508,0.0323974879940894,1.30288755621402,2606,108280,True,defined
+FR,France,Other countries,2021,131,0.0417197452229299,3916,0.031276706201829,1.33389190516776,3140,125205,True,defined
+FR,France,Other countries,2022,126,0.0342950462710942,3773,0.0292668926518613,1.17180346677197,3674,128917,True,defined
+FR,France,Other countries,2023,132,0.0271493212669683,3925,0.0264331124400625,1.02709513790818,4862,148488,True,defined
+FR,France,Other countries,2024,138,0.0209027567403817,3825,0.0237365337834483,0.880615380960018,6602,161144,True,defined
+GF,French Guiana,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+GF,French Guiana,Other countries,2019,0,0,3,3.07465256426024e-05,0,1927,97572,True,defined
+GF,French Guiana,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+GF,French Guiana,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+GF,French Guiana,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+GF,French Guiana,Other countries,2023,0,0,2,1.34691018802866e-05,0,4862,148488,True,defined
+GF,French Guiana,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+PF,French Polynesia,Other countries,2018,0,0,5,5.76362232135653e-05,0,1470,86751,True,defined
+PF,French Polynesia,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+PF,French Polynesia,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+PF,French Polynesia,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+PF,French Polynesia,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+PF,French Polynesia,Other countries,2023,0,0,5,3.36727547007166e-05,0,4862,148488,True,defined
+PF,French Polynesia,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+GA,Gabon,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+GA,Gabon,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+GA,Gabon,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+GA,Gabon,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+GA,Gabon,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+GA,Gabon,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+GA,Gabon,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+GM,Gambia,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+GM,Gambia,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+GM,Gambia,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+GM,Gambia,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+GM,Gambia,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+GM,Gambia,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+GM,Gambia,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+GE,Georgia,Other countries,2018,0,0,11,0.000126799691069844,0,1470,86751,True,defined
+GE,Georgia,Other countries,2019,0,0,14,0.000143483786332144,0,1927,97572,True,defined
+GE,Georgia,Other countries,2020,0,0,17,0.000157000369412634,0,2606,108280,True,defined
+GE,Georgia,Other countries,2021,0,0,30,0.000239607044447107,0,3140,125205,True,defined
+GE,Georgia,Other countries,2022,0,0,17,0.000131867790904225,0,3674,128917,True,defined
+GE,Georgia,Other countries,2023,0,0,29,0.000195301977264156,0,4862,148488,True,defined
+GE,Georgia,Other countries,2024,0,0,35,0.000217197041155736,0,6602,161144,True,defined
+DE,Germany,Other countries,2018,54,0.036734693877551,3784,0.0436190937280262,0.842170039263063,1470,86751,True,defined
+DE,Germany,Other countries,2019,59,0.0306175402179554,4096,0.0419792563440331,0.729349275914634,1927,97572,True,defined
+DE,Germany,Other countries,2020,84,0.0322333077513431,4390,0.0405430365718508,0.795039308272307,2606,108280,True,defined
+DE,Germany,Other countries,2021,129,0.0410828025477707,5100,0.0407331975560081,1.00858280254777,3140,125205,True,defined
+DE,Germany,Other countries,2022,140,0.0381056069678824,4619,0.0358292544815657,1.0635333477979,3674,128917,True,defined
+DE,Germany,Other countries,2023,198,0.0407239819004525,5329,0.0358884219600237,1.13473871728925,4862,148488,True,defined
+DE,Germany,Other countries,2024,284,0.0430172674946986,5376,0.0333614655215211,1.28942979039541,6602,161144,True,defined
+GH,Ghana,Other countries,2018,0,0,28,0.000322762849995965,0,1470,86751,True,defined
+GH,Ghana,Other countries,2019,0,0,55,0.00056368630344771,0,1927,97572,True,defined
+GH,Ghana,Other countries,2020,0,0,55,0.00050794237162911,0,2606,108280,True,defined
+GH,Ghana,Other countries,2021,0,0,81,0.000646939020007188,0,3140,125205,True,defined
+GH,Ghana,Other countries,2022,0,0,103,0.00079896367430207,0,3674,128917,True,defined
+GH,Ghana,Other countries,2023,0,0,99,0.000666720543074188,0,4862,148488,True,defined
+GH,Ghana,Other countries,2024,0,0,137,0.000850171275381026,0,6602,161144,True,defined
+GR,Greece,Other countries,2018,1,0.000680272108843537,455,0.00524489631243444,0.129701726844584,1470,86751,True,defined
+GR,Greece,Other countries,2019,1,0.000518941359626362,458,0.0046939695814373,0.110554904675684,1927,97572,True,defined
+GR,Greece,Other countries,2020,2,0.000767459708365311,559,0.00516254155892132,0.14865927946654,2606,108280,True,defined
+GR,Greece,Other countries,2021,2,0.000636942675159236,591,0.004720258775608,0.134938083998836,3140,125205,True,defined
+GR,Greece,Other countries,2022,7,0.00190528034839412,616,0.00477826818805898,0.398738679665462,3674,128917,True,defined
+GR,Greece,Other countries,2023,3,0.000617030028794735,765,0.00515193146920963,0.11976673845186,4862,148488,True,defined
+GR,Greece,Other countries,2024,9,0.00136322326567707,767,0.00475971801618428,0.286408409288482,6602,161144,True,defined
+GL,Greenland,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+GL,Greenland,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+GL,Greenland,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+GL,Greenland,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+GL,Greenland,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+GL,Greenland,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+GL,Greenland,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+GD,Grenada,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+GD,Grenada,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+GD,Grenada,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+GD,Grenada,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+GD,Grenada,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+GD,Grenada,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+GD,Grenada,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+GP,Guadeloupe,Other countries,2018,0,0,6,6.91634678562783e-05,0,1470,86751,True,defined
+GP,Guadeloupe,Other countries,2019,0,0,5,5.12442094043373e-05,0,1927,97572,True,defined
+GP,Guadeloupe,Other countries,2020,0,0,5,4.617657923901e-05,0,2606,108280,True,defined
+GP,Guadeloupe,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+GP,Guadeloupe,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+GP,Guadeloupe,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+GP,Guadeloupe,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+GU,Guam,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+GU,Guam,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+GU,Guam,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+GU,Guam,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+GU,Guam,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+GU,Guam,Other countries,2023,0,0,2,1.34691018802866e-05,0,4862,148488,True,defined
+GU,Guam,Other countries,2024,0,0,3,1.86168892419203e-05,0,6602,161144,True,defined
+GT,Guatemala,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+GT,Guatemala,Other countries,2019,0,0,4,4.09953675234698e-05,0,1927,97572,True,defined
+GT,Guatemala,Other countries,2020,0,0,5,4.617657923901e-05,0,2606,108280,True,defined
+GT,Guatemala,Other countries,2021,0,0,8,6.38952118525618e-05,0,3140,125205,True,defined
+GT,Guatemala,Other countries,2022,0,0,6,4.65415732603148e-05,0,3674,128917,True,defined
+GT,Guatemala,Other countries,2023,0,0,8,5.38764075211465e-05,0,4862,148488,True,defined
+GT,Guatemala,Other countries,2024,0,0,11,6.82619272203743e-05,0,6602,161144,True,defined
+GN,Guinea,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+GN,Guinea,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+GN,Guinea,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+GN,Guinea,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+GN,Guinea,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+GN,Guinea,Other countries,2023,0,0,3,2.02036528204299e-05,0,4862,148488,True,defined
+GN,Guinea,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+GW,Guinea-Bissau,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+GW,Guinea-Bissau,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+GW,Guinea-Bissau,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+GW,Guinea-Bissau,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+GW,Guinea-Bissau,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+GW,Guinea-Bissau,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+GW,Guinea-Bissau,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+GY,Guyana,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+GY,Guyana,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+GY,Guyana,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+GY,Guyana,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+GY,Guyana,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+GY,Guyana,Other countries,2023,0,0,2,1.34691018802866e-05,0,4862,148488,True,defined
+GY,Guyana,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+HT,Haiti,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+HT,Haiti,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+HT,Haiti,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+HT,Haiti,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+HT,Haiti,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+HT,Haiti,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+HT,Haiti,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+HN,Honduras,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+HN,Honduras,Other countries,2019,0,0,5,5.12442094043373e-05,0,1927,97572,True,defined
+HN,Honduras,Other countries,2020,0,0,12,0.000110823790173624,0,2606,108280,True,defined
+HN,Honduras,Other countries,2021,0,0,3,2.39607044447107e-05,0,3140,125205,True,defined
+HN,Honduras,Other countries,2022,0,0,3,2.32707866301574e-05,0,3674,128917,True,defined
+HN,Honduras,Other countries,2023,0,0,6,4.04073056408599e-05,0,4862,148488,True,defined
+HN,Honduras,Other countries,2024,0,0,3,1.86168892419203e-05,0,6602,161144,True,defined
+HK,Hong Kong,Other countries,2018,19,0.0129251700680272,620,0.00714689167848209,1.80850230414747,1470,86751,True,defined
+HK,Hong Kong,Other countries,2019,21,0.0108977685521536,724,0.00742016152174804,1.46866999056731,1927,97572,True,defined
+HK,Hong Kong,Other countries,2020,22,0.00844205679201842,950,0.0087735500554119,0.962216746778689,2606,108280,True,defined
+HK,Hong Kong,Other countries,2021,51,0.0162420382165605,1164,0.00929675332454774,1.74706563136122,3140,125205,True,defined
+HK,Hong Kong,Other countries,2022,96,0.0261295590636908,1263,0.00979700117129626,2.66709767681221,3674,128917,True,defined
+HK,Hong Kong,Other countries,2023,132,0.0271493212669683,1646,0.0110850708474759,2.44917886773365,4862,148488,True,defined
+HK,Hong Kong,Other countries,2024,204,0.0308997273553469,2023,0.0125539889788016,2.46134733808701,6602,161144,True,defined
+HU,Hungary,Other countries,2018,0,0,254,0.00292792013924912,0,1470,86751,True,defined
+HU,Hungary,Other countries,2019,0,0,276,0.00282868035911942,0,1927,97572,True,defined
+HU,Hungary,Other countries,2020,1,0.000383729854182655,265,0.00244735869966753,0.156793466456219,2606,108280,True,defined
+HU,Hungary,Other countries,2021,2,0.000636942675159236,309,0.0024679525578052,0.258085461628842,3140,125205,True,defined
+HU,Hungary,Other countries,2022,0,0,314,0.00243567566728981,0,3674,128917,True,defined
+HU,Hungary,Other countries,2023,1,0.000205676676264912,371,0.00249851839879317,0.0823194563483132,4862,148488,True,defined
+HU,Hungary,Other countries,2024,0,0,441,0.00273668271856228,0,6602,161144,True,defined
+IS,Iceland,Other countries,2018,0,0,21,0.000242072137496974,0,1470,86751,True,defined
+IS,Iceland,Other countries,2019,0,0,21,0.000215225679498217,0,1927,97572,True,defined
+IS,Iceland,Other countries,2020,0,0,28,0.000258588843738456,0,2606,108280,True,defined
+IS,Iceland,Other countries,2021,0,0,40,0.000319476059262809,0,3140,125205,True,defined
+IS,Iceland,Other countries,2022,0,0,43,0.000333547941698923,0,3674,128917,True,defined
+IS,Iceland,Other countries,2023,0,0,31,0.000208771079144443,0,4862,148488,True,defined
+IS,Iceland,Other countries,2024,0,0,37,0.00022960830065035,0,6602,161144,True,defined
+IN,India,India,2018,12,0.00816326530612245,4423,0.0509850030547198,0.160111107522367,1470,86751,True,defined
+IN,India,India,2019,16,0.0083030617540218,4503,0.0461505349895462,0.179912578606132,1927,97572,True,defined
+IN,India,India,2020,29,0.011128165771297,5542,0.0511821204285187,0.217422914059192,2606,108280,True,defined
+IN,India,India,2021,37,0.0117834394904459,6384,0.0509883790583443,0.231100492074134,3140,125205,True,defined
+IN,India,India,2022,31,0.00843767011431682,7653,0.0593637766935315,0.142134995181939,3674,128917,True,defined
+IN,India,India,2023,33,0.00678733031674208,10343,0.0696554603739023,0.0974414680530212,4862,148488,True,defined
+IN,India,India,2024,32,0.00484701605574068,12200,0.0757086829171424,0.0640219307611702,6602,161144,True,defined
+ID,Indonesia,Other countries,2018,0,0,4282,0.0493596615600973,0,1470,86751,True,defined
+ID,Indonesia,Other countries,2019,0,0,5093,0.052197351699258,0,1927,97572,True,defined
+ID,Indonesia,Other countries,2020,0,0,5812,0.0536756557074252,0,2606,108280,True,defined
+ID,Indonesia,Other countries,2021,0,0,6563,0.0524180344235454,0,3140,125205,True,defined
+ID,Indonesia,Other countries,2022,0,0,6251,0.0484885624083713,0,3674,128917,True,defined
+ID,Indonesia,Other countries,2023,0,0,8084,0.0544421098001185,0,4862,148488,True,defined
+ID,Indonesia,Other countries,2024,0,0,8956,0.0555776200168793,0,6602,161144,True,defined
+IR,Iran,Other countries,2018,1,0.000680272108843537,1137,0.0131064771587647,0.0519035054655107,1470,86751,True,defined
+IR,Iran,Other countries,2019,3,0.00155682407887909,1152,0.0118066658467593,0.131859756097561,1927,97572,True,defined
+IR,Iran,Other countries,2020,2,0.000767459708365311,1358,0.0125415589213151,0.0611933263783475,2606,108280,True,defined
+IR,Iran,Other countries,2021,2,0.000636942675159236,1371,0.0109500419312328,0.058168058091402,3140,125205,True,defined
+IR,Iran,Other countries,2022,2,0.000544365813826892,1169,0.00906784985688466,0.060032512935091,3674,128917,True,defined
+IR,Iran,Other countries,2023,2,0.000411353352529823,1099,0.0074012714832175,0.0555787412287974,4862,148488,True,defined
+IR,Iran,Other countries,2024,4,0.000605877006967586,1216,0.00754604577272502,0.0802906615220268,6602,161144,True,defined
+IQ,Iraq,Other countries,2018,0,0,188,0.00216712199283005,0,1470,86751,True,defined
+IQ,Iraq,Other countries,2019,0,0,310,0.00317714098306891,0,1927,97572,True,defined
+IQ,Iraq,Other countries,2020,0,0,457,0.00422053934244551,0,2606,108280,True,defined
+IQ,Iraq,Other countries,2021,0,0,574,0.00458448145042131,0,3140,125205,True,defined
+IQ,Iraq,Other countries,2022,0,0,711,0.0055151764313473,0,3674,128917,True,defined
+IQ,Iraq,Other countries,2023,0,0,843,0.00567722644254081,0,4862,148488,True,defined
+IQ,Iraq,Other countries,2024,0,0,900,0.00558506677257608,0,6602,161144,True,defined
+IE,Ireland,Core Anglophone,2018,0,0,336,0.00387315419995159,0,1470,86751,True,defined
+IE,Ireland,Core Anglophone,2019,3,0.00155682407887909,357,0.00365883655146968,0.425497028079524,1927,97572,True,defined
+IE,Ireland,Core Anglophone,2020,0,0,429,0.00396195049870706,0,2606,108280,True,defined
+IE,Ireland,Core Anglophone,2021,2,0.000636942675159236,510,0.00407331975560081,0.156369426751592,3140,125205,True,defined
+IE,Ireland,Core Anglophone,2022,0,0,444,0.00344407642126329,0,3674,128917,True,defined
+IE,Ireland,Core Anglophone,2023,3,0.000617030028794735,591,0.0039801196056247,0.155028011701646,4862,148488,True,defined
+IE,Ireland,Core Anglophone,2024,4,0.000605877006967586,567,0.00351859206672293,0.172193023652177,6602,161144,True,defined
+IM,Isle of Man,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+IM,Isle of Man,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+IM,Isle of Man,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+IM,Isle of Man,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+IM,Isle of Man,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+IM,Isle of Man,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+IM,Isle of Man,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+IL,Israel,Other countries,2018,34,0.0231292517006803,616,0.00710078269991124,3.25728200371057,1470,86751,True,defined
+IL,Israel,Other countries,2019,47,0.024390243902439,762,0.00780961751322101,3.12310351449971,1927,97572,True,defined
+IL,Israel,Other countries,2020,59,0.0226400613967767,835,0.00771148873291467,2.93588724316524,2606,108280,True,defined
+IL,Israel,Other countries,2021,80,0.0254777070063694,1066,0.00851403697935386,2.99243555884848,3140,125205,True,defined
+IL,Israel,Other countries,2022,65,0.017691888949374,773,0.00599610602170389,2.95056306298376,3674,128917,True,defined
+IL,Israel,Other countries,2023,85,0.0174825174825175,796,0.00536070254835408,3.261236251186,4862,148488,True,defined
+IL,Israel,Other countries,2024,95,0.0143895789154802,746,0.00462939979149084,3.10830335758195,6602,161144,True,defined
+IT,Italy,Other countries,2018,23,0.0156462585034014,2210,0.0254752106603958,0.614175824175824,1470,86751,True,defined
+IT,Italy,Other countries,2019,14,0.00726517903476907,2532,0.0259500676423564,0.279967633799561,1927,97572,True,defined
+IT,Italy,Other countries,2020,23,0.00882578664620107,2653,0.0245012929442187,0.360217179815549,2606,108280,True,defined
+IT,Italy,Other countries,2021,22,0.00700636942675159,2924,0.0233536999321113,0.300011109465264,3140,125205,True,defined
+IT,Italy,Other countries,2022,45,0.0122482308111051,3061,0.0237439592916373,0.515846184735456,3674,128917,True,defined
+IT,Italy,Other countries,2023,44,0.00904977375565611,3483,0.0234564409245192,0.385811887863871,4862,148488,True,defined
+IT,Italy,Other countries,2024,70,0.0106028476219327,3726,0.023122176438465,0.458557508638951,6602,161144,True,defined
+CI,Ivory Coast,Other countries,2018,0,0,10,0.000115272446427131,0,1470,86751,True,defined
+CI,Ivory Coast,Other countries,2019,0,0,8,8.19907350469397e-05,0,1927,97572,True,defined
+CI,Ivory Coast,Other countries,2020,0,0,10,9.23531584780199e-05,0,2606,108280,True,defined
+CI,Ivory Coast,Other countries,2021,0,0,15,0.000119803522223553,0,3140,125205,True,defined
+CI,Ivory Coast,Other countries,2022,0,0,11,8.53262176439104e-05,0,3674,128917,True,defined
+CI,Ivory Coast,Other countries,2023,0,0,12,8.08146112817197e-05,0,4862,148488,True,defined
+CI,Ivory Coast,Other countries,2024,0,0,8,4.96450379784541e-05,0,6602,161144,True,defined
+JM,Jamaica,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+JM,Jamaica,Other countries,2019,0,0,7,7.17418931660722e-05,0,1927,97572,True,defined
+JM,Jamaica,Other countries,2020,0,0,8,7.3882526782416e-05,0,2606,108280,True,defined
+JM,Jamaica,Other countries,2021,0,0,17,0.000135777325186694,0,3140,125205,True,defined
+JM,Jamaica,Other countries,2022,0,0,10,7.75692887671913e-05,0,3674,128917,True,defined
+JM,Jamaica,Other countries,2023,0,0,9,6.06109584612898e-05,0,4862,148488,True,defined
+JM,Jamaica,Other countries,2024,0,0,10,6.20562974730676e-05,0,6602,161144,True,defined
+JP,Japan,Other countries,2018,29,0.0197278911564626,3216,0.0370716187709652,0.53215618336887,1470,86751,True,defined
+JP,Japan,Other countries,2019,37,0.0192008303061754,3188,0.0326733079162055,0.587661045995654,1927,97572,True,defined
+JP,Japan,Other countries,2020,39,0.0149654643131236,3420,0.0315847801994828,0.473818852580415,2606,108280,True,defined
+JP,Japan,Other countries,2021,48,0.0152866242038217,3457,0.0276107184217883,0.553648187283625,3140,125205,True,defined
+JP,Japan,Other countries,2022,56,0.015242242787153,3554,0.0275681252278598,0.552893701010523,3674,128917,True,defined
+JP,Japan,Other countries,2023,66,0.0135746606334842,3906,0.0263051559721998,0.516045624205017,4862,148488,True,defined
+JP,Japan,Other countries,2024,79,0.0119660708876098,4105,0.0254741101126942,0.469734598565894,6602,161144,True,defined
+JE,Jersey,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+JE,Jersey,Other countries,2019,1,0.000518941359626362,0,0,,1927,97572,False,undefined_zero_observed_output
+JE,Jersey,Other countries,2020,2,0.000767459708365311,0,0,,2606,108280,False,undefined_zero_observed_output
+JE,Jersey,Other countries,2021,1,0.000318471337579618,0,0,,3140,125205,False,undefined_zero_observed_output
+JE,Jersey,Other countries,2022,1,0.000272182906913446,0,0,,3674,128917,False,undefined_zero_observed_output
+JE,Jersey,Other countries,2023,2,0.000411353352529823,0,0,,4862,148488,False,undefined_zero_observed_output
+JE,Jersey,Other countries,2024,3,0.000454407755225689,0,0,,6602,161144,False,undefined_zero_observed_output
+JO,Jordan,Other countries,2018,0,0,294,0.00338900992495764,0,1470,86751,True,defined
+JO,Jordan,Other countries,2019,0,0,362,0.00371008076087402,0,1927,97572,True,defined
+JO,Jordan,Other countries,2020,0,0,407,0.00375877355005541,0,2606,108280,True,defined
+JO,Jordan,Other countries,2021,0,0,385,0.00307495707040454,0,3140,125205,True,defined
+JO,Jordan,Other countries,2022,0,0,571,0.00442920638860662,0,3674,128917,True,defined
+JO,Jordan,Other countries,2023,0,0,704,0.00474112386186089,0,4862,148488,True,defined
+JO,Jordan,Other countries,2024,0,0,629,0.00390334111105595,0,6602,161144,True,defined
+KZ,Kazakhstan,Other countries,2018,0,0,84,0.000968288549987896,0,1470,86751,True,defined
+KZ,Kazakhstan,Other countries,2019,0,0,102,0.00104538187184848,0,1927,97572,True,defined
+KZ,Kazakhstan,Other countries,2020,0,0,104,0.000960472848171407,0,2606,108280,True,defined
+KZ,Kazakhstan,Other countries,2021,0,0,147,0.00117407451779082,0,3140,125205,True,defined
+KZ,Kazakhstan,Other countries,2022,0,0,148,0.00114802547375443,0,3674,128917,True,defined
+KZ,Kazakhstan,Other countries,2023,0,0,183,0.00123242282204623,0,4862,148488,True,defined
+KZ,Kazakhstan,Other countries,2024,0,0,273,0.00169413692101474,0,6602,161144,True,defined
+KE,Kenya,Other countries,2018,0,0,30,0.000345817339281392,0,1470,86751,True,defined
+KE,Kenya,Other countries,2019,0,0,68,0.000696921247898987,0,1927,97572,True,defined
+KE,Kenya,Other countries,2020,0,0,55,0.00050794237162911,0,2606,108280,True,defined
+KE,Kenya,Other countries,2021,0,0,87,0.00069486042889661,0,3140,125205,True,defined
+KE,Kenya,Other countries,2022,0,0,95,0.000736908243288317,0,3674,128917,True,defined
+KE,Kenya,Other countries,2023,0,0,104,0.000700393297774904,0,4862,148488,True,defined
+KE,Kenya,Other countries,2024,0,0,88,0.000546095417762995,0,6602,161144,True,defined
+KI,Kiribati,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+KI,Kiribati,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+KI,Kiribati,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+KI,Kiribati,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+KI,Kiribati,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+KI,Kiribati,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+KI,Kiribati,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+XK,Kosovo,Other countries,2018,0,0,9,0.000103745201784417,0,1470,86751,True,defined
+XK,Kosovo,Other countries,2019,0,0,8,8.19907350469397e-05,0,1927,97572,True,defined
+XK,Kosovo,Other countries,2020,0,0,4,3.6941263391208e-05,0,2606,108280,True,defined
+XK,Kosovo,Other countries,2021,0,0,7,5.59083103709916e-05,0,3140,125205,True,defined
+XK,Kosovo,Other countries,2022,0,0,9,6.98123598904722e-05,0,3674,128917,True,defined
+XK,Kosovo,Other countries,2023,0,0,15,0.00010101826410215,0,4862,148488,True,defined
+XK,Kosovo,Other countries,2024,0,0,18,0.000111701335451522,0,6602,161144,True,defined
+KW,Kuwait,Other countries,2018,0,0,37,0.000426508051780383,0,1470,86751,True,defined
+KW,Kuwait,Other countries,2019,0,0,49,0.000502193252162506,0,1927,97572,True,defined
+KW,Kuwait,Other countries,2020,0,0,52,0.000480236424085704,0,2606,108280,True,defined
+KW,Kuwait,Other countries,2021,0,0,50,0.000399345074078511,0,3140,125205,True,defined
+KW,Kuwait,Other countries,2022,0,0,66,0.000511957305863463,0,3674,128917,True,defined
+KW,Kuwait,Other countries,2023,0,0,90,0.000606109584612898,0,4862,148488,True,defined
+KW,Kuwait,Other countries,2024,0,0,105,0.000651591123467209,0,6602,161144,True,defined
+KG,Kyrgyzstan,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+KG,Kyrgyzstan,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+KG,Kyrgyzstan,Other countries,2020,0,0,6,5.5411895086812e-05,0,2606,108280,True,defined
+KG,Kyrgyzstan,Other countries,2021,0,0,17,0.000135777325186694,0,3140,125205,True,defined
+KG,Kyrgyzstan,Other countries,2022,0,0,16,0.000124110862027506,0,3674,128917,True,defined
+KG,Kyrgyzstan,Other countries,2023,0,0,6,4.04073056408599e-05,0,4862,148488,True,defined
+KG,Kyrgyzstan,Other countries,2024,0,0,20,0.000124112594946135,0,6602,161144,True,defined
+LA,Laos,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+LA,Laos,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+LA,Laos,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+LA,Laos,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+LA,Laos,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+LA,Laos,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+LA,Laos,Other countries,2024,0,0,3,1.86168892419203e-05,0,6602,161144,True,defined
+LV,Latvia,Other countries,2018,0,0,65,0.000749270901776348,0,1470,86751,True,defined
+LV,Latvia,Other countries,2019,1,0.000518941359626362,47,0.000481695568400771,1.07732226258433,1927,97572,True,defined
+LV,Latvia,Other countries,2020,0,0,69,0.000637236793498338,0,2606,108280,True,defined
+LV,Latvia,Other countries,2021,0,0,70,0.000559083103709916,0,3140,125205,True,defined
+LV,Latvia,Other countries,2022,0,0,75,0.000581769665753935,0,3674,128917,True,defined
+LV,Latvia,Other countries,2023,0,0,89,0.000599375033672755,0,4862,148488,True,defined
+LV,Latvia,Other countries,2024,1,0.000151469251741896,85,0.000527478528521074,0.287157189443484,6602,161144,True,defined
+LB,Lebanon,Other countries,2018,0,0,71,0.000818434369632627,0,1470,86751,True,defined
+LB,Lebanon,Other countries,2019,1,0.000518941359626362,67,0.00068667240601812,0.755733527484528,1927,97572,True,defined
+LB,Lebanon,Other countries,2020,0,0,74,0.000683413372737348,0,2606,108280,True,defined
+LB,Lebanon,Other countries,2021,0,0,70,0.000559083103709916,0,3140,125205,True,defined
+LB,Lebanon,Other countries,2022,0,0,121,0.000938588394083015,0,3674,128917,True,defined
+LB,Lebanon,Other countries,2023,0,0,235,0.00158261947093368,0,4862,148488,True,defined
+LB,Lebanon,Other countries,2024,0,0,181,0.00112321898426252,0,6602,161144,True,defined
+LS,Lesotho,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+LS,Lesotho,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+LS,Lesotho,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+LS,Lesotho,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+LS,Lesotho,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+LS,Lesotho,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+LS,Lesotho,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+LR,Liberia,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+LR,Liberia,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+LR,Liberia,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+LR,Liberia,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+LR,Liberia,Other countries,2022,0,0,4,3.10277155068765e-05,0,3674,128917,True,defined
+LR,Liberia,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+LR,Liberia,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+LY,Libya,Other countries,2018,0,0,12,0.000138326935712557,0,1470,86751,True,defined
+LY,Libya,Other countries,2019,0,0,13,0.000133234944451277,0,1927,97572,True,defined
+LY,Libya,Other countries,2020,0,0,29,0.000267824159586258,0,2606,108280,True,defined
+LY,Libya,Other countries,2021,0,0,41,0.000327462960744379,0,3140,125205,True,defined
+LY,Libya,Other countries,2022,0,0,38,0.000294763297315327,0,3674,128917,True,defined
+LY,Libya,Other countries,2023,0,0,48,0.000323258445126879,0,4862,148488,True,defined
+LY,Libya,Other countries,2024,0,0,50,0.000310281487365338,0,6602,161144,True,defined
+LI,Liechtenstein,Other countries,2018,0,0,4,4.61089785708522e-05,0,1470,86751,True,defined
+LI,Liechtenstein,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+LI,Liechtenstein,Other countries,2020,0,0,5,4.617657923901e-05,0,2606,108280,True,defined
+LI,Liechtenstein,Other countries,2021,0,0,4,3.19476059262809e-05,0,3140,125205,True,defined
+LI,Liechtenstein,Other countries,2022,0,0,8,6.2055431013753e-05,0,3674,128917,True,defined
+LI,Liechtenstein,Other countries,2023,0,0,7,4.71418565810032e-05,0,4862,148488,True,defined
+LI,Liechtenstein,Other countries,2024,0,0,11,6.82619272203743e-05,0,6602,161144,True,defined
+LT,Lithuania,Other countries,2018,0,0,48,0.000553307742850226,0,1470,86751,True,defined
+LT,Lithuania,Other countries,2019,0,0,69,0.000707170089779855,0,1927,97572,True,defined
+LT,Lithuania,Other countries,2020,0,0,69,0.000637236793498338,0,2606,108280,True,defined
+LT,Lithuania,Other countries,2021,0,0,79,0.000630965217044048,0,3140,125205,True,defined
+LT,Lithuania,Other countries,2022,0,0,77,0.000597283523507373,0,3674,128917,True,defined
+LT,Lithuania,Other countries,2023,0,0,90,0.000606109584612898,0,4862,148488,True,defined
+LT,Lithuania,Other countries,2024,0,0,100,0.000620562974730676,0,6602,161144,True,defined
+LU,Luxembourg,Other countries,2018,0,0,130,0.0014985418035527,0,1470,86751,True,defined
+LU,Luxembourg,Other countries,2019,0,0,135,0.00138359365391711,0,1927,97572,True,defined
+LU,Luxembourg,Other countries,2020,0,0,156,0.00144070927225711,0,2606,108280,True,defined
+LU,Luxembourg,Other countries,2021,0,0,128,0.00102232338964099,0,3140,125205,True,defined
+LU,Luxembourg,Other countries,2022,1,0.000272182906913446,158,0.00122559476252162,0.222082302598485,3674,128917,True,defined
+LU,Luxembourg,Other countries,2023,4,0.000822706705059646,172,0.00115834276170465,0.7102446117494,4862,148488,True,defined
+LU,Luxembourg,Other countries,2024,7,0.00106028476219327,188,0.00116665839249367,0.908821955951452,6602,161144,True,defined
+MO,Macao,Other countries,2018,0,0,96,0.00110661548570045,0,1470,86751,True,defined
+MO,Macao,Other countries,2019,0,0,116,0.00118886565818063,0,1927,97572,True,defined
+MO,Macao,Other countries,2020,0,0,148,0.0013668267454747,0,2606,108280,True,defined
+MO,Macao,Other countries,2021,0,0,208,0.00166127550816661,0,3140,125205,True,defined
+MO,Macao,Other countries,2022,1,0.000272182906913446,269,0.00208661386783745,0.130442393347809,3674,128917,True,defined
+MO,Macao,Other countries,2023,2,0.000411353352529823,348,0.00234362372716987,0.175520220144967,4862,148488,True,defined
+MO,Macao,Other countries,2024,8,0.00121175401393517,512,0.00317728243062106,0.381380642229627,6602,161144,True,defined
+MG,Madagascar,Other countries,2018,0,0,8,9.22179571417044e-05,0,1470,86751,True,defined
+MG,Madagascar,Other countries,2019,0,0,10,0.000102488418808675,0,1927,97572,True,defined
+MG,Madagascar,Other countries,2020,0,0,3,2.7705947543406e-05,0,2606,108280,True,defined
+MG,Madagascar,Other countries,2021,0,0,9,7.1882113334132e-05,0,3140,125205,True,defined
+MG,Madagascar,Other countries,2022,0,0,10,7.75692887671913e-05,0,3674,128917,True,defined
+MG,Madagascar,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+MG,Madagascar,Other countries,2024,0,0,10,6.20562974730676e-05,0,6602,161144,True,defined
+MW,Malawi,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+MW,Malawi,Other countries,2019,0,0,7,7.17418931660722e-05,0,1927,97572,True,defined
+MW,Malawi,Other countries,2020,0,0,3,2.7705947543406e-05,0,2606,108280,True,defined
+MW,Malawi,Other countries,2021,0,0,3,2.39607044447107e-05,0,3140,125205,True,defined
+MW,Malawi,Other countries,2022,0,0,10,7.75692887671913e-05,0,3674,128917,True,defined
+MW,Malawi,Other countries,2023,0,0,13,8.7549162221863e-05,0,4862,148488,True,defined
+MW,Malawi,Other countries,2024,0,0,22,0.000136523854440749,0,6602,161144,True,defined
+MY,Malaysia,Other countries,2018,1,0.000680272108843537,811,0.00934859540524029,0.0727673066760613,1470,86751,True,defined
+MY,Malaysia,Other countries,2019,0,0,802,0.0082195711884557,0,1927,97572,True,defined
+MY,Malaysia,Other countries,2020,0,0,860,0.00794237162910972,0,2606,108280,True,defined
+MY,Malaysia,Other countries,2021,1,0.000318471337579618,1045,0.00834631204824089,0.03815713284369,3140,125205,True,defined
+MY,Malaysia,Other countries,2022,0,0,1203,0.00933158543869311,0,3674,128917,True,defined
+MY,Malaysia,Other countries,2023,0,0,1335,0.00899062550509132,0,4862,148488,True,defined
+MY,Malaysia,Other countries,2024,0,0,1508,0.00935808965893859,0,6602,161144,True,defined
+MV,Maldives,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+MV,Maldives,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+MV,Maldives,Other countries,2020,0,0,3,2.7705947543406e-05,0,2606,108280,True,defined
+MV,Maldives,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+MV,Maldives,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+MV,Maldives,Other countries,2023,0,0,2,1.34691018802866e-05,0,4862,148488,True,defined
+MV,Maldives,Other countries,2024,0,0,5,3.10281487365338e-05,0,6602,161144,True,defined
+ML,Mali,Other countries,2018,0,0,4,4.61089785708522e-05,0,1470,86751,True,defined
+ML,Mali,Other countries,2019,0,0,4,4.09953675234698e-05,0,1927,97572,True,defined
+ML,Mali,Other countries,2020,0,0,5,4.617657923901e-05,0,2606,108280,True,defined
+ML,Mali,Other countries,2021,0,0,6,4.79214088894213e-05,0,3140,125205,True,defined
+ML,Mali,Other countries,2022,0,0,4,3.10277155068765e-05,0,3674,128917,True,defined
+ML,Mali,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+ML,Mali,Other countries,2024,1,0.000151469251741896,4,2.4822518989227e-05,6.10209027567404,6602,161144,True,defined
+MT,Malta,Other countries,2018,0,0,32,0.000368871828566818,0,1470,86751,True,defined
+MT,Malta,Other countries,2019,0,0,34,0.000348460623949494,0,1927,97572,True,defined
+MT,Malta,Other countries,2020,0,0,35,0.00032323605467307,0,2606,108280,True,defined
+MT,Malta,Other countries,2021,0,0,34,0.000271554650373388,0,3140,125205,True,defined
+MT,Malta,Other countries,2022,0,0,42,0.000325791012822203,0,3674,128917,True,defined
+MT,Malta,Other countries,2023,0,0,37,0.000249178384785302,0,4862,148488,True,defined
+MT,Malta,Other countries,2024,0,0,38,0.000235813930397657,0,6602,161144,True,defined
+MQ,Martinique,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+MQ,Martinique,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+MQ,Martinique,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+MQ,Martinique,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+MQ,Martinique,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+MQ,Martinique,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+MQ,Martinique,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+MR,Mauritania,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+MR,Mauritania,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+MR,Mauritania,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+MR,Mauritania,Other countries,2021,0,0,6,4.79214088894213e-05,0,3140,125205,True,defined
+MR,Mauritania,Other countries,2022,0,0,4,3.10277155068765e-05,0,3674,128917,True,defined
+MR,Mauritania,Other countries,2023,0,0,7,4.71418565810032e-05,0,4862,148488,True,defined
+MR,Mauritania,Other countries,2024,0,0,13,8.06731867149878e-05,0,6602,161144,True,defined
+MU,Mauritius,Other countries,2018,0,0,12,0.000138326935712557,0,1470,86751,True,defined
+MU,Mauritius,Other countries,2019,0,0,11,0.000112737260689542,0,1927,97572,True,defined
+MU,Mauritius,Other countries,2020,0,0,12,0.000110823790173624,0,2606,108280,True,defined
+MU,Mauritius,Other countries,2021,0,0,7,5.59083103709916e-05,0,3140,125205,True,defined
+MU,Mauritius,Other countries,2022,0,0,17,0.000131867790904225,0,3674,128917,True,defined
+MU,Mauritius,Other countries,2023,0,0,22,0.000148160120683153,0,4862,148488,True,defined
+MU,Mauritius,Other countries,2024,0,0,27,0.000167552003177282,0,6602,161144,True,defined
+MX,Mexico,Other countries,2018,0,0,573,0.00660511118027458,0,1470,86751,True,defined
+MX,Mexico,Other countries,2019,0,0,578,0.00592383060714139,0,1927,97572,True,defined
+MX,Mexico,Other countries,2020,0,0,576,0.00531954192833395,0,2606,108280,True,defined
+MX,Mexico,Other countries,2021,0,0,586,0.00468032426820015,0,3140,125205,True,defined
+MX,Mexico,Other countries,2022,0,0,524,0.00406463073140082,0,3674,128917,True,defined
+MX,Mexico,Other countries,2023,0,0,560,0.00377134852648025,0,4862,148488,True,defined
+MX,Mexico,Other countries,2024,0,0,671,0.00416397756044283,0,6602,161144,True,defined
+FM,Micronesia,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+FM,Micronesia,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+FM,Micronesia,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+FM,Micronesia,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+FM,Micronesia,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+FM,Micronesia,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+FM,Micronesia,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+MD,Moldova,Other countries,2018,0,0,11,0.000126799691069844,0,1470,86751,True,defined
+MD,Moldova,Other countries,2019,0,0,17,0.000174230311974747,0,1927,97572,True,defined
+MD,Moldova,Other countries,2020,0,0,9,8.3117842630218e-05,0,2606,108280,True,defined
+MD,Moldova,Other countries,2021,0,0,19,0.000151751128149834,0,3140,125205,True,defined
+MD,Moldova,Other countries,2022,0,0,27,0.000209437079671416,0,3674,128917,True,defined
+MD,Moldova,Other countries,2023,0,0,29,0.000195301977264156,0,4862,148488,True,defined
+MD,Moldova,Other countries,2024,0,0,25,0.000155140743682669,0,6602,161144,True,defined
+MC,Monaco,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+MC,Monaco,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+MC,Monaco,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+MC,Monaco,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+MC,Monaco,Other countries,2022,0,0,3,2.32707866301574e-05,0,3674,128917,True,defined
+MC,Monaco,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+MC,Monaco,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+MN,Mongolia,Other countries,2018,0,0,12,0.000138326935712557,0,1470,86751,True,defined
+MN,Mongolia,Other countries,2019,0,0,27,0.000276718730783421,0,1927,97572,True,defined
+MN,Mongolia,Other countries,2020,0,0,23,0.000212412264499446,0,2606,108280,True,defined
+MN,Mongolia,Other countries,2021,0,0,33,0.000263567748891817,0,3140,125205,True,defined
+MN,Mongolia,Other countries,2022,0,0,30,0.000232707866301574,0,3674,128917,True,defined
+MN,Mongolia,Other countries,2023,0,0,49,0.000329992996067022,0,4862,148488,True,defined
+MN,Mongolia,Other countries,2024,0,0,52,0.000322692746859951,0,6602,161144,True,defined
+ME,Montenegro,Other countries,2018,0,0,7,8.06907124989914e-05,0,1470,86751,True,defined
+ME,Montenegro,Other countries,2019,0,0,7,7.17418931660722e-05,0,1927,97572,True,defined
+ME,Montenegro,Other countries,2020,0,0,13,0.000120059106021426,0,2606,108280,True,defined
+ME,Montenegro,Other countries,2021,0,0,14,0.000111816620741983,0,3140,125205,True,defined
+ME,Montenegro,Other countries,2022,0,0,11,8.53262176439104e-05,0,3674,128917,True,defined
+ME,Montenegro,Other countries,2023,0,0,24,0.000161629222563439,0,4862,148488,True,defined
+ME,Montenegro,Other countries,2024,0,0,33,0.000204785781661123,0,6602,161144,True,defined
+MS,Montserrat,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+MS,Montserrat,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+MS,Montserrat,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+MS,Montserrat,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+MS,Montserrat,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+MS,Montserrat,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+MS,Montserrat,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+MA,Morocco,Other countries,2018,0,0,365,0.00420744429459026,0,1470,86751,True,defined
+MA,Morocco,Other countries,2019,0,0,374,0.00383306686344443,0,1927,97572,True,defined
+MA,Morocco,Other countries,2020,0,0,387,0.00357406723309937,0,2606,108280,True,defined
+MA,Morocco,Other countries,2021,0,0,402,0.00321073439559123,0,3140,125205,True,defined
+MA,Morocco,Other countries,2022,0,0,499,0.00387070750948285,0,3674,128917,True,defined
+MA,Morocco,Other countries,2023,0,0,570,0.00383869403588169,0,4862,148488,True,defined
+MA,Morocco,Other countries,2024,0,0,701,0.00435014645286204,0,6602,161144,True,defined
+MZ,Mozambique,Other countries,2018,0,0,9,0.000103745201784417,0,1470,86751,True,defined
+MZ,Mozambique,Other countries,2019,0,0,6,6.14930512852048e-05,0,1927,97572,True,defined
+MZ,Mozambique,Other countries,2020,0,0,9,8.3117842630218e-05,0,2606,108280,True,defined
+MZ,Mozambique,Other countries,2021,0,0,10,7.98690148157022e-05,0,3140,125205,True,defined
+MZ,Mozambique,Other countries,2022,0,0,5,3.87846443835956e-05,0,3674,128917,True,defined
+MZ,Mozambique,Other countries,2023,0,0,15,0.00010101826410215,0,4862,148488,True,defined
+MZ,Mozambique,Other countries,2024,0,0,11,6.82619272203743e-05,0,6602,161144,True,defined
+MM,Myanmar,Other countries,2018,0,0,50,0.000576362232135653,0,1470,86751,True,defined
+MM,Myanmar,Other countries,2019,0,0,56,0.000573935145328578,0,1927,97572,True,defined
+MM,Myanmar,Other countries,2020,0,0,76,0.000701884004432952,0,2606,108280,True,defined
+MM,Myanmar,Other countries,2021,0,0,29,0.000231620142965537,0,3140,125205,True,defined
+MM,Myanmar,Other countries,2022,0,0,18,0.000139624719780944,0,3674,128917,True,defined
+MM,Myanmar,Other countries,2023,0,0,31,0.000208771079144443,0,4862,148488,True,defined
+MM,Myanmar,Other countries,2024,0,0,46,0.000285458968376111,0,6602,161144,True,defined
+NA,Namibia,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+NA,Namibia,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+NA,Namibia,Other countries,2020,0,0,9,8.3117842630218e-05,0,2606,108280,True,defined
+NA,Namibia,Other countries,2021,0,0,11,8.78559162972725e-05,0,3140,125205,True,defined
+NA,Namibia,Other countries,2022,0,0,6,4.65415732603148e-05,0,3674,128917,True,defined
+NA,Namibia,Other countries,2023,0,0,47,0.000316523894186736,0,4862,148488,True,defined
+NA,Namibia,Other countries,2024,0,0,11,6.82619272203743e-05,0,6602,161144,True,defined
+NP,Nepal,Other countries,2018,0,0,41,0.000472617030351235,0,1470,86751,True,defined
+NP,Nepal,Other countries,2019,0,0,55,0.00056368630344771,0,1927,97572,True,defined
+NP,Nepal,Other countries,2020,0,0,78,0.000720354636128556,0,2606,108280,True,defined
+NP,Nepal,Other countries,2021,0,0,83,0.000662912822970329,0,3140,125205,True,defined
+NP,Nepal,Other countries,2022,0,0,100,0.000775692887671913,0,3674,128917,True,defined
+NP,Nepal,Other countries,2023,1,0.000205676676264912,160,0.00107752815042293,0.190878239407651,4862,148488,True,defined
+NP,Nepal,Other countries,2024,0,0,192,0.0011914809114829,0,6602,161144,True,defined
+NL,Netherlands,Other countries,2018,8,0.0054421768707483,1156,0.0133254948069763,0.408403361344538,1470,86751,True,defined
+NL,Netherlands,Other countries,2019,17,0.00882200311364816,1302,0.0133439921288894,0.661121726424637,1927,97572,True,defined
+NL,Netherlands,Other countries,2020,20,0.00767459708365311,1418,0.0130956778721832,0.586040459956247,2606,108280,True,defined
+NL,Netherlands,Other countries,2021,41,0.0130573248407643,1637,0.0130745577253305,0.998681952772082,3140,125205,True,defined
+NL,Netherlands,Other countries,2022,33,0.00898203592814371,1603,0.0124343569893808,0.722356285557394,3674,128917,True,defined
+NL,Netherlands,Other countries,2023,52,0.0106951871657754,1853,0.0124791228920856,0.857046385251839,4862,148488,True,defined
+NL,Netherlands,Other countries,2024,50,0.00757346258709482,1774,0.0110087871717222,0.687947043480726,6602,161144,True,defined
+NC,New Caledonia,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+NC,New Caledonia,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+NC,New Caledonia,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+NC,New Caledonia,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+NC,New Caledonia,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+NC,New Caledonia,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+NC,New Caledonia,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+NZ,New Zealand,Core Anglophone,2018,0,0,251,0.00289333840532098,0,1470,86751,True,defined
+NZ,New Zealand,Core Anglophone,2019,0,0,290,0.00297216414545156,0,1927,97572,True,defined
+NZ,New Zealand,Core Anglophone,2020,0,0,340,0.00314000738825268,0,2606,108280,True,defined
+NZ,New Zealand,Core Anglophone,2021,2,0.000636942675159236,282,0.0022523062178028,0.282795771784795,3140,125205,True,defined
+NZ,New Zealand,Core Anglophone,2022,2,0.000544365813826892,302,0.00234259252076918,0.23237750867921,3674,128917,True,defined
+NZ,New Zealand,Core Anglophone,2023,1,0.000205676676264912,286,0.00192608156888099,0.106785029039245,4862,148488,True,defined
+NZ,New Zealand,Core Anglophone,2024,1,0.000151469251741896,350,0.00217197041155736,0.0697381745791319,6602,161144,True,defined
+NI,Nicaragua,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+NI,Nicaragua,Other countries,2019,0,0,3,3.07465256426024e-05,0,1927,97572,True,defined
+NI,Nicaragua,Other countries,2020,0,0,3,2.7705947543406e-05,0,2606,108280,True,defined
+NI,Nicaragua,Other countries,2021,0,0,3,2.39607044447107e-05,0,3140,125205,True,defined
+NI,Nicaragua,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+NI,Nicaragua,Other countries,2023,0,0,8,5.38764075211465e-05,0,4862,148488,True,defined
+NI,Nicaragua,Other countries,2024,0,0,8,4.96450379784541e-05,0,6602,161144,True,defined
+NE,Niger,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+NE,Niger,Other countries,2019,0,0,6,6.14930512852048e-05,0,1927,97572,True,defined
+NE,Niger,Other countries,2020,0,0,3,2.7705947543406e-05,0,2606,108280,True,defined
+NE,Niger,Other countries,2021,0,0,6,4.79214088894213e-05,0,3140,125205,True,defined
+NE,Niger,Other countries,2022,0,0,4,3.10277155068765e-05,0,3674,128917,True,defined
+NE,Niger,Other countries,2023,0,0,3,2.02036528204299e-05,0,4862,148488,True,defined
+NE,Niger,Other countries,2024,0,0,6,3.72337784838405e-05,0,6602,161144,True,defined
+NG,Nigeria,Other countries,2018,0,0,228,0.00262821177853858,0,1470,86751,True,defined
+NG,Nigeria,Other countries,2019,0,0,360,0.00368958307711229,0,1927,97572,True,defined
+NG,Nigeria,Other countries,2020,0,0,394,0.00363871444403399,0,2606,108280,True,defined
+NG,Nigeria,Other countries,2021,0,0,440,0.0035142366518909,0,3140,125205,True,defined
+NG,Nigeria,Other countries,2022,0,0,486,0.0037698674340855,0,3674,128917,True,defined
+NG,Nigeria,Other countries,2023,0,0,552,0.00371747211895911,0,4862,148488,True,defined
+NG,Nigeria,Other countries,2024,0,0,597,0.00370476095914213,0,6602,161144,True,defined
+NU,Niue,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+NU,Niue,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+NU,Niue,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+NU,Niue,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+NU,Niue,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+NU,Niue,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+NU,Niue,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+KP,North Korea,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+KP,North Korea,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+KP,North Korea,Other countries,2020,0,0,4,3.6941263391208e-05,0,2606,108280,True,defined
+KP,North Korea,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+KP,North Korea,Other countries,2022,0,0,3,2.32707866301574e-05,0,3674,128917,True,defined
+KP,North Korea,Other countries,2023,0,0,3,2.02036528204299e-05,0,4862,148488,True,defined
+KP,North Korea,Other countries,2024,0,0,5,3.10281487365338e-05,0,6602,161144,True,defined
+MK,North Macedonia,Other countries,2018,0,0,40,0.000461089785708522,0,1470,86751,True,defined
+MK,North Macedonia,Other countries,2019,0,0,25,0.000256221047021687,0,1927,97572,True,defined
+MK,North Macedonia,Other countries,2020,0,0,36,0.000332471370520872,0,2606,108280,True,defined
+MK,North Macedonia,Other countries,2021,0,0,41,0.000327462960744379,0,3140,125205,True,defined
+MK,North Macedonia,Other countries,2022,0,0,37,0.000287006368438608,0,3674,128917,True,defined
+MK,North Macedonia,Other countries,2023,0,0,56,0.000377134852648025,0,4862,148488,True,defined
+MK,North Macedonia,Other countries,2024,0,0,50,0.000310281487365338,0,6602,161144,True,defined
+NO,Norway,Other countries,2018,1,0.000680272108843537,346,0.00398842664637872,0.17056151940545,1470,86751,True,defined
+NO,Norway,Other countries,2019,2,0.00103788271925272,397,0.00406879022670438,0.255083860662284,1927,97572,True,defined
+NO,Norway,Other countries,2020,1,0.000383729854182655,470,0.00434059844846694,0.0884048268316977,2606,108280,True,defined
+NO,Norway,Other countries,2021,2,0.000636942675159236,556,0.00444071722375305,0.143432387847684,3140,125205,True,defined
+NO,Norway,Other countries,2022,3,0.000816548720740337,657,0.00509630227200447,0.160223761692058,3674,128917,True,defined
+NO,Norway,Other countries,2023,3,0.000617030028794735,649,0.00437072356015301,0.141173428221375,4862,148488,True,defined
+NO,Norway,Other countries,2024,7,0.00106028476219327,691,0.00428809015538897,0.247262702921669,6602,161144,True,defined
+OM,Oman,Other countries,2018,0,0,30,0.000345817339281392,0,1470,86751,True,defined
+OM,Oman,Other countries,2019,0,0,41,0.000420202517115566,0,1927,97572,True,defined
+OM,Oman,Other countries,2020,0,0,68,0.000628001477650536,0,2606,108280,True,defined
+OM,Oman,Other countries,2021,0,0,71,0.000567070005191486,0,3140,125205,True,defined
+OM,Oman,Other countries,2022,0,0,66,0.000511957305863463,0,3674,128917,True,defined
+OM,Oman,Other countries,2023,0,0,103,0.000693658746834761,0,4862,148488,True,defined
+OM,Oman,Other countries,2024,0,0,154,0.00095566698108524,0,6602,161144,True,defined
+PK,Pakistan,Other countries,2018,1,0.000680272108843537,445,0.00512962386600731,0.132616372391653,1470,86751,True,defined
+PK,Pakistan,Other countries,2019,0,0,590,0.0060468167097118,0,1927,97572,True,defined
+PK,Pakistan,Other countries,2020,1,0.000383729854182655,676,0.00624307351311415,0.0614648943948194,2606,108280,True,defined
+PK,Pakistan,Other countries,2021,2,0.000636942675159236,820,0.00654925921488758,0.0972541556625757,3140,125205,True,defined
+PK,Pakistan,Other countries,2022,1,0.000272182906913446,922,0.00715188842433504,0.0380574878639487,3674,128917,True,defined
+PK,Pakistan,Other countries,2023,1,0.000205676676264912,1025,0.00690291471364689,0.0297956276148529,4862,148488,True,defined
+PK,Pakistan,Other countries,2024,0,0,1114,0.00691307153849973,0,6602,161144,True,defined
+PW,Palau,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+PW,Palau,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+PW,Palau,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+PW,Palau,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+PW,Palau,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+PW,Palau,Other countries,2023,0,0,2,1.34691018802866e-05,0,4862,148488,True,defined
+PW,Palau,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+PS,Palestine,Other countries,2018,0,0,37,0.000426508051780383,0,1470,86751,True,defined
+PS,Palestine,Other countries,2019,0,0,63,0.00064567703849465,0,1927,97572,True,defined
+PS,Palestine,Other countries,2020,0,0,56,0.000517177687476912,0,2606,108280,True,defined
+PS,Palestine,Other countries,2021,0,0,68,0.000543109300746775,0,3140,125205,True,defined
+PS,Palestine,Other countries,2022,0,0,71,0.000550741950247058,0,3674,128917,True,defined
+PS,Palestine,Other countries,2023,0,0,77,0.000518560422391035,0,4862,148488,True,defined
+PS,Palestine,Other countries,2024,0,0,86,0.000533684158268381,0,6602,161144,True,defined
+PA,Panama,Other countries,2018,0,0,6,6.91634678562783e-05,0,1470,86751,True,defined
+PA,Panama,Other countries,2019,0,0,8,8.19907350469397e-05,0,1927,97572,True,defined
+PA,Panama,Other countries,2020,0,0,5,4.617657923901e-05,0,2606,108280,True,defined
+PA,Panama,Other countries,2021,0,0,9,7.1882113334132e-05,0,3140,125205,True,defined
+PA,Panama,Other countries,2022,0,0,9,6.98123598904722e-05,0,3674,128917,True,defined
+PA,Panama,Other countries,2023,0,0,9,6.06109584612898e-05,0,4862,148488,True,defined
+PA,Panama,Other countries,2024,0,0,6,3.72337784838405e-05,0,6602,161144,True,defined
+PG,Papua New Guinea,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+PG,Papua New Guinea,Other countries,2019,0,0,2,2.04976837617349e-05,0,1927,97572,True,defined
+PG,Papua New Guinea,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+PG,Papua New Guinea,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+PG,Papua New Guinea,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+PG,Papua New Guinea,Other countries,2023,0,0,3,2.02036528204299e-05,0,4862,148488,True,defined
+PG,Papua New Guinea,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+PY,Paraguay,Other countries,2018,0,0,6,6.91634678562783e-05,0,1470,86751,True,defined
+PY,Paraguay,Other countries,2019,0,0,8,8.19907350469397e-05,0,1927,97572,True,defined
+PY,Paraguay,Other countries,2020,0,0,4,3.6941263391208e-05,0,2606,108280,True,defined
+PY,Paraguay,Other countries,2021,0,0,7,5.59083103709916e-05,0,3140,125205,True,defined
+PY,Paraguay,Other countries,2022,0,0,11,8.53262176439104e-05,0,3674,128917,True,defined
+PY,Paraguay,Other countries,2023,0,0,5,3.36727547007166e-05,0,4862,148488,True,defined
+PY,Paraguay,Other countries,2024,0,0,16,9.92900759569081e-05,0,6602,161144,True,defined
+PE,Peru,Other countries,2018,0,0,68,0.000783852635704488,0,1470,86751,True,defined
+PE,Peru,Other countries,2019,0,0,72,0.000737916615422457,0,1927,97572,True,defined
+PE,Peru,Other countries,2020,0,0,85,0.00078500184706317,0,2606,108280,True,defined
+PE,Peru,Other countries,2021,0,0,122,0.000974401980751567,0,3140,125205,True,defined
+PE,Peru,Other countries,2022,0,0,107,0.000829991389808947,0,3674,128917,True,defined
+PE,Peru,Other countries,2023,0,0,125,0.000841818867517914,0,4862,148488,True,defined
+PE,Peru,Other countries,2024,0,0,176,0.00109219083552599,0,6602,161144,True,defined
+PH,Philippines,Other countries,2018,0,0,109,0.00125646966605572,0,1470,86751,True,defined
+PH,Philippines,Other countries,2019,0,0,164,0.00168081006846226,0,1927,97572,True,defined
+PH,Philippines,Other countries,2020,0,0,112,0.00103435537495382,0,2606,108280,True,defined
+PH,Philippines,Other countries,2021,0,0,147,0.00117407451779082,0,3140,125205,True,defined
+PH,Philippines,Other countries,2022,0,0,251,0.0019469891480565,0,3674,128917,True,defined
+PH,Philippines,Other countries,2023,0,0,326,0.00219546360648672,0,4862,148488,True,defined
+PH,Philippines,Other countries,2024,0,0,343,0.00212853100332622,0,6602,161144,True,defined
+PL,Poland,Other countries,2018,2,0.00136054421768707,1069,0.0123226245230603,0.110410263263397,1470,86751,True,defined
+PL,Poland,Other countries,2019,2,0.00103788271925272,984,0.0100848604107736,0.10291493158834,1927,97572,True,defined
+PL,Poland,Other countries,2020,4,0.00153491941673062,1000,0.00923531584780199,0.166201074443592,2606,108280,True,defined
+PL,Poland,Other countries,2021,7,0.00222929936305732,1041,0.0083143644423146,0.268126250481837,3140,125205,True,defined
+PL,Poland,Other countries,2022,6,0.00163309744148067,1034,0.00802066445852758,0.203611240680236,3674,128917,True,defined
+PL,Poland,Other countries,2023,6,0.00123406005758947,1089,0.00733392597381607,0.168267318486084,4862,148488,True,defined
+PL,Poland,Other countries,2024,13,0.00196910027264465,1120,0.00695030531698357,0.283311334227723,6602,161144,True,defined
+PT,Portugal,Other countries,2018,0,0,596,0.00687023780705698,0,1470,86751,True,defined
+PT,Portugal,Other countries,2019,1,0.000518941359626362,549,0.00562661419259624,0.092229774756764,1927,97572,True,defined
+PT,Portugal,Other countries,2020,6,0.00230237912509593,615,0.00567971924639823,0.405368474252663,2606,108280,True,defined
+PT,Portugal,Other countries,2021,0,0,661,0.00527934187931792,0,3140,125205,True,defined
+PT,Portugal,Other countries,2022,1,0.000272182906913446,672,0.00521265620515526,0.052215779480001,3674,128917,True,defined
+PT,Portugal,Other countries,2023,1,0.000205676676264912,794,0.00534723344647379,0.0384641288478894,4862,148488,True,defined
+PT,Portugal,Other countries,2024,5,0.000757346258709482,732,0.00454252097502855,0.166723778023881,6602,161144,True,defined
+PR,Puerto Rico,Other countries,2018,0,0,16,0.000184435914283409,0,1470,86751,True,defined
+PR,Puerto Rico,Other countries,2019,0,0,17,0.000174230311974747,0,1927,97572,True,defined
+PR,Puerto Rico,Other countries,2020,0,0,13,0.000120059106021426,0,2606,108280,True,defined
+PR,Puerto Rico,Other countries,2021,0,0,23,0.000183698734076115,0,3140,125205,True,defined
+PR,Puerto Rico,Other countries,2022,0,0,24,0.000186166293041259,0,3674,128917,True,defined
+PR,Puerto Rico,Other countries,2023,0,0,33,0.000222240181024729,0,4862,148488,True,defined
+PR,Puerto Rico,Other countries,2024,0,0,41,0.000254430819639577,0,6602,161144,True,defined
+QA,Qatar,Other countries,2018,0,0,114,0.00131410588926929,0,1470,86751,True,defined
+QA,Qatar,Other countries,2019,0,0,138,0.00141434017955971,0,1927,97572,True,defined
+QA,Qatar,Other countries,2020,0,0,135,0.00124676763945327,0,2606,108280,True,defined
+QA,Qatar,Other countries,2021,0,0,157,0.00125394353260653,0,3140,125205,True,defined
+QA,Qatar,Other countries,2022,0,0,174,0.00134970562454913,0,3674,128917,True,defined
+QA,Qatar,Other countries,2023,0,0,202,0.00136037928990895,0,4862,148488,True,defined
+QA,Qatar,Other countries,2024,0,0,196,0.00121630343047212,0,6602,161144,True,defined
+RO,Romania,Other countries,2018,1,0.000680272108843537,346,0.00398842664637872,0.17056151940545,1470,86751,True,defined
+RO,Romania,Other countries,2019,1,0.000518941359626362,340,0.00348460623949494,0.148923959827834,1927,97572,True,defined
+RO,Romania,Other countries,2020,1,0.000383729854182655,375,0.00346324344292575,0.110800716295728,2606,108280,True,defined
+RO,Romania,Other countries,2021,2,0.000636942675159236,405,0.00323469510003594,0.196909648502005,3140,125205,True,defined
+RO,Romania,Other countries,2022,1,0.000272182906913446,422,0.00327342398597547,0.0831492981292908,3674,128917,True,defined
+RO,Romania,Other countries,2023,0,0,471,0.0031719734928075,0,4862,148488,True,defined
+RO,Romania,Other countries,2024,0,0,430,0.00266842079134191,0,6602,161144,True,defined
+RU,Russia,Other countries,2018,10,0.00680272108843537,1703,0.0196308976265403,0.346531331264156,1470,86751,True,defined
+RU,Russia,Other countries,2019,10,0.00518941359626362,2114,0.0216660517361538,0.239518194614302,1927,97572,True,defined
+RU,Russia,Other countries,2020,20,0.00767459708365311,2279,0.0210472848171407,0.364635968502834,2606,108280,True,defined
+RU,Russia,Other countries,2021,16,0.00509554140127389,2535,0.0202467952557805,0.251671503410847,3140,125205,True,defined
+RU,Russia,Other countries,2022,18,0.00489929232444202,2146,0.0166463693694393,0.294315968588114,3674,128917,True,defined
+RU,Russia,Other countries,2023,14,0.00287947346770876,2021,0.0136105274500296,0.211562224776417,4862,148488,True,defined
+RU,Russia,Other countries,2024,27,0.0040896697970312,2192,0.0136027404060964,0.300650433290509,6602,161144,True,defined
+RW,Rwanda,Other countries,2018,0,0,8,9.22179571417044e-05,0,1470,86751,True,defined
+RW,Rwanda,Other countries,2019,0,0,7,7.17418931660722e-05,0,1927,97572,True,defined
+RW,Rwanda,Other countries,2020,0,0,9,8.3117842630218e-05,0,2606,108280,True,defined
+RW,Rwanda,Other countries,2021,0,0,13,0.000103829719260413,0,3140,125205,True,defined
+RW,Rwanda,Other countries,2022,1,0.000272182906913446,18,0.000139624719780944,1.94938910058671,3674,128917,True,defined
+RW,Rwanda,Other countries,2023,1,0.000205676676264912,27,0.000181832875383869,1.1311303076009,4862,148488,True,defined
+RW,Rwanda,Other countries,2024,0,0,34,0.00021099141140843,0,6602,161144,True,defined
+RE,Réunion,Other countries,2018,0,0,9,0.000103745201784417,0,1470,86751,True,defined
+RE,Réunion,Other countries,2019,0,0,9,9.22395769278072e-05,0,1927,97572,True,defined
+RE,Réunion,Other countries,2020,0,0,6,5.5411895086812e-05,0,2606,108280,True,defined
+RE,Réunion,Other countries,2021,0,0,7,5.59083103709916e-05,0,3140,125205,True,defined
+RE,Réunion,Other countries,2022,0,0,6,4.65415732603148e-05,0,3674,128917,True,defined
+RE,Réunion,Other countries,2023,0,0,11,7.40800603415764e-05,0,4862,148488,True,defined
+RE,Réunion,Other countries,2024,0,0,9,5.58506677257608e-05,0,6602,161144,True,defined
+SM,San Marino,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+SM,San Marino,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+SM,San Marino,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+SM,San Marino,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+SM,San Marino,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+SM,San Marino,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+SM,San Marino,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+SA,Saudi Arabia,Other countries,2018,2,0.00136054421768707,567,0.0065359477124183,0.208163265306122,1470,86751,True,defined
+SA,Saudi Arabia,Other countries,2019,4,0.00207576543850545,715,0.00732792194482024,0.283267951560634,1927,97572,True,defined
+SA,Saudi Arabia,Other countries,2020,11,0.00422102839600921,918,0.00847801994828223,0.497879035642568,2606,108280,True,defined
+SA,Saudi Arabia,Other countries,2021,19,0.00605095541401274,1102,0.00880156543269039,0.687486272787173,3140,125205,True,defined
+SA,Saudi Arabia,Other countries,2022,11,0.0029940119760479,1481,0.011488011666421,0.26062055497378,3674,128917,True,defined
+SA,Saudi Arabia,Other countries,2023,13,0.00267379679144385,1593,0.0107281396476483,0.249232101674774,4862,148488,True,defined
+SA,Saudi Arabia,Other countries,2024,22,0.00333232353832172,1863,0.0115610882192325,0.288236148287341,6602,161144,True,defined
+SN,Senegal,Other countries,2018,0,0,26,0.000299708360710539,0,1470,86751,True,defined
+SN,Senegal,Other countries,2019,0,0,36,0.000368958307711229,0,1927,97572,True,defined
+SN,Senegal,Other countries,2020,0,0,29,0.000267824159586258,0,2606,108280,True,defined
+SN,Senegal,Other countries,2021,0,0,17,0.000135777325186694,0,3140,125205,True,defined
+SN,Senegal,Other countries,2022,0,0,27,0.000209437079671416,0,3674,128917,True,defined
+SN,Senegal,Other countries,2023,0,0,32,0.000215505630084586,0,4862,148488,True,defined
+SN,Senegal,Other countries,2024,0,0,26,0.000161346373429976,0,6602,161144,True,defined
+RS,Serbia,Other countries,2018,0,0,133,0.00153312353748084,0,1470,86751,True,defined
+RS,Serbia,Other countries,2019,0,0,157,0.00160906817529619,0,1927,97572,True,defined
+RS,Serbia,Other countries,2020,0,0,155,0.00143147395640931,0,2606,108280,True,defined
+RS,Serbia,Other countries,2021,1,0.000318471337579618,190,0.00151751128149834,0.209864230640295,3140,125205,True,defined
+RS,Serbia,Other countries,2022,2,0.000544365813826892,173,0.00134194869567241,0.405653223243476,3674,128917,True,defined
+RS,Serbia,Other countries,2023,1,0.000205676676264912,182,0.00122568827110608,0.1678050456331,4862,148488,True,defined
+RS,Serbia,Other countries,2024,3,0.000454407755225689,225,0.00139626669314402,0.325444814702615,6602,161144,True,defined
+SC,Seychelles,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+SC,Seychelles,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+SC,Seychelles,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+SC,Seychelles,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+SC,Seychelles,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+SC,Seychelles,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+SC,Seychelles,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+SL,Sierra Leone,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+SL,Sierra Leone,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+SL,Sierra Leone,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+SL,Sierra Leone,Other countries,2021,0,0,2,1.59738029631405e-05,0,3140,125205,True,defined
+SL,Sierra Leone,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+SL,Sierra Leone,Other countries,2023,0,0,4,2.69382037605732e-05,0,4862,148488,True,defined
+SL,Sierra Leone,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+SG,Singapore,Other countries,2018,17,0.0115646258503401,817,0.00941775887309656,1.22795943346739,1470,86751,True,defined
+SG,Singapore,Other countries,2019,19,0.00985988583290088,912,0.00934694379535113,1.05487804878049,1927,97572,True,defined
+SG,Singapore,Other countries,2020,47,0.0180353031465848,1097,0.0101311414850388,1.780184708033,2606,108280,True,defined
+SG,Singapore,Other countries,2021,75,0.0238853503184713,1318,0.0105267361527096,2.2690176681519,3140,125205,True,defined
+SG,Singapore,Other countries,2022,82,0.0223189983669026,1340,0.0103942846948036,2.1472375466164,3674,128917,True,defined
+SG,Singapore,Other countries,2023,138,0.0283833813245578,1658,0.0111658854587576,2.54197317618874,4862,148488,True,defined
+SG,Singapore,Other countries,2024,188,0.0284762193274765,1782,0.0110584322097006,2.57506839916211,6602,161144,True,defined
+SX,Sint Maarten,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+SX,Sint Maarten,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+SX,Sint Maarten,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+SX,Sint Maarten,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+SX,Sint Maarten,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+SX,Sint Maarten,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+SX,Sint Maarten,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+SK,Slovakia,Other countries,2018,0,0,156,0.00179825016426324,0,1470,86751,True,defined
+SK,Slovakia,Other countries,2019,0,0,154,0.00157832164965359,0,1927,97572,True,defined
+SK,Slovakia,Other countries,2020,0,0,160,0.00147765053564832,0,2606,108280,True,defined
+SK,Slovakia,Other countries,2021,0,0,183,0.00146160297112735,0,3140,125205,True,defined
+SK,Slovakia,Other countries,2022,0,0,207,0.00160568427748086,0,3674,128917,True,defined
+SK,Slovakia,Other countries,2023,1,0.000205676676264912,197,0.00132670653520823,0.155028011701646,4862,148488,True,defined
+SK,Slovakia,Other countries,2024,1,0.000151469251741896,216,0.00134041602541826,0.113001671771741,6602,161144,True,defined
+SI,Slovenia,Other countries,2018,0,0,157,0.00180977740890595,0,1470,86751,True,defined
+SI,Slovenia,Other countries,2019,0,0,170,0.00174230311974747,0,1927,97572,True,defined
+SI,Slovenia,Other countries,2020,0,0,201,0.0018562984854082,0,2606,108280,True,defined
+SI,Slovenia,Other countries,2021,0,0,215,0.0017171838185376,0,3140,125205,True,defined
+SI,Slovenia,Other countries,2022,0,0,177,0.00137297641117929,0,3674,128917,True,defined
+SI,Slovenia,Other countries,2023,1,0.000205676676264912,201,0.00135364473896881,0.151942877140419,4862,148488,True,defined
+SI,Slovenia,Other countries,2024,1,0.000151469251741896,220,0.00136523854440749,0.110947095921346,6602,161144,True,defined
+SO,Somalia,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+SO,Somalia,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+SO,Somalia,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+SO,Somalia,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+SO,Somalia,Other countries,2022,0,0,6,4.65415732603148e-05,0,3674,128917,True,defined
+SO,Somalia,Other countries,2023,0,0,11,7.40800603415764e-05,0,4862,148488,True,defined
+SO,Somalia,Other countries,2024,0,0,8,4.96450379784541e-05,0,6602,161144,True,defined
+ZA,South Africa,Other countries,2018,2,0.00136054421768707,226,0.00260515728925315,0.522250316055626,1470,86751,True,defined
+ZA,South Africa,Other countries,2019,1,0.000518941359626362,342,0.00350510392325667,0.148053059477963,1927,97572,True,defined
+ZA,South Africa,Other countries,2020,2,0.000767459708365311,364,0.00336165496859993,0.228298179180758,2606,108280,True,defined
+ZA,South Africa,Other countries,2021,0,0,338,0.00269957270077074,0,3140,125205,True,defined
+ZA,South Africa,Other countries,2022,0,0,425,0.00329669477260563,0,3674,128917,True,defined
+ZA,South Africa,Other countries,2023,1,0.000205676676264912,404,0.0027207585798179,0.0755953423396638,4862,148488,True,defined
+ZA,South Africa,Other countries,2024,2,0.000302938503483793,512,0.00317728243062106,0.0953451605574069,6602,161144,True,defined
+KR,South Korea,Other countries,2018,27,0.0183673469387755,1207,0.0139133842837547,1.32012072434608,1470,86751,True,defined
+KR,South Korea,Other countries,2019,38,0.0197197716658018,1464,0.01500430451359,1.31427429028389,1927,97572,True,defined
+KR,South Korea,Other countries,2020,57,0.0218726016884114,1750,0.0161618027336535,1.35335160618353,2606,108280,True,defined
+KR,South Korea,Other countries,2021,90,0.0286624203821656,2171,0.017339563116489,1.65300706768726,3140,125205,True,defined
+KR,South Korea,Other countries,2022,95,0.0258573761567774,2378,0.0184459768688381,1.40178947098539,3674,128917,True,defined
+KR,South Korea,Other countries,2023,192,0.039489921842863,2685,0.0180822692742848,2.18390298495458,4862,148488,True,defined
+KR,South Korea,Other countries,2024,228,0.0345349893971524,2920,0.0181204388621357,1.90585833267627,6602,161144,True,defined
+SS,South Sudan,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+SS,South Sudan,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+SS,South Sudan,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+SS,South Sudan,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+SS,South Sudan,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+SS,South Sudan,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+SS,South Sudan,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+ES,Spain,Other countries,2018,5,0.00340136054421769,1757,0.0202533688372468,0.167940482966095,1470,86751,True,defined
+ES,Spain,Other countries,2019,3,0.00155682407887909,1872,0.0191858320009839,0.0811444652908068,1927,97572,True,defined
+ES,Spain,Other countries,2020,7,0.00268610897927859,1954,0.0180458071666051,0.148849478135254,2606,108280,True,defined
+ES,Spain,Other countries,2021,8,0.00254777070063694,2061,0.0164610039535162,0.15477614292734,3140,125205,True,defined
+ES,Spain,Other countries,2022,13,0.0035383777898748,2101,0.0162973075699869,0.217114254896377,3674,128917,True,defined
+ES,Spain,Other countries,2023,14,0.00287947346770876,2242,0.0150988632078013,0.190707964439402,4862,148488,True,defined
+ES,Spain,Other countries,2024,18,0.00272644653135414,2403,0.0149121282827781,0.182834165563267,6602,161144,True,defined
+LK,Sri Lanka,Other countries,2018,0,0,90,0.00103745201784417,0,1470,86751,True,defined
+LK,Sri Lanka,Other countries,2019,1,0.000518941359626362,121,0.00124010986758496,0.418464019350937,1927,97572,True,defined
+LK,Sri Lanka,Other countries,2020,1,0.000383729854182655,133,0.00122829700775767,0.312408034668405,2606,108280,True,defined
+LK,Sri Lanka,Other countries,2021,3,0.000955414012738854,147,0.00117407451779082,0.81375926166645,3140,125205,True,defined
+LK,Sri Lanka,Other countries,2022,6,0.00163309744148067,151,0.00117129626038459,1.39426505207526,3674,128917,True,defined
+LK,Sri Lanka,Other countries,2023,1,0.000205676676264912,135,0.000909164376919347,0.226226061520179,4862,148488,True,defined
+LK,Sri Lanka,Other countries,2024,2,0.000302938503483793,165,0.00102392890830561,0.295858922456923,6602,161144,True,defined
+KN,St. Kitts & Nevis,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+KN,St. Kitts & Nevis,Other countries,2019,0,0,3,3.07465256426024e-05,0,1927,97572,True,defined
+KN,St. Kitts & Nevis,Other countries,2020,0,0,1,9.23531584780199e-06,0,2606,108280,True,defined
+KN,St. Kitts & Nevis,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+KN,St. Kitts & Nevis,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+KN,St. Kitts & Nevis,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+KN,St. Kitts & Nevis,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+SD,Sudan,Other countries,2018,0,0,28,0.000322762849995965,0,1470,86751,True,defined
+SD,Sudan,Other countries,2019,0,0,34,0.000348460623949494,0,1927,97572,True,defined
+SD,Sudan,Other countries,2020,0,0,35,0.00032323605467307,0,2606,108280,True,defined
+SD,Sudan,Other countries,2021,0,0,37,0.000295515354818098,0,3140,125205,True,defined
+SD,Sudan,Other countries,2022,0,0,38,0.000294763297315327,0,3674,128917,True,defined
+SD,Sudan,Other countries,2023,0,0,39,0.000262647486665589,0,4862,148488,True,defined
+SD,Sudan,Other countries,2024,0,0,39,0.000242019560144964,0,6602,161144,True,defined
+SR,Suriname,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+SR,Suriname,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+SR,Suriname,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+SR,Suriname,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+SR,Suriname,Other countries,2022,0,0,1,7.75692887671913e-06,0,3674,128917,True,defined
+SR,Suriname,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+SR,Suriname,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+SE,Sweden,Other countries,2018,8,0.0054421768707483,624,0.00719300065705294,0.756593406593407,1470,86751,True,defined
+SE,Sweden,Other countries,2019,10,0.00518941359626362,685,0.00702045668839421,0.739184618123553,1927,97572,True,defined
+SE,Sweden,Other countries,2020,16,0.00613967766692249,797,0.00736054673069819,0.834133372364325,2606,108280,True,defined
+SE,Sweden,Other countries,2021,13,0.00414012738853503,944,0.00753963499860229,0.549115095001619,3140,125205,True,defined
+SE,Sweden,Other countries,2022,23,0.00626020685900925,921,0.00714413149545832,0.876272625019431,3674,128917,True,defined
+SE,Sweden,Other countries,2023,27,0.00555327025915261,1106,0.0074484133397985,0.745564190091368,4862,148488,True,defined
+SE,Sweden,Other countries,2024,35,0.00530142381096637,1068,0.00662761257012362,0.799899474339293,6602,161144,True,defined
+CH,Switzerland,Other countries,2018,51,0.0346938775510204,858,0.0098903759034478,3.50784215784216,1470,86751,True,defined
+CH,Switzerland,Other countries,2019,62,0.0321743642968345,958,0.00981839052187103,3.27694892815316,1927,97572,True,defined
+CH,Switzerland,Other countries,2020,86,0.0330007674597084,1161,0.0107222016992981,3.07779767488133,2606,108280,True,defined
+CH,Switzerland,Other countries,2021,102,0.032484076433121,1355,0.0108222515075277,3.00160058288481,3140,125205,True,defined
+CH,Switzerland,Other countries,2022,121,0.0329341317365269,1169,0.00906784985688466,3.63196703257301,3674,128917,True,defined
+CH,Switzerland,Other countries,2023,162,0.0333196215549157,1284,0.00864716340714401,3.85324296374324,4862,148488,True,defined
+CH,Switzerland,Other countries,2024,188,0.0284762193274765,1242,0.00770739214615499,3.69466335531955,6602,161144,True,defined
+SY,Syria,Other countries,2018,0,0,16,0.000184435914283409,0,1470,86751,True,defined
+SY,Syria,Other countries,2019,0,0,28,0.000286967572664289,0,1927,97572,True,defined
+SY,Syria,Other countries,2020,0,0,21,0.000193941632803842,0,2606,108280,True,defined
+SY,Syria,Other countries,2021,0,0,32,0.000255580847410247,0,3140,125205,True,defined
+SY,Syria,Other countries,2022,0,0,26,0.000201680150794697,0,3674,128917,True,defined
+SY,Syria,Other countries,2023,0,0,33,0.000222240181024729,0,4862,148488,True,defined
+SY,Syria,Other countries,2024,0,0,33,0.000204785781661123,0,6602,161144,True,defined
+ST,São Tomé & Príncipe,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+ST,São Tomé & Príncipe,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+ST,São Tomé & Príncipe,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+ST,São Tomé & Príncipe,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+ST,São Tomé & Príncipe,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+ST,São Tomé & Príncipe,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+ST,São Tomé & Príncipe,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+TW,Taiwan,Other countries,2018,2,0.00136054421768707,721,0.00831114338739611,0.163701208638795,1470,86751,True,defined
+TW,Taiwan,Other countries,2019,6,0.00311364815775817,756,0.0077481244619358,0.401858304297329,1927,97572,True,defined
+TW,Taiwan,Other countries,2020,7,0.00268610897927859,885,0.00817325452530477,0.328646192402582,2606,108280,True,defined
+TW,Taiwan,Other countries,2021,9,0.00286624203821656,969,0.00773930753564155,0.370348642306403,3140,125205,True,defined
+TW,Taiwan,Other countries,2022,6,0.00163309744148067,1062,0.00823785846707572,0.198242959381699,3674,128917,True,defined
+TW,Taiwan,Other countries,2023,13,0.00267379679144385,1116,0.00751575884919994,0.355758725777701,4862,148488,True,defined
+TW,Taiwan,Other countries,2024,30,0.00454407755225689,1268,0.00786873851958497,0.57748488413319,6602,161144,True,defined
+TJ,Tajikistan,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+TJ,Tajikistan,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+TJ,Tajikistan,Other countries,2020,0,0,10,9.23531584780199e-05,0,2606,108280,True,defined
+TJ,Tajikistan,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+TJ,Tajikistan,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+TJ,Tajikistan,Other countries,2023,0,0,3,2.02036528204299e-05,0,4862,148488,True,defined
+TJ,Tajikistan,Other countries,2024,0,0,4,2.4822518989227e-05,0,6602,161144,True,defined
+TZ,Tanzania,Other countries,2018,0,0,10,0.000115272446427131,0,1470,86751,True,defined
+TZ,Tanzania,Other countries,2019,0,0,5,5.12442094043373e-05,0,1927,97572,True,defined
+TZ,Tanzania,Other countries,2020,0,0,12,0.000110823790173624,0,2606,108280,True,defined
+TZ,Tanzania,Other countries,2021,0,0,17,0.000135777325186694,0,3140,125205,True,defined
+TZ,Tanzania,Other countries,2022,0,0,35,0.00027149251068517,0,3674,128917,True,defined
+TZ,Tanzania,Other countries,2023,0,0,35,0.000235709282905016,0,4862,148488,True,defined
+TZ,Tanzania,Other countries,2024,0,0,52,0.000322692746859951,0,6602,161144,True,defined
+TH,Thailand,Other countries,2018,1,0.000680272108843537,344,0.00396537215709329,0.171553156146179,1470,86751,True,defined
+TH,Thailand,Other countries,2019,0,0,298,0.0030541548804985,0,1927,97572,True,defined
+TH,Thailand,Other countries,2020,1,0.000383729854182655,282,0.00260435906908016,0.14734137805283,2606,108280,True,defined
+TH,Thailand,Other countries,2021,1,0.000318471337579618,342,0.00273152030669702,0.116591239244608,3140,125205,True,defined
+TH,Thailand,Other countries,2022,0,0,417,0.00323463934159188,0,3674,128917,True,defined
+TH,Thailand,Other countries,2023,0,0,464,0.0031248316362265,0,4862,148488,True,defined
+TH,Thailand,Other countries,2024,0,0,514,0.00318969369011567,0,6602,161144,True,defined
+TL,Timor-Leste,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+TL,Timor-Leste,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+TL,Timor-Leste,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+TL,Timor-Leste,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+TL,Timor-Leste,Other countries,2022,0,0,3,2.32707866301574e-05,0,3674,128917,True,defined
+TL,Timor-Leste,Other countries,2023,0,0,2,1.34691018802866e-05,0,4862,148488,True,defined
+TL,Timor-Leste,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+TG,Togo,Other countries,2018,0,0,2,2.30544892854261e-05,0,1470,86751,True,defined
+TG,Togo,Other countries,2019,0,0,4,4.09953675234698e-05,0,1927,97572,True,defined
+TG,Togo,Other countries,2020,0,0,2,1.8470631695604e-05,0,2606,108280,True,defined
+TG,Togo,Other countries,2021,0,0,6,4.79214088894213e-05,0,3140,125205,True,defined
+TG,Togo,Other countries,2022,0,0,4,3.10277155068765e-05,0,3674,128917,True,defined
+TG,Togo,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+TG,Togo,Other countries,2024,0,0,2,1.24112594946135e-05,0,6602,161144,True,defined
+TO,Tonga,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+TO,Tonga,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+TO,Tonga,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+TO,Tonga,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+TO,Tonga,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+TO,Tonga,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+TO,Tonga,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+TT,Trinidad & Tobago,Other countries,2018,0,0,4,4.61089785708522e-05,0,1470,86751,True,defined
+TT,Trinidad & Tobago,Other countries,2019,0,0,6,6.14930512852048e-05,0,1927,97572,True,defined
+TT,Trinidad & Tobago,Other countries,2020,0,0,7,6.4647210934614e-05,0,2606,108280,True,defined
+TT,Trinidad & Tobago,Other countries,2021,0,0,7,5.59083103709916e-05,0,3140,125205,True,defined
+TT,Trinidad & Tobago,Other countries,2022,0,0,9,6.98123598904722e-05,0,3674,128917,True,defined
+TT,Trinidad & Tobago,Other countries,2023,0,0,6,4.04073056408599e-05,0,4862,148488,True,defined
+TT,Trinidad & Tobago,Other countries,2024,0,0,11,6.82619272203743e-05,0,6602,161144,True,defined
+TN,Tunisia,Other countries,2018,0,0,293,0.00337748268031492,0,1470,86751,True,defined
+TN,Tunisia,Other countries,2019,0,0,294,0.00301315951297503,0,1927,97572,True,defined
+TN,Tunisia,Other countries,2020,0,0,270,0.00249353527890654,0,2606,108280,True,defined
+TN,Tunisia,Other countries,2021,0,0,285,0.00227626692224751,0,3140,125205,True,defined
+TN,Tunisia,Other countries,2022,1,0.000272182906913446,304,0.00235810637852262,0.115424354640002,3674,128917,True,defined
+TN,Tunisia,Other countries,2023,0,0,302,0.00203383438392328,0,4862,148488,True,defined
+TN,Tunisia,Other countries,2024,0,0,322,0.00199821277863278,0,6602,161144,True,defined
+TR,Turkey,Other countries,2018,1,0.000680272108843537,922,0.0106281195605814,0.0640068174775333,1470,86751,True,defined
+TR,Turkey,Other countries,2019,2,0.00103788271925272,1038,0.0106382978723404,0.0975609756097561,1927,97572,True,defined
+TR,Turkey,Other countries,2020,1,0.000383729854182655,1108,0.0102327299593646,0.0375002424286082,2606,108280,True,defined
+TR,Turkey,Other countries,2021,2,0.000636942675159236,1312,0.0104788147438201,0.0607838472891098,3140,125205,True,defined
+TR,Turkey,Other countries,2022,2,0.000544365813826892,1439,0.0111622206535988,0.048768594594247,3674,128917,True,defined
+TR,Turkey,Other countries,2023,4,0.000822706705059646,1570,0.010573244976025,0.0778102377203164,4862,148488,True,defined
+TR,Turkey,Other countries,2024,4,0.000605877006967586,1731,0.010741945092588,0.0564029141598987,6602,161144,True,defined
+TM,Turkmenistan,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+TM,Turkmenistan,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+TM,Turkmenistan,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+TM,Turkmenistan,Other countries,2021,0,0,1,7.98690148157023e-06,0,3140,125205,True,defined
+TM,Turkmenistan,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+TM,Turkmenistan,Other countries,2023,0,0,3,2.02036528204299e-05,0,4862,148488,True,defined
+TM,Turkmenistan,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+TC,Turks & Caicos Islands,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+TC,Turks & Caicos Islands,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+TC,Turks & Caicos Islands,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+TC,Turks & Caicos Islands,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+TC,Turks & Caicos Islands,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+TC,Turks & Caicos Islands,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+TC,Turks & Caicos Islands,Other countries,2024,0,0,1,6.20562974730676e-06,0,6602,161144,True,defined
+UG,Uganda,Other countries,2018,0,0,12,0.000138326935712557,0,1470,86751,True,defined
+UG,Uganda,Other countries,2019,0,0,14,0.000143483786332144,0,1927,97572,True,defined
+UG,Uganda,Other countries,2020,0,0,15,0.00013852973771703,0,2606,108280,True,defined
+UG,Uganda,Other countries,2021,0,0,22,0.000175711832594545,0,3140,125205,True,defined
+UG,Uganda,Other countries,2022,0,0,25,0.000193923221917978,0,3674,128917,True,defined
+UG,Uganda,Other countries,2023,0,0,34,0.000228974731964873,0,4862,148488,True,defined
+UG,Uganda,Other countries,2024,0,0,40,0.00024822518989227,0,6602,161144,True,defined
+UA,Ukraine,Other countries,2018,0,0,385,0.00443798918744453,0,1470,86751,True,defined
+UA,Ukraine,Other countries,2019,0,0,441,0.00451973926946255,0,1927,97572,True,defined
+UA,Ukraine,Other countries,2020,0,0,491,0.00453454008127078,0,2606,108280,True,defined
+UA,Ukraine,Other countries,2021,0,0,466,0.00372189609041172,0,3140,125205,True,defined
+UA,Ukraine,Other countries,2022,0,0,415,0.00321912548383844,0,3674,128917,True,defined
+UA,Ukraine,Other countries,2023,0,0,540,0.00363665750767739,0,4862,148488,True,defined
+UA,Ukraine,Other countries,2024,0,0,577,0.003580648364196,0,6602,161144,True,defined
+AE,United Arab Emirates,Other countries,2018,0,0,200,0.00230544892854261,0,1470,86751,True,defined
+AE,United Arab Emirates,Other countries,2019,3,0.00155682407887909,299,0.00306440372237937,0.508034913125051,1927,97572,True,defined
+AE,United Arab Emirates,Other countries,2020,4,0.00153491941673062,388,0.00358330254894717,0.428353284648432,2606,108280,True,defined
+AE,United Arab Emirates,Other countries,2021,3,0.000955414012738854,485,0.00387364721856156,0.246644559721584,3140,125205,True,defined
+AE,United Arab Emirates,Other countries,2022,7,0.00190528034839412,713,0.00553069028910074,0.344492323525841,3674,128917,True,defined
+AE,United Arab Emirates,Other countries,2023,20,0.00411353352529823,956,0.00643823069877701,0.63892297709674,4862,148488,True,defined
+AE,United Arab Emirates,Other countries,2024,25,0.00378673129354741,1060,0.00657796753214516,0.575668893931513,6602,161144,True,defined
+GB,United Kingdom,Core Anglophone,2018,108,0.073469387755102,3967,0.0457285794976427,1.60664049839749,1470,86751,True,defined
+GB,United Kingdom,Core Anglophone,2019,152,0.0788790866632071,4532,0.0464477514040913,1.69823262222031,1927,97572,True,defined
+GB,United Kingdom,Core Anglophone,2020,194,0.0744435917114352,4795,0.0442833394902106,1.68107447560254,2606,108280,True,defined
+GB,United Kingdom,Core Anglophone,2021,249,0.0792993630573248,5543,0.0442713949123438,1.79120994977311,3140,125205,True,defined
+GB,United Kingdom,Core Anglophone,2022,221,0.0601524224278715,4928,0.0382261455044719,1.57359371796549,3674,128917,True,defined
+GB,United Kingdom,Core Anglophone,2023,259,0.0532702591526121,5829,0.0392556974300954,1.35700707515064,4862,148488,True,defined
+GB,United Kingdom,Core Anglophone,2024,305,0.0461981217812784,5869,0.0364208409869434,1.26845291128341,6602,161144,True,defined
+US,United States,Core Anglophone,2018,750,0.510204081632653,13567,0.156390128067688,3.26238035569502,1470,86751,True,defined
+US,United States,Core Anglophone,2019,945,0.490399584846912,14773,0.151406141106055,3.23896759579523,1927,97572,True,defined
+US,United States,Core Anglophone,2020,1252,0.480429777436685,16323,0.150748060583672,3.18697153102029,2606,108280,True,defined
+US,United States,Core Anglophone,2021,1375,0.437898089171975,18182,0.14521784273791,3.01545650944764,3140,125205,True,defined
+US,United States,Core Anglophone,2022,1463,0.398203592814371,16884,0.130967987154526,3.04046508972106,3674,128917,True,defined
+US,United States,Core Anglophone,2023,1913,0.393459481694776,18798,0.126596088572814,3.10799082444376,4862,148488,True,defined
+US,United States,Core Anglophone,2024,2201,0.333383823083914,19928,0.123665789604329,2.69584518200694,6602,161144,True,defined
+UY,Uruguay,Other countries,2018,0,0,31,0.000357344583924105,0,1470,86751,True,defined
+UY,Uruguay,Other countries,2019,0,0,27,0.000276718730783421,0,1927,97572,True,defined
+UY,Uruguay,Other countries,2020,0,0,30,0.00027705947543406,0,2606,108280,True,defined
+UY,Uruguay,Other countries,2021,1,0.000318471337579618,53,0.000423305778523222,0.752343468333133,3140,125205,True,defined
+UY,Uruguay,Other countries,2022,0,0,32,0.000248221724055012,0,3674,128917,True,defined
+UY,Uruguay,Other countries,2023,0,0,50,0.000336727547007166,0,4862,148488,True,defined
+UY,Uruguay,Other countries,2024,0,0,30,0.000186168892419203,0,6602,161144,True,defined
+VI,US Virgin Islands,Other countries,2018,0,0,1,1.15272446427131e-05,0,1470,86751,True,defined
+VI,US Virgin Islands,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+VI,US Virgin Islands,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+VI,US Virgin Islands,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+VI,US Virgin Islands,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+VI,US Virgin Islands,Other countries,2023,0,0,0,0,,4862,148488,False,undefined_zero_observed_output
+VI,US Virgin Islands,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+UZ,Uzbekistan,Other countries,2018,0,0,10,0.000115272446427131,0,1470,86751,True,defined
+UZ,Uzbekistan,Other countries,2019,0,0,27,0.000276718730783421,0,1927,97572,True,defined
+UZ,Uzbekistan,Other countries,2020,0,0,50,0.0004617657923901,0,2606,108280,True,defined
+UZ,Uzbekistan,Other countries,2021,0,0,71,0.000567070005191486,0,3140,125205,True,defined
+UZ,Uzbekistan,Other countries,2022,0,0,79,0.000612797381260811,0,3674,128917,True,defined
+UZ,Uzbekistan,Other countries,2023,0,0,157,0.0010573244976025,0,4862,148488,True,defined
+UZ,Uzbekistan,Other countries,2024,0,0,207,0.0012845653576925,0,6602,161144,True,defined
+VU,Vanuatu,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+VU,Vanuatu,Other countries,2019,0,0,0,0,,1927,97572,False,undefined_zero_observed_output
+VU,Vanuatu,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+VU,Vanuatu,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+VU,Vanuatu,Other countries,2022,0,0,2,1.55138577534383e-05,0,3674,128917,True,defined
+VU,Vanuatu,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+VU,Vanuatu,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+VA,Vatican City,Other countries,2018,0,0,0,0,,1470,86751,False,undefined_zero_observed_output
+VA,Vatican City,Other countries,2019,0,0,1,1.02488418808675e-05,0,1927,97572,True,defined
+VA,Vatican City,Other countries,2020,0,0,0,0,,2606,108280,False,undefined_zero_observed_output
+VA,Vatican City,Other countries,2021,0,0,0,0,,3140,125205,False,undefined_zero_observed_output
+VA,Vatican City,Other countries,2022,0,0,0,0,,3674,128917,False,undefined_zero_observed_output
+VA,Vatican City,Other countries,2023,0,0,1,6.73455094014331e-06,0,4862,148488,True,defined
+VA,Vatican City,Other countries,2024,0,0,0,0,,6602,161144,False,undefined_zero_observed_output
+VE,Venezuela,Other countries,2018,0,0,31,0.000357344583924105,0,1470,86751,True,defined
+VE,Venezuela,Other countries,2019,0,0,29,0.000297216414545156,0,1927,97572,True,defined
+VE,Venezuela,Other countries,2020,0,0,24,0.000221647580347248,0,2606,108280,True,defined
+VE,Venezuela,Other countries,2021,0,0,26,0.000207659438520826,0,3140,125205,True,defined
+VE,Venezuela,Other countries,2022,0,0,28,0.000217194008548136,0,3674,128917,True,defined
+VE,Venezuela,Other countries,2023,0,0,23,0.000154894671623296,0,4862,148488,True,defined
+VE,Venezuela,Other countries,2024,0,0,32,0.000198580151913816,0,6602,161144,True,defined
+VN,Vietnam,Other countries,2018,0,0,283,0.00326221023388779,0,1470,86751,True,defined
+VN,Vietnam,Other countries,2019,0,0,355,0.00363833886770795,0,1927,97572,True,defined
+VN,Vietnam,Other countries,2020,2,0.000767459708365311,523,0.00483007018840044,0.158892040577048,2606,108280,True,defined
+VN,Vietnam,Other countries,2021,3,0.000955414012738854,527,0.00420909708078751,0.226987877542634,3140,125205,True,defined
+VN,Vietnam,Other countries,2022,2,0.000544365813826892,595,0.00461537268164788,0.117946231296002,3674,128917,True,defined
+VN,Vietnam,Other countries,2023,6,0.00123406005758947,620,0.00417542158288885,0.295553402953782,4862,148488,True,defined
+VN,Vietnam,Other countries,2024,5,0.000757346258709482,685,0.00425085637690513,0.178163219727709,6602,161144,True,defined
+YE,Yemen,Other countries,2018,0,0,42,0.000484144274993948,0,1470,86751,True,defined
+YE,Yemen,Other countries,2019,0,0,50,0.000512442094043373,0,1927,97572,True,defined
+YE,Yemen,Other countries,2020,0,0,47,0.000434059844846694,0,2606,108280,True,defined
+YE,Yemen,Other countries,2021,0,0,86,0.000686873527415039,0,3140,125205,True,defined
+YE,Yemen,Other countries,2022,0,0,83,0.000643825096767688,0,3674,128917,True,defined
+YE,Yemen,Other countries,2023,0,0,129,0.000868757071278487,0,4862,148488,True,defined
+YE,Yemen,Other countries,2024,0,0,108,0.00067020801270913,0,6602,161144,True,defined
+ZM,Zambia,Other countries,2018,0,0,3,3.45817339281392e-05,0,1470,86751,True,defined
+ZM,Zambia,Other countries,2019,0,0,8,8.19907350469397e-05,0,1927,97572,True,defined
+ZM,Zambia,Other countries,2020,0,0,8,7.3882526782416e-05,0,2606,108280,True,defined
+ZM,Zambia,Other countries,2021,0,0,11,8.78559162972725e-05,0,3140,125205,True,defined
+ZM,Zambia,Other countries,2022,0,0,10,7.75692887671913e-05,0,3674,128917,True,defined
+ZM,Zambia,Other countries,2023,0,0,26,0.000175098324443726,0,4862,148488,True,defined
+ZM,Zambia,Other countries,2024,0,0,20,0.000124112594946135,0,6602,161144,True,defined
+ZW,Zimbabwe,Other countries,2018,0,0,4,4.61089785708522e-05,0,1470,86751,True,defined
+ZW,Zimbabwe,Other countries,2019,0,0,11,0.000112737260689542,0,1927,97572,True,defined
+ZW,Zimbabwe,Other countries,2020,0,0,7,6.4647210934614e-05,0,2606,108280,True,defined
+ZW,Zimbabwe,Other countries,2021,0,0,7,5.59083103709916e-05,0,3140,125205,True,defined
+ZW,Zimbabwe,Other countries,2022,0,0,16,0.000124110862027506,0,3674,128917,True,defined
+ZW,Zimbabwe,Other countries,2023,0,0,34,0.000228974731964873,0,4862,148488,True,defined
+ZW,Zimbabwe,Other countries,2024,0,0,46,0.000285458968376111,0,6602,161144,True,defined

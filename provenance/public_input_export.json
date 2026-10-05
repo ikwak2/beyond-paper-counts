@@ -1,0 +1,14 @@
+{
+  "model_input_rows": 12094,
+  "calibration_coordinate_rows": 249,
+  "removed_identifier_columns": [
+    "entrant_id",
+    "author_key",
+    "author_name",
+    "author_pid"
+  ],
+  "preserved_row_order": true,
+  "numeric_and_categorical_source_cells_unchanged": true,
+  "model_input_source_sha256": "311e3a92057865bd00c96779d78ec35e6097bf1c4df4698dab1bab1aae309542",
+  "scope": "Direct identifiers removed; no assertion of irreversible anonymization. Frozen distances included; raw histories, names, titles and author links excluded."
+}

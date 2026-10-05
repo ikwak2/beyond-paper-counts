@@ -1,0 +1,211 @@
+﻿country_code,country_name,main_table_group,accepted_paper_credits_2018,accepted_share_2018,ai_output_credits_2018,output_share_2018,pri_2018,output_country_returned_2018,pri_status_2018,accepted_paper_credits_2024,accepted_share_2024,ai_output_credits_2024,output_share_2024,pri_2024,output_country_returned_2024,pri_status_2024
+AF,Afghanistan,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,26,0.000161346373429976,0,True,defined
+AL,Albania,Other countries,0,0,16,0.000184435914283409,0,True,defined,0,0,36,0.000223402670903043,0,True,defined
+DZ,Algeria,Other countries,0,0,358,0.00412675358209127,0,True,defined,0,0,489,0.003034552946433,0,True,defined
+AD,Andorra,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,3,1.86168892419203e-05,0,True,defined
+AO,Angola,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,2,1.24112594946135e-05,0,True,defined
+AG,Antigua and Barbuda,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,4,2.4822518989227e-05,0,True,defined
+AR,Argentina,Other countries,0,0,161,0.0018558863874768,0,True,defined,1,0.000151469251741896,189,0.00117286402224098,0.129144767739133,True,defined
+AM,Armenia,Other countries,0,0,20,0.000230544892854261,0,True,defined,1,0.000151469251741896,51,0.000316487117112645,0.47859531573914,True,defined
+AU,Australia,Core Anglophone,19,0.0129251700680272,1865,0.0214983112586598,0.601217924166986,True,defined,88,0.0133292941532869,3037,0.0188464975425706,0.707255771168015,True,defined
+AT,Austria,Other countries,7,0.00476190476190476,708,0.00816128920704084,0.583474576271186,True,defined,33,0.00499848530748258,889,0.00551680484535571,0.906047150043839,True,defined
+AZ,Azerbaijan,Other countries,0,0,47,0.000541780498207513,0,True,defined,0,0,100,0.000620562974730676,0,True,defined
+BS,Bahamas,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,3,1.86168892419203e-05,0,True,defined
+BH,Bahrain,Other countries,0,0,24,0.000276653871425113,0,True,defined,0,0,102,0.000632974234225289,0,True,defined
+BD,Bangladesh,Other countries,0,0,219,0.00252446657675416,0,True,defined,0,0,832,0.00516308394975922,0,True,defined
+BB,Barbados,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,2,1.24112594946135e-05,0,True,defined
+BY,Belarus,Other countries,0,0,40,0.000461089785708522,0,True,defined,0,0,79,0.000490244750037234,0,True,defined
+BE,Belgium,Other countries,4,0.00272108843537415,682,0.0078615808463303,0.346124842899036,True,defined,19,0.00287791578309603,797,0.00494588690860349,0.581880628546081,True,defined
+BJ,Benin,Other countries,0,0,5,5.76362232135653e-05,0,True,defined,0,0,16,9.92900759569081e-05,0,True,defined
+BM,Bermuda,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+BT,Bhutan,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,4,2.4822518989227e-05,0,True,defined
+BO,Bolivia,Other countries,0,0,7,8.06907124989914e-05,0,True,defined,0,0,17,0.000105495705704215,0,True,defined
+BA,Bosnia & Herzegovina,Other countries,0,0,34,0.000391926317852244,0,True,defined,0,0,68,0.000421982822816859,0,True,defined
+BW,Botswana,Other countries,0,0,16,0.000184435914283409,0,True,defined,0,0,23,0.000142729484188055,0,True,defined
+BR,Brazil,Other countries,4,0.00272108843537415,1745,0.0201150419015343,0.1352762996316,True,defined,7,0.00106028476219327,1806,0.011207367323636,0.094606050785644,True,defined
+VG,British Virgin Islands,Other countries,0,0,6,6.91634678562783e-05,0,True,defined,0,0,1,6.20562974730676e-06,0,True,defined
+BN,Brunei,Other countries,0,0,7,8.06907124989914e-05,0,True,defined,0,0,31,0.000192374522166509,0,True,defined
+BG,Bulgaria,Other countries,0,0,187,0.00215559474818734,0,True,defined,3,0.000454407755225689,254,0.00157622995581592,0.288287729559403,True,defined
+BF,Burkina Faso,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,14,8.68788164622946e-05,0,True,defined
+BI,Burundi,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,3,1.86168892419203e-05,0,True,defined
+CV,Cabo Verde,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,2,1.24112594946135e-05,0,True,defined
+KH,Cambodia,Other countries,0,0,9,0.000103745201784417,0,True,defined,0,0,47,0.000291664598123418,0,True,defined
+CM,Cameroon,Other countries,0,0,40,0.000461089785708522,0,True,defined,0,0,103,0.000639179863972596,0,True,defined
+CA,Canada,Core Anglophone,89,0.0605442176870748,2107,0.0242879044621964,2.49277239134857,True,defined,212,0.032111481369282,3374,0.020937794767413,1.5336611007029,True,defined
+KY,Cayman Islands,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,14,8.68788164622946e-05,0,True,defined
+CF,Central African Republic,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+TD,Chad,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,3,1.86168892419203e-05,0,True,defined
+CL,Chile,Other countries,2,0.00136054421768707,242,0.00278959320353656,0.487721369539551,True,defined,4,0.000605877006967586,276,0.00171275381025666,0.353744363807191,True,defined
+CN,China,China,109,0.0741496598639456,13391,0.15436133301057,0.480364210503857,True,defined,1868,0.282944562253862,38194,0.237017822568634,1.1937691401748,True,defined
+CO,Colombia,Other countries,0,0,242,0.00278959320353656,0,True,defined,0,0,250,0.00155140743682669,0,True,defined
+CG,Congo,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,1,6.20562974730676e-06,0,True,defined
+CR,Costa Rica,Other countries,0,0,14,0.000161381424997983,0,True,defined,0,0,29,0.000179963262671896,0,True,defined
+HR,Croatia,Other countries,0,0,121,0.00139479660176828,0,True,defined,1,0.000151469251741896,178,0.0011046020950206,0.13712562417245,True,defined
+CU,Cuba,Other countries,0,0,50,0.000576362232135653,0,True,defined,0,0,31,0.000192374522166509,0,True,defined
+CW,Curaçao,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,2,1.24112594946135e-05,0,True,defined
+CY,Cyprus,Other countries,0,0,70,0.000806907124989914,0,True,defined,0,0,152,0.000943255721590627,0,True,defined
+CZ,Czechia,Other countries,0,0,640,0.00737743657133635,0,True,defined,5,0.000757346258709482,588,0.00364891029141637,0.207554091009321,True,defined
+DK,Denmark,Other countries,6,0.00408163265306122,461,0.00531405978029072,0.7680818097304,True,defined,35,0.00530142381096637,753,0.00467283919972199,1.13451877635374,True,defined
+DJ,Djibouti,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+DM,Dominica,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+DO,Dominican Rep.,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,6,3.72337784838405e-05,0,True,defined
+CD,DR Congo,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,25,0.000155140743682669,0,True,defined
+EC,Ecuador,Other countries,0,0,123,0.00141785109105371,0,True,defined,0,0,168,0.00104254579754754,0,True,defined
+EG,Egypt,Other countries,0,0,467,0.005383223248147,0,True,defined,0,0,1001,0.00621183537705406,0,True,defined
+SV,El Salvador,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,6,3.72337784838405e-05,0,True,defined
+ER,Eritrea,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,4,2.4822518989227e-05,0,True,defined
+EE,Estonia,Other countries,0,0,76,0.000876070592846192,0,True,defined,1,0.000151469251741896,136,0.000843965645633719,0.179473243402178,True,defined
+SZ,Eswatini,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,7,4.34394082311473e-05,0,True,defined
+ET,Ethiopia,Other countries,0,0,33,0.000380399073209531,0,True,defined,0,0,128,0.000794320607655265,0,True,defined
+FO,Faroe Islands,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,0,0,,False,undefined_zero_observed_output
+FJ,Fiji,Other countries,0,0,8,9.22179571417044e-05,0,True,defined,0,0,10,6.20562974730676e-05,0,True,defined
+FI,Finland,Other countries,3,0.00204081632653061,426,0.00491060621779576,0.415593561368209,True,defined,24,0.00363526204180551,651,0.0040398649654967,0.899847413924282,True,defined
+FR,France,Other countries,56,0.0380952380952381,3530,0.0406911735887771,0.936203966005666,True,defined,138,0.0209027567403817,3825,0.0237365337834483,0.880615380960018,True,defined
+GF,French Guiana,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,4,2.4822518989227e-05,0,True,defined
+PF,French Polynesia,Other countries,0,0,5,5.76362232135653e-05,0,True,defined,0,0,1,6.20562974730676e-06,0,True,defined
+GA,Gabon,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+GM,Gambia,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,2,1.24112594946135e-05,0,True,defined
+GE,Georgia,Other countries,0,0,11,0.000126799691069844,0,True,defined,0,0,35,0.000217197041155736,0,True,defined
+DE,Germany,Other countries,54,0.036734693877551,3784,0.0436190937280262,0.842170039263063,True,defined,284,0.0430172674946986,5376,0.0333614655215211,1.28942979039541,True,defined
+GH,Ghana,Other countries,0,0,28,0.000322762849995965,0,True,defined,0,0,137,0.000850171275381026,0,True,defined
+GR,Greece,Other countries,1,0.000680272108843537,455,0.00524489631243444,0.129701726844584,True,defined,9,0.00136322326567707,767,0.00475971801618428,0.286408409288482,True,defined
+GL,Greenland,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+GD,Grenada,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+GP,Guadeloupe,Other countries,0,0,6,6.91634678562783e-05,0,True,defined,0,0,2,1.24112594946135e-05,0,True,defined
+GU,Guam,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,3,1.86168892419203e-05,0,True,defined
+GT,Guatemala,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,11,6.82619272203743e-05,0,True,defined
+GN,Guinea,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,2,1.24112594946135e-05,0,True,defined
+GW,Guinea-Bissau,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,0,0,,False,undefined_zero_observed_output
+GY,Guyana,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,4,2.4822518989227e-05,0,True,defined
+HT,Haiti,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+HN,Honduras,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,3,1.86168892419203e-05,0,True,defined
+HK,Hong Kong,Other countries,19,0.0129251700680272,620,0.00714689167848209,1.80850230414747,True,defined,204,0.0308997273553469,2023,0.0125539889788016,2.46134733808701,True,defined
+HU,Hungary,Other countries,0,0,254,0.00292792013924912,0,True,defined,0,0,441,0.00273668271856228,0,True,defined
+IS,Iceland,Other countries,0,0,21,0.000242072137496974,0,True,defined,0,0,37,0.00022960830065035,0,True,defined
+IN,India,India,12,0.00816326530612245,4423,0.0509850030547198,0.160111107522367,True,defined,32,0.00484701605574068,12200,0.0757086829171424,0.0640219307611702,True,defined
+ID,Indonesia,Other countries,0,0,4282,0.0493596615600973,0,True,defined,0,0,8956,0.0555776200168793,0,True,defined
+IR,Iran,Other countries,1,0.000680272108843537,1137,0.0131064771587647,0.0519035054655107,True,defined,4,0.000605877006967586,1216,0.00754604577272502,0.0802906615220268,True,defined
+IQ,Iraq,Other countries,0,0,188,0.00216712199283005,0,True,defined,0,0,900,0.00558506677257608,0,True,defined
+IE,Ireland,Core Anglophone,0,0,336,0.00387315419995159,0,True,defined,4,0.000605877006967586,567,0.00351859206672293,0.172193023652177,True,defined
+IM,Isle of Man,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+IL,Israel,Other countries,34,0.0231292517006803,616,0.00710078269991124,3.25728200371057,True,defined,95,0.0143895789154802,746,0.00462939979149084,3.10830335758195,True,defined
+IT,Italy,Other countries,23,0.0156462585034014,2210,0.0254752106603958,0.614175824175824,True,defined,70,0.0106028476219327,3726,0.023122176438465,0.458557508638951,True,defined
+CI,Ivory Coast,Other countries,0,0,10,0.000115272446427131,0,True,defined,0,0,8,4.96450379784541e-05,0,True,defined
+JM,Jamaica,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,10,6.20562974730676e-05,0,True,defined
+JP,Japan,Other countries,29,0.0197278911564626,3216,0.0370716187709652,0.53215618336887,True,defined,79,0.0119660708876098,4105,0.0254741101126942,0.469734598565894,True,defined
+JE,Jersey,Other countries,0,0,0,0,,False,undefined_zero_observed_output,3,0.000454407755225689,0,0,,False,undefined_zero_observed_output
+JO,Jordan,Other countries,0,0,294,0.00338900992495764,0,True,defined,0,0,629,0.00390334111105595,0,True,defined
+KZ,Kazakhstan,Other countries,0,0,84,0.000968288549987896,0,True,defined,0,0,273,0.00169413692101474,0,True,defined
+KE,Kenya,Other countries,0,0,30,0.000345817339281392,0,True,defined,0,0,88,0.000546095417762995,0,True,defined
+KI,Kiribati,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+XK,Kosovo,Other countries,0,0,9,0.000103745201784417,0,True,defined,0,0,18,0.000111701335451522,0,True,defined
+KW,Kuwait,Other countries,0,0,37,0.000426508051780383,0,True,defined,0,0,105,0.000651591123467209,0,True,defined
+KG,Kyrgyzstan,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,20,0.000124112594946135,0,True,defined
+LA,Laos,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,3,1.86168892419203e-05,0,True,defined
+LV,Latvia,Other countries,0,0,65,0.000749270901776348,0,True,defined,1,0.000151469251741896,85,0.000527478528521074,0.287157189443484,True,defined
+LB,Lebanon,Other countries,0,0,71,0.000818434369632627,0,True,defined,0,0,181,0.00112321898426252,0,True,defined
+LS,Lesotho,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,4,2.4822518989227e-05,0,True,defined
+LR,Liberia,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+LY,Libya,Other countries,0,0,12,0.000138326935712557,0,True,defined,0,0,50,0.000310281487365338,0,True,defined
+LI,Liechtenstein,Other countries,0,0,4,4.61089785708522e-05,0,True,defined,0,0,11,6.82619272203743e-05,0,True,defined
+LT,Lithuania,Other countries,0,0,48,0.000553307742850226,0,True,defined,0,0,100,0.000620562974730676,0,True,defined
+LU,Luxembourg,Other countries,0,0,130,0.0014985418035527,0,True,defined,7,0.00106028476219327,188,0.00116665839249367,0.908821955951452,True,defined
+MO,Macao,Other countries,0,0,96,0.00110661548570045,0,True,defined,8,0.00121175401393517,512,0.00317728243062106,0.381380642229627,True,defined
+MG,Madagascar,Other countries,0,0,8,9.22179571417044e-05,0,True,defined,0,0,10,6.20562974730676e-05,0,True,defined
+MW,Malawi,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,22,0.000136523854440749,0,True,defined
+MY,Malaysia,Other countries,1,0.000680272108843537,811,0.00934859540524029,0.0727673066760613,True,defined,0,0,1508,0.00935808965893859,0,True,defined
+MV,Maldives,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,5,3.10281487365338e-05,0,True,defined
+ML,Mali,Other countries,0,0,4,4.61089785708522e-05,0,True,defined,1,0.000151469251741896,4,2.4822518989227e-05,6.10209027567404,True,defined
+MT,Malta,Other countries,0,0,32,0.000368871828566818,0,True,defined,0,0,38,0.000235813930397657,0,True,defined
+MQ,Martinique,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,0,0,,False,undefined_zero_observed_output
+MR,Mauritania,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,13,8.06731867149878e-05,0,True,defined
+MU,Mauritius,Other countries,0,0,12,0.000138326935712557,0,True,defined,0,0,27,0.000167552003177282,0,True,defined
+MX,Mexico,Other countries,0,0,573,0.00660511118027458,0,True,defined,0,0,671,0.00416397756044283,0,True,defined
+FM,Micronesia,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+MD,Moldova,Other countries,0,0,11,0.000126799691069844,0,True,defined,0,0,25,0.000155140743682669,0,True,defined
+MC,Monaco,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,2,1.24112594946135e-05,0,True,defined
+MN,Mongolia,Other countries,0,0,12,0.000138326935712557,0,True,defined,0,0,52,0.000322692746859951,0,True,defined
+ME,Montenegro,Other countries,0,0,7,8.06907124989914e-05,0,True,defined,0,0,33,0.000204785781661123,0,True,defined
+MS,Montserrat,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,0,0,,False,undefined_zero_observed_output
+MA,Morocco,Other countries,0,0,365,0.00420744429459026,0,True,defined,0,0,701,0.00435014645286204,0,True,defined
+MZ,Mozambique,Other countries,0,0,9,0.000103745201784417,0,True,defined,0,0,11,6.82619272203743e-05,0,True,defined
+MM,Myanmar,Other countries,0,0,50,0.000576362232135653,0,True,defined,0,0,46,0.000285458968376111,0,True,defined
+NA,Namibia,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,11,6.82619272203743e-05,0,True,defined
+NP,Nepal,Other countries,0,0,41,0.000472617030351235,0,True,defined,0,0,192,0.0011914809114829,0,True,defined
+NL,Netherlands,Other countries,8,0.0054421768707483,1156,0.0133254948069763,0.408403361344538,True,defined,50,0.00757346258709482,1774,0.0110087871717222,0.687947043480726,True,defined
+NC,New Caledonia,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,2,1.24112594946135e-05,0,True,defined
+NZ,New Zealand,Core Anglophone,0,0,251,0.00289333840532098,0,True,defined,1,0.000151469251741896,350,0.00217197041155736,0.0697381745791319,True,defined
+NI,Nicaragua,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,8,4.96450379784541e-05,0,True,defined
+NE,Niger,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,6,3.72337784838405e-05,0,True,defined
+NG,Nigeria,Other countries,0,0,228,0.00262821177853858,0,True,defined,0,0,597,0.00370476095914213,0,True,defined
+NU,Niue,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+KP,North Korea,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,5,3.10281487365338e-05,0,True,defined
+MK,North Macedonia,Other countries,0,0,40,0.000461089785708522,0,True,defined,0,0,50,0.000310281487365338,0,True,defined
+NO,Norway,Other countries,1,0.000680272108843537,346,0.00398842664637872,0.17056151940545,True,defined,7,0.00106028476219327,691,0.00428809015538897,0.247262702921669,True,defined
+OM,Oman,Other countries,0,0,30,0.000345817339281392,0,True,defined,0,0,154,0.00095566698108524,0,True,defined
+PK,Pakistan,Other countries,1,0.000680272108843537,445,0.00512962386600731,0.132616372391653,True,defined,0,0,1114,0.00691307153849973,0,True,defined
+PW,Palau,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+PS,Palestine,Other countries,0,0,37,0.000426508051780383,0,True,defined,0,0,86,0.000533684158268381,0,True,defined
+PA,Panama,Other countries,0,0,6,6.91634678562783e-05,0,True,defined,0,0,6,3.72337784838405e-05,0,True,defined
+PG,Papua New Guinea,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,1,6.20562974730676e-06,0,True,defined
+PY,Paraguay,Other countries,0,0,6,6.91634678562783e-05,0,True,defined,0,0,16,9.92900759569081e-05,0,True,defined
+PE,Peru,Other countries,0,0,68,0.000783852635704488,0,True,defined,0,0,176,0.00109219083552599,0,True,defined
+PH,Philippines,Other countries,0,0,109,0.00125646966605572,0,True,defined,0,0,343,0.00212853100332622,0,True,defined
+PL,Poland,Other countries,2,0.00136054421768707,1069,0.0123226245230603,0.110410263263397,True,defined,13,0.00196910027264465,1120,0.00695030531698357,0.283311334227723,True,defined
+PT,Portugal,Other countries,0,0,596,0.00687023780705698,0,True,defined,5,0.000757346258709482,732,0.00454252097502855,0.166723778023881,True,defined
+PR,Puerto Rico,Other countries,0,0,16,0.000184435914283409,0,True,defined,0,0,41,0.000254430819639577,0,True,defined
+QA,Qatar,Other countries,0,0,114,0.00131410588926929,0,True,defined,0,0,196,0.00121630343047212,0,True,defined
+RO,Romania,Other countries,1,0.000680272108843537,346,0.00398842664637872,0.17056151940545,True,defined,0,0,430,0.00266842079134191,0,True,defined
+RU,Russia,Other countries,10,0.00680272108843537,1703,0.0196308976265403,0.346531331264156,True,defined,27,0.0040896697970312,2192,0.0136027404060964,0.300650433290509,True,defined
+RW,Rwanda,Other countries,0,0,8,9.22179571417044e-05,0,True,defined,0,0,34,0.00021099141140843,0,True,defined
+RE,Réunion,Other countries,0,0,9,0.000103745201784417,0,True,defined,0,0,9,5.58506677257608e-05,0,True,defined
+SM,San Marino,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,0,0,,False,undefined_zero_observed_output
+SA,Saudi Arabia,Other countries,2,0.00136054421768707,567,0.0065359477124183,0.208163265306122,True,defined,22,0.00333232353832172,1863,0.0115610882192325,0.288236148287341,True,defined
+SN,Senegal,Other countries,0,0,26,0.000299708360710539,0,True,defined,0,0,26,0.000161346373429976,0,True,defined
+RS,Serbia,Other countries,0,0,133,0.00153312353748084,0,True,defined,3,0.000454407755225689,225,0.00139626669314402,0.325444814702615,True,defined
+SC,Seychelles,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+SL,Sierra Leone,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,2,1.24112594946135e-05,0,True,defined
+SG,Singapore,Other countries,17,0.0115646258503401,817,0.00941775887309656,1.22795943346739,True,defined,188,0.0284762193274765,1782,0.0110584322097006,2.57506839916211,True,defined
+SX,Sint Maarten,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+SK,Slovakia,Other countries,0,0,156,0.00179825016426324,0,True,defined,1,0.000151469251741896,216,0.00134041602541826,0.113001671771741,True,defined
+SI,Slovenia,Other countries,0,0,157,0.00180977740890595,0,True,defined,1,0.000151469251741896,220,0.00136523854440749,0.110947095921346,True,defined
+SO,Somalia,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,8,4.96450379784541e-05,0,True,defined
+ZA,South Africa,Other countries,2,0.00136054421768707,226,0.00260515728925315,0.522250316055626,True,defined,2,0.000302938503483793,512,0.00317728243062106,0.0953451605574069,True,defined
+KR,South Korea,Other countries,27,0.0183673469387755,1207,0.0139133842837547,1.32012072434608,True,defined,228,0.0345349893971524,2920,0.0181204388621357,1.90585833267627,True,defined
+SS,South Sudan,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,1,6.20562974730676e-06,0,True,defined
+ES,Spain,Other countries,5,0.00340136054421769,1757,0.0202533688372468,0.167940482966095,True,defined,18,0.00272644653135414,2403,0.0149121282827781,0.182834165563267,True,defined
+LK,Sri Lanka,Other countries,0,0,90,0.00103745201784417,0,True,defined,2,0.000302938503483793,165,0.00102392890830561,0.295858922456923,True,defined
+KN,St. Kitts & Nevis,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,4,2.4822518989227e-05,0,True,defined
+SD,Sudan,Other countries,0,0,28,0.000322762849995965,0,True,defined,0,0,39,0.000242019560144964,0,True,defined
+SR,Suriname,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+SE,Sweden,Other countries,8,0.0054421768707483,624,0.00719300065705294,0.756593406593407,True,defined,35,0.00530142381096637,1068,0.00662761257012362,0.799899474339293,True,defined
+CH,Switzerland,Other countries,51,0.0346938775510204,858,0.0098903759034478,3.50784215784216,True,defined,188,0.0284762193274765,1242,0.00770739214615499,3.69466335531955,True,defined
+SY,Syria,Other countries,0,0,16,0.000184435914283409,0,True,defined,0,0,33,0.000204785781661123,0,True,defined
+ST,São Tomé & Príncipe,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,1,6.20562974730676e-06,0,True,defined
+TW,Taiwan,Other countries,2,0.00136054421768707,721,0.00831114338739611,0.163701208638795,True,defined,30,0.00454407755225689,1268,0.00786873851958497,0.57748488413319,True,defined
+TJ,Tajikistan,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,4,2.4822518989227e-05,0,True,defined
+TZ,Tanzania,Other countries,0,0,10,0.000115272446427131,0,True,defined,0,0,52,0.000322692746859951,0,True,defined
+TH,Thailand,Other countries,1,0.000680272108843537,344,0.00396537215709329,0.171553156146179,True,defined,0,0,514,0.00318969369011567,0,True,defined
+TL,Timor-Leste,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,1,6.20562974730676e-06,0,True,defined
+TG,Togo,Other countries,0,0,2,2.30544892854261e-05,0,True,defined,0,0,2,1.24112594946135e-05,0,True,defined
+TO,Tonga,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+TT,Trinidad & Tobago,Other countries,0,0,4,4.61089785708522e-05,0,True,defined,0,0,11,6.82619272203743e-05,0,True,defined
+TN,Tunisia,Other countries,0,0,293,0.00337748268031492,0,True,defined,0,0,322,0.00199821277863278,0,True,defined
+TR,Turkey,Other countries,1,0.000680272108843537,922,0.0106281195605814,0.0640068174775333,True,defined,4,0.000605877006967586,1731,0.010741945092588,0.0564029141598987,True,defined
+TM,Turkmenistan,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+TC,Turks & Caicos Islands,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,1,6.20562974730676e-06,0,True,defined
+UG,Uganda,Other countries,0,0,12,0.000138326935712557,0,True,defined,0,0,40,0.00024822518989227,0,True,defined
+UA,Ukraine,Other countries,0,0,385,0.00443798918744453,0,True,defined,0,0,577,0.003580648364196,0,True,defined
+AE,United Arab Emirates,Other countries,0,0,200,0.00230544892854261,0,True,defined,25,0.00378673129354741,1060,0.00657796753214516,0.575668893931513,True,defined
+GB,United Kingdom,Core Anglophone,108,0.073469387755102,3967,0.0457285794976427,1.60664049839749,True,defined,305,0.0461981217812784,5869,0.0364208409869434,1.26845291128341,True,defined
+US,United States,Core Anglophone,750,0.510204081632653,13567,0.156390128067688,3.26238035569502,True,defined,2201,0.333383823083914,19928,0.123665789604329,2.69584518200694,True,defined
+UY,Uruguay,Other countries,0,0,31,0.000357344583924105,0,True,defined,0,0,30,0.000186168892419203,0,True,defined
+VI,US Virgin Islands,Other countries,0,0,1,1.15272446427131e-05,0,True,defined,0,0,0,0,,False,undefined_zero_observed_output
+UZ,Uzbekistan,Other countries,0,0,10,0.000115272446427131,0,True,defined,0,0,207,0.0012845653576925,0,True,defined
+VU,Vanuatu,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+VA,Vatican City,Other countries,0,0,0,0,,False,undefined_zero_observed_output,0,0,0,0,,False,undefined_zero_observed_output
+VE,Venezuela,Other countries,0,0,31,0.000357344583924105,0,True,defined,0,0,32,0.000198580151913816,0,True,defined
+VN,Vietnam,Other countries,0,0,283,0.00326221023388779,0,True,defined,5,0.000757346258709482,685,0.00425085637690513,0.178163219727709,True,defined
+YE,Yemen,Other countries,0,0,42,0.000484144274993948,0,True,defined,0,0,108,0.00067020801270913,0,True,defined
+ZM,Zambia,Other countries,0,0,3,3.45817339281392e-05,0,True,defined,0,0,20,0.000124112594946135,0,True,defined
+ZW,Zimbabwe,Other countries,0,0,4,4.61089785708522e-05,0,True,defined,0,0,46,0.000285458968376111,0,True,defined

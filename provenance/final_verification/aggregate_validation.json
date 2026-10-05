@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "hashed_files": 183,
+  "data_csvs_checked": 55,
+  "manuscript_sample_counts": true,
+  "probability_arithmetic": true,
+  "44_specifications_and_8_bounds": true,
+  "table_mapping_targets_exist": true,
+  "generated_outputs_verified": true,
+  "scope": "Aggregate reproduction and frozen results; no person-level model refit"
+}

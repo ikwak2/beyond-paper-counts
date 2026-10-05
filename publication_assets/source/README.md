@@ -1,0 +1,1 @@
+This typography renderer is a source snapshot from the original analysis workspace. It needs the original aggregate inputs and retained pilot file; individual pilot rows are not redistributed. The final frozen vector figures are supplied in publication_assets/figures/. No statistical model is refit.
