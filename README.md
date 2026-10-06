@@ -2,7 +2,7 @@
 
 Code and supporting data for **Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024**.
 
-The repository contains country-level aggregates, model inputs with direct identifiers removed, supplementary tables, and publication figures. The submission archive is available on [Zenodo](https://doi.org/10.5281/zenodo.23161577) (version 1.0.1).
+The repository contains country-level aggregates, model inputs with direct identifiers removed, supplementary tables, and publication figures. The submission archive is available on [Zenodo](https://doi.org/10.5281/zenodo.23175869) (version 1.0.2).
 
 ## Run the analyses
 
@@ -52,8 +52,8 @@ The code is licensed under [MIT](LICENSE), with no additional restrictions on no
 
 ## Citation
 
-Ryu, Jungchan, and Kwak, Il-Youp (2026). *EPJ Data Science Analysis Code and Reproducibility Materials*. Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.23161577
+Ryu, Jungchan, and Kwak, Il-Youp (2026). *Code and supporting data for Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024*. Version 1.0.2. Zenodo. https://doi.org/10.5281/zenodo.23175869
 
 Release and citation instructions are provided in [docs/RELEASE.md](docs/RELEASE.md).
 
-This package updates Figure 2C and its renderer after Git commit `c64e693f5f4990154122b3d67961ba1801269e29`. Analysis inputs and frozen numerical results are unchanged.
+The Zenodo 1.0.2 archive corresponds to Git commit `9b8b962eddd87f7279504c3f59d8de34b230e90c` and includes the revised Figure 2C and renderer. Later documentation commits do not change this archived code version.

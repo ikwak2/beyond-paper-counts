@@ -1,6 +1,6 @@
 # Submission release and Zenodo archive
 
-The public repository has a manually deposited Zenodo archive, version 1.0.1: https://doi.org/10.5281/zenodo.23161577. The revised archive replaces Figure 1 and its renderer with the compact layout used in the final manuscript. Analysis inputs and frozen numerical results are unchanged. Upload the updated ZIP to the existing record using Zenodo’s file-edit workflow when available; otherwise create a new version and update the manuscript to its version DOI.
+The public repository has a manually deposited Zenodo archive, version 1.0.2: https://doi.org/10.5281/zenodo.23175869. Its code and assets correspond to Git commit `9b8b962eddd87f7279504c3f59d8de34b230e90c`. The archive includes the compact Figure 1 and the revised Figure 2C with distinct legend symbols and dark reference marks. Analysis inputs and frozen numerical results are unchanged. Later citation and documentation updates on main do not alter the archived code version or require a new archive.
 
 ## GitHub-to-Zenodo workflow
 

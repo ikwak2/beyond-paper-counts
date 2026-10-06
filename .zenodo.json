@@ -1,7 +1,7 @@
 {
-  "title": "Beyond paper counts: Code and supporting data",
+  "title": "Code and supporting data for Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024",
   "upload_type": "software",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Research code, frozen aggregate data, preserved country-level API responses, public model inputs with direct identifiers removed, calibration coordinates, and publication assets for Beyond Paper Counts. Model refits start from preserved distances. Missing work-level OpenAlex inputs and unrecorded SPECTER2 revisions limit upstream reproduction. Code is MIT; new numeric exports are CC0 1.0; upstream data retain their terms. See README for verification and execution commands.",
   "creators": [
     {
