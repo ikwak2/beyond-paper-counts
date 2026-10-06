@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this software when using the code and frozen aggregate data."
 type: software
 title: "Beyond paper counts: Code and supporting data"
-version: "v1.0.0"
+version: "1.0.1"
 authors:
   - family-names: Ryu
     given-names: Jungchan
@@ -13,4 +13,4 @@ authors:
 repository-code: "https://github.com/ikwak2/beyond-paper-counts"
 url: "https://github.com/ikwak2/beyond-paper-counts"
 license: MIT
-doi: "10.5281/zenodo.23160299"
+doi: "10.5281/zenodo.23161577"

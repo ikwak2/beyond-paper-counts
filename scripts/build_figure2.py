@@ -34,9 +34,9 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "outputs"
 YEAR = tuple(range(2018, 2025))
 PRIMARY = 'existing|conservative|top_full|ai_primary_peer_reviewed'
-HISTORY = OUT / 'pri_annual.csv'
+HISTORY = ROOT / 'outputs/pri_annual.csv'
 COUNTRY = ROOT / 'data/aggregate/accepted_country_credits.csv'
-CAPACITY = OUT / 'openalex_capacity.csv'
+CAPACITY = ROOT / 'outputs/openalex_capacity.csv'
 HELPER = ROOT / 'source/scripts/67_journal_korea_pri_v01.py'
 SUPP = ROOT / 'results/additional_files'
 DASHBOARD = SUPP / 'table_s9_pri_specification_dashboard.csv'
@@ -279,12 +279,14 @@ def main():
     for y, (_, r) in zip(ypos, ordered.iterrows()):
         c = COLOR[r.group]
         lo, hi = max(r.bound_low, xlo), min(r.bound_high, xhi)
-        axC.plot([lo, hi], [y + .17, y + .17], color='#9aa4ae', lw=4.5,
+        axC.plot([lo, hi], [y + .17, y + .17], color='#D1D6DB', lw=5.5,
                  solid_capstyle='butt', zorder=2)
         for value, edge, direction, tip in [(r.bound_low, xlo, -1, '<'), (r.bound_high, xhi, 1, '>')]:
             if (value - edge) * direction >= 0:
-                axC.plot([edge], [y + .17], marker=tip, color='#9aa4ae', markersize=5,
+                axC.plot([edge], [y + .17], marker=tip, color='#D1D6DB', markersize=5,
                          markeredgewidth=0, clip_on=False, zorder=4)
+        axC.plot([r.primary_change], [y + .17], marker='|', color='#515A64',
+                 markersize=10, markeredgewidth=1.5, zorder=5)
         axC.plot([r.observed_spec_low, r.observed_spec_high], [y - .17, y - .17], color=c, lw=4.5,
                  solid_capstyle='butt', alpha=.5, zorder=3)
         axC.plot([r.primary_change], [y - .17], marker='|', color=c, markersize=9,
@@ -302,9 +304,10 @@ def main():
     axC.set_title('C. Endpoint change and its sensitivity', loc='left', weight='bold', pad=5)
     handles = [Line2D([], [], color='#4b5563', marker='|', ls='none', markersize=9,
                       markeredgewidth=1.6, label='Primary specification'),
-               Line2D([], [], color='#4b5563', lw=4.5, alpha=.5, solid_capstyle='butt',
+               Line2D([], [], color=COLOR['China'], lw=4.5, alpha=.5, solid_capstyle='butt',
                       label='Range over 44 observed specifications'),
-               Line2D([], [], color='#9aa4ae', lw=4.5, solid_capstyle='butt',
+               Line2D([], [], color='#D1D6DB', lw=5.5, solid_capstyle='butt',
+                      marker='|', markeredgecolor='#515A64', markeredgewidth=1.5, markersize=10,
                       label='Denominator-missingness bound')]
     legC = axC.legend(handles=handles, frameon=False, loc='upper center', bbox_to_anchor=(.5, -.30),
                       ncol=1, handlelength=1.6, handletextpad=.5, labelspacing=.35)

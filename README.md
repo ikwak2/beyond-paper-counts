@@ -55,3 +55,5 @@ The code is licensed under [MIT](LICENSE), with no additional restrictions on no
 Ryu, Jungchan, and Kwak, Il-Youp (2026). *EPJ Data Science Analysis Code and Reproducibility Materials*. Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.23161577
 
 Release and citation instructions are provided in [docs/RELEASE.md](docs/RELEASE.md).
+
+This package updates Figure 2C and its renderer after Git commit `c64e693f5f4990154122b3d67961ba1801269e29`. Analysis inputs and frozen numerical results are unchanged.
