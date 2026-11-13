@@ -1,5 +1,7 @@
 # Reproducibility and source provenance
 
+For current manuscript figure-rendering and additional diagnostic materials, see the [supplementary bundle guide](../supplementary/README.md). Extract that bundle separately and follow its `REPRODUCTION.md`; the root-level commands and original-release provenance below concern v1.0.2. The additional utilities do not involve new outcome-model fits and are not contents of the v1.0.2 Zenodo deposit.
+
 The public model input supports model refits from frozen measurements. See README.md for the aggregate, model and final publication-figure commands. Original analysis source is retained for provenance; current execution uses the portable scripts.
 
 ## Data sources and dates

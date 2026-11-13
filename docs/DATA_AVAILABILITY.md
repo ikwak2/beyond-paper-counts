@@ -1,5 +1,7 @@
 # Data sources and available materials
 
+For the current manuscript's additional country comparisons, aggregate diagnostics, source hashes, and figure inputs, see the [supplementary bundle guide](../supplementary/README.md). That single download includes the original table ZIP and the complete country-comparison package. The additional materials are separate from Zenodo v1.0.2; the original-release inventory below remains applicable to that archived version.
+
 The repository distributes analysis inputs and frozen outputs supporting the manuscript. Source identifiers, collection dates and remaining limits are documented here so the paper can refer readers to the archive without repeating implementation details.
 
 ## Included data
