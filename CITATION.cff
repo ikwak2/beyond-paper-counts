@@ -1,8 +1,7 @@
 cff-version: 1.2.0
-message: "Please cite this software when using the code and frozen aggregate data."
+message: "Cite this repository at the Git commit used for the current supporting materials, and cite the original Zenodo v1.0.2 separately; see docs/RELEASE.md."
 type: software
 title: "Code and supporting data for Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024"
-version: "1.0.2"
 authors:
   - family-names: Ryu
     given-names: Jungchan
@@ -13,4 +12,3 @@ authors:
 repository-code: "https://github.com/ikwak2/beyond-paper-counts"
 url: "https://github.com/ikwak2/beyond-paper-counts"
 license: MIT
-doi: "10.5281/zenodo.23175869"

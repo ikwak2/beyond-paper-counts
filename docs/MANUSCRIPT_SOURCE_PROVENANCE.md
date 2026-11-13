@@ -1,3 +1,7 @@
-# Manuscript and current archive scope
+# Manuscript and archive scope
 
-The professor's shortened manuscript and Beyond_Paper_Count (6).pdf define the current manuscript. Figures retain frozen values with larger typography. Supplementary materials are Additional_file_1.pdf and Additional_file_2.zip. This archive additionally includes direct-identifier-free model input and calibration coordinates. Original frozen tables and source scripts are unchanged. The current README and reproducibility document describe the final public scope. No manuscript prose, estimates or interpretations were changed in preparing this archive.
+The original v1.0.2 archive preserves its analysis inputs, frozen results, source scripts and historical publication assets. PDFs under `publication_assets/` reflect that archived manuscript stage, not the current manuscript layout.
+
+The current manuscript uses additional descriptive diagnostics, country comparisons and revised figure materials supplied in the [supplementary reproducibility bundle](../supplementary/README.md). Its display crosswalk distinguishes current numbering from archived filenames. The current Supplementary Information PDF accompanies the manuscript.
+
+These additions do not involve new outcome-model fits. Original inputs, frozen estimates and inferential intervals remain preserved. See the root README and reproducibility documentation for current scope and reconstruction limits.

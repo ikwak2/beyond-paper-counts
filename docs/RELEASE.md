@@ -1,25 +1,32 @@
-# Submission release and Zenodo archive
+# Repository versions, citation, and archived materials
 
-The public repository has a manually deposited Zenodo archive, version 1.0.2: https://doi.org/10.5281/zenodo.23175869. Its code and assets correspond to Git commit `9b8b962eddd87f7279504c3f59d8de34b230e90c`. The archive includes the compact Figure 1 and the revised Figure 2C with distinct legend symbols and dark reference marks. Analysis inputs and frozen numerical results are unchanged. Later citation and documentation updates on main do not alter the archived code version or require a new archive.
+## Original archive and current materials
 
-## GitHub-to-Zenodo workflow
+The original analysis is deposited in [Zenodo version 1.0.2](https://doi.org/10.5281/zenodo.23175869), corresponding to Git commit `9b8b962eddd87f7279504c3f59d8de34b230e90c`. Later repository changes do not alter that deposit.
 
-1. After the owner makes the repository public, sign into Zenodo and enable its GitHub integration for `ikwak2/beyond-paper-counts`.
-2. Check the authors, title, actual release version, licenses and description in `.zenodo.json` and `CITATION.cff`. They describe the software and supporting data; no manuscript publication DOI is asserted.
-3. Create a GitHub release from the reviewed commit, using the chosen version tag. All intended data must be committed in the repository before this release. The reviewed model inputs, coordinates and publication assets are included here.
-4. Wait for Zenodo processing, inspect the archived files and record, and obtain the DOI for that specific version.
-5. Add the real DOI to `CITATION.cff`, the README citation section and the manuscript's BibTeX/Availability statement. Cite the specific submission version rather than silently pointing to a moving branch. Do not reuse the external ETO DOI as the study archive DOI.
+The public GitHub repository also supplies [the supplementary reproducibility bundle](../supplementary/README.md): current figure utilities, country comparisons, aggregate diagnostics and provenance. Its `archive_v1.0.2/` directory preserves the original files. Other directories contain later additions, not contents of the v1.0.2 deposit. These additions do not involve new outcome-model fits.
 
-Alternatively, upload the complete reviewed source archive manually to Zenodo. Use one chosen route for this submission so the same materials are not needlessly published as two unrelated records. Manual upload does not automatically fill its form from `.zenodo.json`.
+The revised Supplementary Information PDF accompanies the manuscript. Root `publication_assets/` PDFs are historical assets, not the current submission PDF. Use the bundle crosswalk for current numbering.
 
-Official instructions: https://help.zenodo.org/docs/github/archive-software/github-upload/ . The DOI is registered on publication, not merely by reserving it in a draft: https://help.zenodo.org/docs/deposit/create-new-upload/ .
+## Citation
 
-## Paper availability wording
+Cite the original archive and current repository separately:
 
-After an actual archive has been published, the paper can keep its access statement concise and cite the repository/archive using numbered BibTeX references. The essential limitations must remain accurate; detailed filters, fingerprints, filenames and reproduction instructions belong in the repository documentation.
+1. Ryu, Jungchan, and Kwak, Il-Youp (2026). *Code and supporting data for Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024*. Version 1.0.2. Zenodo. https://doi.org/10.5281/zenodo.23175869
+2. The same authors and title, GitHub repository, specifying the full Git commit used and actual access date. Link to `https://github.com/ikwak2/beyond-paper-counts/tree/<full-commit>`. Obtain the final commit with `git rev-parse HEAD` after changes are committed.
 
-Suggested starting sentence after publication:
+The root `CITATION.cff` describes the repository without assigning the old archive DOI or version to later additions. Add the selected commit to the manuscript reference. No new Zenodo DOI or formal release version is asserted for the current repository.
 
-> The code and supporting datasets are available in the Zenodo repository [archive reference].
+## Integrity
 
-Retain the original manuscript's essential scope limitation for the unavailable work-level inputs. Software/platform/language/license information must still meet the current journal instructions; shortening the statement is not a reason to omit required information.
+`provenance/release_manifest.json` retains the original file inventory with hashes updated for current repository contents; it excludes itself. When a listed file changes, update its hash using committed Git bytes, then run `python reproduce.py --check-only`. On Windows, LF/CRLF checkout conversion can affect raw hashes; use the documented Linux environment or export with `git -c core.autocrlf=false archive --format=zip HEAD` to check committed bytes.
+
+The supplementary ZIP is checked separately by `supplementary/SHA256SUMS.txt` and its internal manifests. Its original `archive_v1.0.2/` files are preserved unchanged. Current bundle documentation changes are described in the supplementary guide.
+
+## Optional future archive
+
+To archive the combined materials, create a new version of the existing Zenodo record or use GitHub–Zenodo integration for a reviewed release. Choose one route. Assign the actual new version, review `.zenodo.json` and `CITATION.cff`, and inspect all files before publishing. `.zenodo.json` currently describes the repository scope and deliberately omits a new version number.
+
+Use a new version-specific DOI only after that deposit is published. Do not relabel the original v1.0.2 DOI as including later additions.
+
+Official instructions: [GitHub archiving](https://help.zenodo.org/docs/github/archive-software/github-upload/) and [creating an upload](https://help.zenodo.org/docs/deposit/create-new-upload/).

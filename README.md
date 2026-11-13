@@ -4,7 +4,7 @@ Code and supporting data for **Beyond Paper Counts: Measuring Representation, En
 
 The repository contains country-level aggregates, model inputs with direct identifiers removed, supplementary tables, and publication figures. The original analysis archive is available on [Zenodo](https://doi.org/10.5281/zenodo.23175869) (version 1.0.2).
 
-## Current Scientific Reports supporting materials
+## Current manuscript supporting materials
 
 Download the [supplementary reproducibility bundle](supplementary/Supplementary_Data_reproducibility.zip) for the current manuscript's country comparisons, aggregate diagnostics, source hashes, display-to-code crosswalk, and figure-reproduction materials. See the [bundle guide](supplementary/README.md) for contents, offline commands, and limits.
 
@@ -63,6 +63,6 @@ The code is licensed under [MIT](LICENSE), with no additional restrictions on no
 
 Ryu, Jungchan, and Kwak, Il-Youp (2026). *Code and supporting data for Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024*. Version 1.0.2. Zenodo. https://doi.org/10.5281/zenodo.23175869
 
-Release and citation instructions are provided in [docs/RELEASE.md](docs/RELEASE.md).
+For the additional materials, also cite this GitHub repository at the fixed commit used. The Zenodo citation above identifies only the original archive. Release and citation instructions are provided in [docs/RELEASE.md](docs/RELEASE.md).
 
 The Zenodo 1.0.2 archive corresponds to Git commit `9b8b962eddd87f7279504c3f59d8de34b230e90c` and includes that release's revised Figure 2C and renderer. Subsequent repository updates, including the separately identified supplementary bundle, do not change the contents of that archived version.

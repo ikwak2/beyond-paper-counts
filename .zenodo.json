@@ -1,8 +1,7 @@
 {
   "title": "Code and supporting data for Beyond Paper Counts: Measuring Representation, Entry, and Persistence at ICML and NeurIPS, 2018–2024",
   "upload_type": "software",
-  "version": "1.0.2",
-  "description": "Research code, frozen aggregate data, preserved country-level API responses, public model inputs with direct identifiers removed, calibration coordinates, and publication assets for Beyond Paper Counts. Model refits start from preserved distances. Missing work-level OpenAlex inputs and unrecorded SPECTER2 revisions limit upstream reproduction. Code is MIT; new numeric exports are CC0 1.0; upstream data retain their terms. See README for verification and execution commands.",
+  "description": "Current GitHub supporting materials for Beyond Paper Counts: original analysis code and inputs, plus additional country comparisons, aggregate diagnostics, provenance and current figure utilities. The original analysis is archived as Zenodo version 1.0.2 (10.5281/zenodo.23175869); the later additions are not part of that deposit and do not involve new outcome-model fits. Missing work-level OpenAlex inputs and unrecorded SPECTER2 revisions limit upstream reconstruction. Code is MIT; numeric model-input and calibration exports are CC0 1.0; upstream data retain their terms. No new archive version is asserted here; assign the actual version when making a future deposit. See README and docs/RELEASE.md.",
   "creators": [
     {
       "name": "Ryu, Jungchan",

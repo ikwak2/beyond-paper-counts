@@ -2,7 +2,7 @@
 
 [Download Supplementary_Data_reproducibility.zip](Supplementary_Data_reproducibility.zip).
 
-This is the single supporting-data download for the current Scientific Reports manuscript. It preserves the supplied ZIP unchanged. Its checksum is recorded in [SHA256SUMS.txt](SHA256SUMS.txt). The bundle's internal manifest and SHA-256 list cover its 251 payload files, excluding the two manifest files themselves.
+This is the single supporting-data download for the current manuscript. Journal-specific wording has been removed from the country-data dictionary and its generator comments/generated heading; the bundle manifests were refreshed. The original archive, all scientific CSVs, figure assets and executable calculation logic are unchanged. Its checksum is recorded in [SHA256SUMS.txt](SHA256SUMS.txt). The bundle's internal manifest and SHA-256 list cover its 251 payload files, excluding the two manifest files themselves.
 
 ## What is included
 
@@ -10,12 +10,12 @@ This is the single supporting-data download for the current Scientific Reports m
 | --- | --- |
 | `archive_v1.0.2/` | 173 preserved files from the original release, including analysis inputs, results, scripts, and historical publication assets |
 | `archive_v1.0.2/publication_assets/Additional_file_2.zip` | The unchanged original supplementary table archive |
-| `data/country_comparison/` | All eight files from the separately packaged country-comparison ZIP, including selected-country and complete-country tables |
+| `data/country_comparison/` | The six data CSVs, source manifest, and updated dictionary from the country-comparison package, including selected-country and complete-country tables |
 | `data/author_checks/` and `data/provenance/` | Aggregate diagnostics, source hashes, and provenance evidence |
 | `data/display_source_code_map.csv` | Current display-to-input-and-code crosswalk |
 | `figures/`, `scripts/`, and `provenance_source/` | Current and retained figure assets, downstream utilities, and source-provenance code |
 
-There is no need to download `Additional_file_2.zip` or `Supplementary_Data_country_comparison.zip` separately. References inside the preserved bundle to those files being "separately supplied" describe the earlier submission packaging. The bundle already contains their full contents. Its internal files and manifests have not been rewritten for this hosting change.
+There is no need to download `Additional_file_2.zip` or `Supplementary_Data_country_comparison.zip` separately. References inside the preserved bundle to those files being "separately supplied" describe the earlier submission packaging. The bundle already contains their full contents. Only the neutral wording described above and the associated integrity manifests have been updated; the historical packaging references remain documented here.
 
 The original archive is also deposited at [Zenodo version 1.0.2](https://doi.org/10.5281/zenodo.23175869). The additional material outside `archive_v1.0.2/` is not part of that Zenodo version. These additions summarize frozen inputs and estimates and do not introduce new outcome-model fits.
 
